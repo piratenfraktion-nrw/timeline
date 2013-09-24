@@ -25,7 +25,9 @@ body {
 
 /* Custom page header */
 .header {
+    background-color: #ff8800;
     border-bottom: 1px solid #e5e5e5;
+    padding: 15px;
 }
 
 /* Make the masthead heading the same height as the navigation */
@@ -34,6 +36,8 @@ body {
     margin-bottom: 0;
     line-height: 40px;
     padding-bottom: 19px;
+    padding-left: 19px;
+    color: black;
 }
 
 /* Custom page footer */
