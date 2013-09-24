@@ -1,39 +1,1814 @@
 {
-    "timeline":
-    {
-        "headline":"The Main Timeline Headline Goes here",
-        "type":"default",
-        "text":"<p>Intro body text goes here, some HTML is ok</p>",
-        "asset": {
-            "media":"http://yourdomain_or_socialmedialink_goes_here.jpg",
-            "credit":"Credit Name Goes Here",
-            "caption":"Caption text goes here"
-        },
-        "date": [
-            {
-                "startDate":"2011,12,10",
-                "endDate":"2011,12,11",
-                "headline":"Headline Goes Here",
-                "text":"<p>Body text goes here, some HTML is OK</p>",
-                "tag":"This is Optional",
-                "classname":"optionaluniqueclassnamecanbeaddedhere",
-                "asset": {
-                    "media":"http://twitter.com/ArjunaSoriano/status/164181156147900416",
-                    "thumbnail":"optional-32x32px.jpg",
-                    "credit":"Credit Name Goes Here",
-                    "caption":"Caption text goes here"
-                }
-            }
-        ],
-        "era": [
-            {
-                "startDate":"2011,12,10",
-                "endDate":"2011,12,11",
-                "headline":"Headline Goes Here",
-                "text":"<p>Body text goes here, some HTML is OK</p>",
-                "tag":"This is Optional"
-            }
-
-        ]
-    }
+	"timeline": {
+		"headline": "Das haben Sie mich jetzt gefragt?",
+		"type": "default",
+		"tetx": "Eine Timeline mit Berichten, Fakten, Zitaten und Kommentaren zum größten Überwachungsskandal der Nachkriegsgeschichte. Wie ein Kollege so schön formuliert: eine Liste der Peinlichkeiten seit dem 6. Juni 2013. \n\n»Sprechblasen« sind Originalzitate von beteiligten Personen.\n\nIch bemühe mich, sowohl bei den EInträgen zu Fakten/Berichten als auch den Zitaten, Primärquellen zu verlinken bzw. diese zu zitieren.\n\n»Kommentare« sind als solche gekennzeichnet und stammen entweder von mir oder sind Medien entnommen.\n\nWeitere Erläuterungen zur Timeline findet Ihr auf http://www.achim-mueller.org/das-haben-sie-mich-jetzt-gefragt. Wenn Ihr die TL auf Eurer Webseite einbetten wollt, bitte kurzes Pingback an mich.",
+		"asset": {
+			"media": "http://cdn.dipity.com/uploads/timelines/86e8733f6e413dca214d91c933c93dfa_1M.png",
+			"credit": "insert timeline credit here",
+			"caption": "insert timeline caption here"
+		},
+		"date": [
+			{
+				"startDate": "2013,6,6,1,0",
+				"endDate": "2013,6,6,1,0",
+				"headline": "Verizons Telefondaten an die NSA",
+				"text": "Die britische  Tageszeitung <i>The Guardian</i> berichtet über die Weitergabe von Daten des US-Telefonanbieters Verizon an die NSA. Übermittelt werden Rufnummern, Standorte, Uhrzeit und Dauer der Gespräche von Millionen Telefonaten sowohl innerhalb als auch zwischen der U.S.A. und dem Ausland.\n\nReaktion Verizon: »\"We decline comment,\" said Ed McFadden, a Washington-based Verizon spokesman.«",
+				"asset": {
+					"media": "http://www.guardian.co.uk/world/2013/jun/06/nsa-phone-records-verizon-court-order",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/52960a9bec45beeb467234cbd88dcb5a_1M.png",
+					"credit": "http://www.guardian.co.uk/world/2013/jun/06/nsa-phone-records-verizon-court-order",
+					"caption": "Verizons Telefondaten an die NSA"
+				}
+			},
+			{
+				"startDate": "2013,6,6,11,0",
+				"endDate": "2013,6,6,11,0",
+				"headline": "Die PRISM-Präsentation",
+				"text": "Die Washington Post und The Guardian veröffentlichen die ersten vier Slides einer nach eigenen Angaben 41-seitigen Präsentation zum NSA-Programm »PRISM«. Am Programm beteiligt seien die Firmen AOL, Apple, Facebook, Google, Microsoft, PalTalk, Skype und YouTube. ",
+				"asset": {
+					"media": "http://www.washingtonpost.com/wp-srv/special/politics/prism-collection-documents/",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/7645545715986111cdee5b8539916364_1M.png",
+					"credit": "http://www.washingtonpost.com/wp-srv/special/politics/prism-collection-documents/",
+					"caption": "Die PRISM-Präsentation"
+				}
+			},
+			{
+				"startDate": "2013,6,6,15,0",
+				"endDate": "2013,6,6,15,0",
+				"headline": "Die U.S.-Regierung antwortet",
+				"text": "Die US-Regierung äußert sich zu den Vorwürfen bezüglich Verizon: »Laws governing such orders \"\"are something that have been in place for a number of years now\"\" and were vital for protecting national security.«",
+				"asset": {
+					"media": "http://www.guardian.co.uk/world/2013/jun/06/obama-administration-nsa-verizon-records",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": "http://www.guardian.co.uk/world/2013/jun/06/obama-administration-nsa-verizon-records",
+					"caption": "Die U.S.-Regierung antwortet"
+				}
+			},
+			{
+				"startDate": "2013,6,7,3,0",
+				"endDate": "2013,6,7,3,0",
+				"headline": "U.S.-Firmen nehmen Stellung",
+				"text": "Apple: »We have never heard of PRISM. We do not provide any government agency with direct access to our servers, and any government agency requesting customer data must get a court order.«\n\nFacebook: »We do not provide any government organization with direct access to Facebook servers, When Facebook is asked for data or information about specific individuals, we carefully scrutinize any such request for compliance with all applicable laws, and provide information only to the extent required by law.«\n\nYahoo: »We take users privacy very seriously. We do not provide the government with direct access to our servers, systems, or network.«",
+				"asset": {
+					"media": "http://www.reuters.com/article/2013/06/07/us-apple-nsa-idUSBRE9551EU20130607",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": "http://www.reuters.com/article/2013/06/07/us-apple-nsa-idUSBRE9551EU20130607",
+					"caption": "U.S.-Firmen nehmen Stellung"
+				}
+			},
+			{
+				"startDate": "2013,6,7,4,0",
+				"endDate": "2013,6,7,4,0",
+				"headline": "Ein Statement von Microsoft",
+				"text": "»REDMOND, Wash., June 6, 2013 - We provide customer data only when we receive a legally binding order or subpoena to do so, and never on a voluntary basis. In addition we only ever comply with orders for requests about specific accounts or identifiers. If the government has a broader voluntary national security program to gather customer data we don’t participate in it.«",
+				"asset": {
+					"media": "http://www.microsoft.com/en-us/news/Press/2013/Jun13/06-06statement.aspx",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": "http://www.microsoft.com/en-us/news/Press/2013/Jun13/06-06statement.aspx",
+					"caption": "Ein Statement von Microsoft"
+				}
+			},
+			{
+				"startDate": "2013,6,7,10,0",
+				"endDate": "2013,6,7,10,0",
+				"headline": "RPK: »...dass wir die Presseberichte gelesen haben«",
+				"text": "Lörges (Bundesinnenministerium): »Ich kann dazu im Moment nur sagen, dass wir die Presseberichte gelesen haben, dass wir im Moment einen Deutschlandbezug prüfen. Zu dem konkreten Sachverhalt kann ich im Moment nichts sagen, weil es eben um amerikanische Vorgänge auf amerikanischem Boden geht, also um die Anwendung von amerikanischem Recht.«\n\nRegierungssprecher Seibert: »Herr Lörges hat ja gerade für das Bundesinnenministerium gesagt, dass wir diese Berichte jetzt erst einmal zur Kenntnis nehmen und vor allem nun einmal gründlich überprüfen müssen, ob sie einen Deutschlandbezug haben, welchen Deutschlandbezug sie haben. Ich glaube, das sollten wir erst einmal tun. Wenn der US-Präsident in Berlin ist, dann liegen so viele Themen von weltpolitischer Bedeutung auf dem Tisch, die diese beiden anzusprechen haben, weil unsere sicherheitspolitischen, strategischen Interessen davon berührt sind und weil wir die meisten Themen überhaupt auch nur gemeinsam mit den Amerikanern lösen können, dass ich denke, dass das Vorrang haben wird. Aber ich will jetzt überhaupt nicht irgendwie begrenzende Aussagen über das machen, was die Bundeskanzlerin und der US-Präsident miteinander besprechen werden.«",
+				"asset": {
+					"media": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/06/2013-06-07-regpk.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/06/2013-06-07-regpk.html",
+					"caption": "RPK: »...dass wir die Presseberichte gelesen haben«"
+				}
+			},
+			{
+				"startDate": "2013,6,8,12,0",
+				"endDate": "2013,6,8,12,0",
+				"headline": "Kommentar",
+				"text": "1. Der Sprecher des Weißen Haus geht nicht auf die konkreten Vorwürfe des Guardian ein. Weder bestätigt, noch dementiert er sie. \n\n2. Es fällt auf, dass die Statements der betroffenen Untenehmen fast gleichlautend sind. Abgestritten wird ausschließlich der direkte Zugriff auf firmeneigene Server.\n\nAch ja, dann gibt's noch dieses <a href=http://www.washingtonpost.com/wp-srv/special/politics/prism-collection-documents/images/upstream-slide.jpg>Slide der Präsentation</a>, veröffentlicht am 10. Juli in der Washington Post.\n\nZitat: »Collection directly from the servers of these U.S. Service Providers: Microsoft, Yahoo, Google, Facebook, PalTalk, AOL, Skype, Youtube, Apple.«\n\nIn ähnlicher Form und leicht geschwärzt hatte der Guardian <a href=http://www.guardian.co.uk/world/2013/jun/08/nsa-prism-server-collection-facebook-google>die Folie bereits am 8. Juni gezeigt</a>.\n\n3. Und ... niemand(!) - weder die U.S.-Regierung, noch die NSA - bestreitet die Echtheit der veröffentlichten PRISM-Dokumente oder zweifelt diese an. Obwohl zu dem Zeitpunkt noch überhaupt nicht klar ist, wer sie geleakt hat.\n\n4. Und die Deutschen? Innenministerium und Regierungssprecher machen das, was Politiker schon immer gut konnten: Hinhalten, abwiegeln, herunterspielen. Nichts zugeben, was nicht bereits bewiesen ist.\n\nDie kommenden Ereignisse sprechen für sich.",
+				"asset": {
+					"media": null,
+					"thumbnail": "http://cdn.dipity.com/uploads/events/6993472acf20fc1d2b35c68a2a72477c_1M.png",
+					"credit": null,
+					"caption": "Kommentar"
+				}
+			},
+			{
+				"startDate": "2013,6,9,15,0",
+				"endDate": "2013,6,9,15,0",
+				"headline": "Edward Snowden Video Teil I",
+				"text": "The Guardian veröffentlicht ein Interview mit Edward Snowden vom 6.6.2013 in Hongkong. Hier der Link zur von Mitgliedern der Piratenpartei mit deutschen Untertiteln versehenen Version.",
+				"asset": {
+					"media": "http://www.youtube.com/watch?v=jBhMpF2JOS8",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/dc970c68fcd96563fbff9e406fb18a74_1M.png",
+					"credit": "http://www.youtube.com/watch?v=jBhMpF2JOS8",
+					"caption": "Edward Snowden Video Teil I"
+				}
+			},
+			{
+				"startDate": "2013,6,11,15,0",
+				"endDate": "2013,6,11,15,0",
+				"headline": "Eine Weltkarte der Überwachung",
+				"text": "The Guardian veröffentlich eine Weltkarte aus dem NSA-Programm »Boundless Informant«. Auf der Karte wird die Intensität der Überwachung und Informationsbeschaffung grafisch veranschaulicht. Deutschland wird demnach ebenso intensiv überwacht wie China, der Irak und die U.S.A. selbst.",
+				"asset": {
+					"media": "http://www.guardian.co.uk/world/2013/jun/08/nsa-boundless-informant-global-datamining",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/f020c4e754fecf87c4a0e80de0772b1a_1M.png",
+					"credit": "http://www.guardian.co.uk/world/2013/jun/08/nsa-boundless-informant-global-datamining",
+					"caption": "Eine Weltkarte der Überwachung"
+				}
+			},
+			{
+				"startDate": "2013,6,12,10,0",
+				"endDate": "2013,6,12,10,0",
+				"headline": "RPK: »Wir kennen ausführliche Presseberichte«",
+				"text": "Regierungssprecher Seibert: »Ich will noch einmal wiederholen, was wir hier in den letzten Tagen gesagt haben und was meines Erachtens auch das einzig sinnvolle Vorgehen ist: Wir kennen ausführliche Presseberichte, und die müssen nun überprüft werden. Wir müssen herausfinden, was wirklich geschehen ist.«\n\nSeibert:»...Wenn es bei den Veröffentlichungen über dieses Programm nicht auch irritierende Elemente gäbe, dann wäre es nicht notwendig, den Sachverhalt jetzt so gründlich aufzuklären, wie wir ihn aufklären wollen.«\n\nTeschke (Sprecher des Bundesinnenministeriums): »Wir haben den Vertreter an der amerikanischen Botschaft um eine zeitnahe Antwort gebeten, und wir haben die Unternehmen, die wir angeschrieben haben, um eine rasche Antwort gebeten.«",
+				"asset": {
+					"media": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/06/2013-06-12-regpk-breg.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/06/2013-06-12-regpk-breg.html",
+					"caption": "RPK: »Wir kennen ausführliche Presseberichte«"
+				}
+			},
+			{
+				"startDate": "2013,6,13,19,0",
+				"endDate": "2013,6,13,19,0",
+				"headline": "FBI: Ermittlungen gegen ein »Individuum«",
+				"text": "Bei einer Kongressanhörung in Washington erklärt FBI-Direktor Robert Mueller, dass das FBI mit Ermittlungen gegen Edward Snowden begonnen hat. Allerdings nennt er Snowden nicht beim Namen, sondern spricht nur von einer »Person«. (Quelle: Heise)",
+				"asset": {
+					"media": "http://www.heise.de/newsticker/meldung/PRISM-FBI-ermittelt-gegen-Edward-Snowden-1888274.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/2eb8ba3784ae8bd66112115c2724732b_1M.png",
+					"credit": "http://www.heise.de/newsticker/meldung/PRISM-FBI-ermittelt-gegen-Edward-Snowden-1888274.html",
+					"caption": "FBI: Ermittlungen gegen ein »Individuum«"
+				}
+			},
+			{
+				"startDate": "2013,6,14,4,0",
+				"endDate": "2013,6,14,4,0",
+				"headline": "»Tausende U.S.-Firmen kooperieren mit der NSA«",
+				"text": "Bloomberg berichtet, dass tausende Firmen aus den USA eng mit der NSA zusammenarbeiten. So würde zum Beispiel Microsoft Sicherheitslücken in seiner Software zunächst an den Geheimdienst melden. Die NSA habe somit die Möglichkeit, Schwachstellen in den auch ins Ausland vertriebenen Programmen auszunutzen.",
+				"asset": {
+					"media": "http://www.bloomberg.com/news/2013-06-14/u-s-agencies-said-to-swap-data-with-thousands-of-firms.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/b4a17ca1e9776a24904dabc36e587392_1M.png",
+					"credit": "http://www.bloomberg.com/news/2013-06-14/u-s-agencies-said-to-swap-data-with-thousands-of-firms.html",
+					"caption": "»Tausende U.S.-Firmen kooperieren mit der NSA«"
+				}
+			},
+			{
+				"startDate": "2013,6,17,10,0",
+				"endDate": "2013,6,17,10,0",
+				"headline": "RPK: »Dazu kann ich Ihnen nichts sagen«",
+				"text": "Eine Sammlung von Zitaten des stellvertretenden Regierungssprechers Streiter zum neuen BND-Programm:\n\n»Worüber wir jetzt sprechen, steht in keinem Zusammenhang mit dem, was wir aktuell unter dem Stichwort „PRISM“ diskutieren. Es geht hier vielmehr darum, die Fähigkeiten des BND im Bereich der Aufklärung von Angriffen gegen IT-Infrastrukturen, sogenannte Cyber-Attacken, auszubauen, um auf dem Stand der technischen Entwicklung zu bleiben.«\n\n»Die [100 Millionen Euro] kommentiere ich gar nicht, weil darüber noch gar nicht beschlossen worden ist.«\n\nund auf Nachfrage:\n\n»Ich habe davon schon einmal gehört. Das befindet sich aber alles noch im Reich der Überlegungen...Wie der Name schon sagt, arbeiten Geheimdienste im Geheimen. Aber ich sage einmal: Abwehr von Cyber-Attacken halte ich doch für relativ deutlich.«\n\nWieder nachgefragt: »Werden zu diesem Zweck auch E-Mails im Internet nach Schlüsselwörtern durchsucht und solche Dinge?«\n\n»Dazu kann ich Ihnen nichts sagen.«\n\nStreiter zur Frage »wenn die Bundesjustizministerin befürchtet, dass in andere Dimensionen vorgedrungen wird, was sagen Sie zu dieser Befürchtung der Bundesjustizministerin?«\n\n»Da könnte ich Sie beruhigen und sagen: Das ist offenbar nicht der Fall«\n\nAuf die Frage, ob der BND bereits Informationen zum angeblichen Ausspähen der Teilnehmer des G20-Gipfels 2009 in London habe:\n\n»Sollte es darüber Informationen geben, sind diese mir nicht bekannt.«\n",
+				"asset": {
+					"media": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/06/2013-06-17-regpk.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/06/2013-06-17-regpk.html",
+					"caption": "RPK: »Dazu kann ich Ihnen nichts sagen«"
+				}
+			},
+			{
+				"startDate": "2013,6,17,11,0",
+				"endDate": "2013,6,17,11,0",
+				"headline": "Anzahl Anfragen von U.S.-Sicherheitsbehörden",
+				"text": "Einige Unternehmen haben Zahlen zu den NSA-Anfragen veröffentlicht (Quelle: heise):\n\n<a href=http://www.heise.de/newsticker/meldung/Apple-veroeffentlicht-Zahlen-zu-US-Behoerdenanfragen-1890489.html>Apple</a>: 4.000 - 5.000 in den letzten sechs Monaten, etwa 10.000 Benutzer seien davon betroffen gewesen.\n\n<a href=http://www.heise.de/newsticker/meldung/Facebook-und-Microsoft-informieren-ein-wenig-ueber-NSA-Anfragen-1889165.html>Facebook</a>: 18.000 - 19.000 Benutzerkonten seien im 2. halbjahr 2012 betroffen gewesen\n\n<a href=http://www.heise.de/newsticker/meldung/Facebook-und-Microsoft-informieren-ein-wenig-ueber-NSA-Anfragen-1889165.html>Microsoft</a>: 31.000 - 32.000 Accountabfragen\n\nAbschließend noch der Verweis auf ein vom U.S.-Justizministerium <a href=http://www.fas.org/irp/agency/doj/fisa/2012rept.pdf>veröffentlichten Dokument</a>, in der die Anzahl der vom Foreign Intelligence Surveillance Court (FISC) genehmigten Anfragen genannt wird.",
+				"asset": {
+					"media": null,
+					"thumbnail": "http://cdn.dipity.com/uploads/events/7e475ab8f89ccf2a111e2dc684384eb9_1M.png",
+					"credit": null,
+					"caption": "Anzahl Anfragen von U.S.-Sicherheitsbehörden"
+				}
+			},
+			{
+				"startDate": "2013,6,17,12,0",
+				"endDate": "2013,6,17,12,0",
+				"headline": "Live Chat mit Edward Snowden",
+				"text": "In einem fünfstündigen, vom Guardian organisierten Live-Chat stellt sich Edward Snowden den Fragen der Leser. Unten der Original-Link, hier eine Zusammenfassung bei <a href= http://www.zeit.de/digital/datenschutz/2013-06/snowden-chat-nsa-guardian>Zeitonline</a>.",
+				"asset": {
+					"media": "http://www.guardian.co.uk/world/2013/jun/17/edward-snowden-nsa-files-whistleblower",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/5ea795b4a720c06204b8e491f9ae3fdf_1M.png",
+					"credit": "http://www.guardian.co.uk/world/2013/jun/17/edward-snowden-nsa-files-whistleblower",
+					"caption": "Live Chat mit Edward Snowden"
+				}
+			},
+			{
+				"startDate": "2013,6,17,22,0",
+				"endDate": "2013,6,17,22,0",
+				"headline": "ORF Interview mit ehem. Geheimdienstchef",
+				"text": "ZIB (ORF) hat ein Interview mit Gert-René Polli, dem ehemaligen Chef des Inlandsgeheimdiensts Österreichs geführt.\n\n(Polli) »Es wurde ja schon angesprochen, dass das Thema Wirtschaftsspionage zentral ist.«\n\n(Moderator) »Jetzt sagen viele europäische Politiker, bis hin zum deutschen Innenminister, sie haben vom Umfang von PRISM aus der Zeitung erfahren. Ist das glaubwürdig?«\n\n(Polli) »Nein! Absolut nicht... Nachrichtendienste machen nichts, auch nur einen Schritt, der also nicht politisch akkordiert ist. Das gilt für Österreich, das gilt für Russland, das gilt für die U.S.A. und das gilt umso mehr für Deutschland... Ich gehe davon aus, dass diese Programme bekannt waren. Wenn sie selbst in Österreich bekannt sind, müssen sie auch in Deutschland bekannt sein.«",
+				"asset": {
+					"media": null,
+					"thumbnail": "http://cdn.dipity.com/uploads/events/64d5b1f932e08c71e18325a160675fac_1M.png",
+					"credit": null,
+					"caption": "ORF Interview mit ehem. Geheimdienstchef"
+				}
+			},
+			{
+				"startDate": "2013,6,18,21,0",
+				"endDate": "2013,6,18,21,0",
+				"headline": "»Deutsche Regierung und BSI wussten Bescheid«",
+				"text": "Das ZDF-Magazin »Frontal 21« lässt in einem Bericht einen Geheimdienstexperten zu Wort kommen.\n\nErich Schmidt-Eenboom: »Der Anspruch ist eine totale Kontrolle der Telekommunikation auf der ganzen Welt. Um auf allen möglichen Aufklärungsfeldern, internationaler Terrorismus, aber auch Politik und Wirtschaft, Informationen für die Regierung bereitzustellen… Die Überraschung der Bundesregierung ist gespielt. Sowohl der Bundesnachrichtendienst (BND) als auch das Bundesamt für Sicherheit in der Informationstechnik sind sehr genau darüber unterrichtet, mit welchen Schwerpunkten, mit welchen Mitteln, mit welchem Ansatz die NSA Spionage betreibt. Damit sind auch die vorgesetzten Dienststellen, das heißt, das Bundeskanzleramt und der Bundesinnenminister, sehr genau unterrichtet worden.« (Minute 7:38)",
+				"asset": {
+					"media": "http://www.youtube.com/watch?v=1tpQHEBwcOs",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/4a346242da878fe3f5cf65907ad135a4_1M.png",
+					"credit": "http://www.youtube.com/watch?v=1tpQHEBwcOs",
+					"caption": "»Deutsche Regierung und BSI wussten Bescheid«"
+				}
+			},
+			{
+				"startDate": "2013,6,18,22,0",
+				"endDate": "2013,6,18,22,0",
+				"headline": "»3000 Tote, das hat die Rechnung verändert«",
+				"text": "Weitere Highlights aus dem Beitrag von <a href=http://www.youtube.com/watch?v=1tpQHEBwcOs>Frontal 21</a>:\n\nU.S.-Präsident Obama: »Wenn Sie U.S.-Bürger sind, darf unser militärischer Nachrichtendienst NSA Ihr Telefon nicht abhören und auch Ihre E-Mails nicht abfangen. Er darf das nicht und hat das auch nicht getan.« (1:04)\n\nDer ehemalige NSA-Direktor Michael Hayden im Sommer 2011: »Sehen Sie, es geht hier um Angemessenheit und Verhältnismäßigkeit…3000 Tote, das hat die Rechnung eben ein wenig verändert.« (4:28)",
+				"asset": {
+					"media": null,
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": null,
+					"caption": "»3000 Tote, das hat die Rechnung verändert«"
+				}
+			},
+			{
+				"startDate": "2013,6,21,19,0",
+				"endDate": "2013,6,21,19,0",
+				"headline": "Tempora wird aufgedeckt",
+				"text": "The Guardian veröffentlicht, dass der britische Geheimdienst »Government Communications Headquarters« (GCHQ) Internetknotenpunkte und Glasfaserkabel anzapfe, großflächig den weltweiten Datenverkehr überwache und für bis zu 30 Tage zwischenspeichere. Das Programm unter dem Namen »tempora« laufe seit etwa 18 Monaten.",
+				"asset": {
+					"media": "http://www.guardian.co.uk/uk/2013/jun/21/gchq-cables-secret-world-communications-nsa",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/f7421b70427a23c93cc4cddd2a53afc2_1M.png",
+					"credit": "http://www.guardian.co.uk/uk/2013/jun/21/gchq-cables-secret-world-communications-nsa",
+					"caption": "Tempora wird aufgedeckt"
+				}
+			},
+			{
+				"startDate": "2013,6,24,8,0",
+				"endDate": "2013,6,24,8,0",
+				"headline": "Reisepass annulliert",
+				"text": "Edward Snowden ist gestern von Honkong nach Moskau geflogen und hält sich seit dem dort im Transitbereich des Flughafens auf. Die U.S.-Regierung hatte mittlerweile, offensichtlich ohne Gerichtsverfahren und ohne Gründe anzugeben, seinen Reisepass für ungültig erklärt.",
+				"asset": {
+					"media": "http://www.zeit.de/politik/ausland/2013-06/snowden-flucht-hongkong-moskau-ecuador-usa",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/93d88f355ccdb858e531be6cd797533b_1M.png",
+					"credit": "http://www.zeit.de/politik/ausland/2013-06/snowden-flucht-hongkong-moskau-ecuador-usa",
+					"caption": "Reisepass annulliert"
+				}
+			},
+			{
+				"startDate": "2013,6,24,10,0",
+				"endDate": "2013,6,24,10,0",
+				"headline": "RPK: »Wir werden sehen, was alles noch bekannt wird.«",
+				"text": "Highlights aus der heutigen Regierungspressekonferenz:\n\nRegierungssprecher Seibert: »Die Bewertung der Rolle von Herrn Snowden müssen amerikanische Stellen vornehmen. Er war ein Mitarbeiter der National Security Agency. Also wird nach amerikanischem Recht beurteilt werden müssen, wie seine Rolle zu sehen ist.«\n\n»Eine Maßnahme namens „Tempora“ ist der Bundesregierung außer aus diesen Berichten erst einmal nicht bekannt...Das Bundesinnenministerium wird deshalb an die Partner in Großbritannien herantreten und versuchen, Aufklärung herzustellen.«\n\n»Wir werden sehen, was alles noch bekannt wird. Wir werden dann entsprechend reagieren. Aber vorher kann ich darüber ganz schlecht sprechen - das verstehen Sie.«\n\n»Das entspricht im Übrigen der engen Partnerschaft, die wir mit diesen Ländern haben.«\n\n»Es ist also alles für jedermann recherchierbar, nach welchen Grundsätzen der BND arbeitet.«\n\n»Wenn ich am Anfang gesagt habe, dass diese Maßnahme namens „Tempora“ der Bundesregierung bisher nicht bekannt ist, dann gilt das auch für nachrichtendienstliche Gliederungen.«\n\n»Die Frage, was Sie beunruhigen muss, müssen Sie, fürchte ich, selber beurteilen.«",
+				"asset": {
+					"media": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/06/2013-06-24-regpk.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/06/2013-06-24-regpk.html",
+					"caption": "RPK: »Wir werden sehen, was alles noch bekannt wird.«"
+				}
+			},
+			{
+				"startDate": "2013,6,26,21,0",
+				"endDate": "2013,6,26,21,0",
+				"headline": "»Drei dürre Zeilen reichen da nicht aus«",
+				"text": "Die britische Regierung hat auf eine Anfrage der Bundesregierung zu #Tempora geantwortet:\n\n»Wie Sie ja wissen, nehmen britische Regierungen grundsätzlich nicht öffentlich Stellung zu nachrichtendienstlichen Angelegenheiten.« London empfiehlt nun der Bundesregierung, als geeigneten Kanal für derartige bilaterale Gespräche »unsere Nachrichtendienste selbst« anzusprechen.\n\nJustizministerin Leutheuser-Schnarrenberger dazu: »Drei dürre Zeilen reichen da nicht aus.«",
+				"asset": {
+					"media": "http://www.tagesschau.de/inland/tempora100.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": "http://www.tagesschau.de/inland/tempora100.html",
+					"caption": "»Drei dürre Zeilen reichen da nicht aus«"
+				}
+			},
+			{
+				"startDate": "2013,6,28,10,0",
+				"endDate": "2013,6,28,10,0",
+				"headline": "RPK: »Das haben Sie mich jetzt gefragt?«",
+				"text": "Gegen Ende der Regierungspressekonferenz wurde folgende Frage gestellt:\n\n»Das Thema PRISM ist ja letzte Woche ausführlich behandelt worden, auch von der Kanzlerin. Aber ich wollte noch einmal darauf zurückkommen, weil es damals hieß, dass das alles Neuland wäre und die deutschen Behörden nicht unbedingt von diesen Ausspähungstechnologien oder -praxen der amerikanischen und britischen Behörden wussten.\n\nJetzt stellt sich aber heraus: Andere europäische Regierungen wussten davon. Sie wurden sogar in die Vereinigten Staaten eingeladen und haben sich da Diashows angeschaut, in denen ausführlich gezeigt wurde, wie das funktioniert und was da abgezapft wird. Waren vielleicht deutsche Behörden doch informiert, oder sind deutsche Behörden weniger informiert als beispielsweise ihre italienischen Gegenspieler?«\n\nDazu der stellvertretende Regierungssprecher Streiter: »Das haben Sie mich jetzt gefragt?«\n\nZusatz: »Ja. Oder das Innenministerium.«\n\nStreiter: »Also ich kann Ihnen dazu gar nichts sagen. Wir hatten eine Diskussion. Die Sache wird weiter verfolgt. - Zu allem anderen möchte ich lieber nichts sagen. «",
+				"asset": {
+					"media": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/06/2013-06-28-regpk.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/06/2013-06-28-regpk.html",
+					"caption": "RPK: »Das haben Sie mich jetzt gefragt?«"
+				}
+			},
+			{
+				"startDate": "2013,6,29,1,0",
+				"endDate": "2013,6,29,1,0",
+				"headline": "Abhören im Adenauer-Deutschland und in Neuland",
+				"text": "Der Bundestagskandidat der Piratenpartei  Markus Kompa schreibt bei Telepolis über Geheimverträge mit den westlichen Siegermächten zur Überwachung. Verträge, die bis heute in Kraft sind.",
+				"asset": {
+					"media": "http://www.heise.de/tp/artikel/39/39408/1.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/b9c14cbd92816b7c6f59ece7fad2bed0_1M.png",
+					"credit": "http://www.heise.de/tp/artikel/39/39408/1.html",
+					"caption": "Abhören im Adenauer-Deutschland und in Neuland"
+				}
+			},
+			{
+				"startDate": "2013,6,29,13,0",
+				"endDate": "2013,6,29,13,0",
+				"headline": "Neue PRISM-Folien - Echtzeitüberwachung",
+				"text": "Die <a href=http://www.washingtonpost.com/wp-srv/special/politics/prism-collection-documents>Washington Post</a> veröffentlicht vier weitere Folien aus der geleakten NSA-Präsentation. Daraus geht hervor, dass die NSA mit Hilfe von Schlüsselbegriffen das PRISM-Programm offensichtlich auch für Echtzeitüberwachung nutzen kann. ",
+				"asset": {
+					"media": "http://www.heise.de/newsticker/meldung/Bericht-PRISM-ueberwacht-in-Echtzeit-1908878.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/0d258f1085c83b59c3e1eafd76e92344_1M.png",
+					"credit": "http://www.heise.de/newsticker/meldung/Bericht-PRISM-ueberwacht-in-Echtzeit-1908878.html",
+					"caption": "Neue PRISM-Folien - Echtzeitüberwachung"
+				}
+			},
+			{
+				"startDate": "2013,6,29,16,0",
+				"endDate": "2013,6,29,16,0",
+				"headline": "EU-Vertretungen werden abgehört",
+				"text": "Laut Spiegel Online überwacht die NSA die Büros der EU-Vertretungen in Washington und späht auch deren IT aus.",
+				"asset": {
+					"media": "http://www.spiegel.de/netzwelt/netzpolitik/nsa-hat-wanzen-in-eu-gebaeuden-installiert-a-908515.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/8b9e59eab07197b2b4df1888651a736e_1M.png",
+					"credit": "http://www.spiegel.de/netzwelt/netzpolitik/nsa-hat-wanzen-in-eu-gebaeuden-installiert-a-908515.html",
+					"caption": "EU-Vertretungen werden abgehört"
+				}
+			},
+			{
+				"startDate": "2013,6,30,8,0",
+				"endDate": "2013,6,30,8,0",
+				"headline": "500 Millionen deutsche Verbindungsdaten",
+				"text": "Nach SPIEGEL-Informationen überwacht der US-Geheimdienst NSA jeden Monat rund eine halbe Milliarde Telefonate, E-Mails und SMS in Deutschland. An Spitzentagen seien es bis zu 60 Millionen Telefonate.",
+				"asset": {
+					"media": "http://www.spiegel.de/netzwelt/netzpolitik/nsa-ueberwacht-500-millionen-verbindungen-in-deutschland-a-908517.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/6c3a3c2838dc594e9239b8a5f8082488_1M.png",
+					"credit": "http://www.spiegel.de/netzwelt/netzpolitik/nsa-ueberwacht-500-millionen-verbindungen-in-deutschland-a-908517.html",
+					"caption": "500 Millionen deutsche Verbindungsdaten"
+				}
+			},
+			{
+				"startDate": "2013,6,30,21,0",
+				"endDate": "2013,6,30,21,0",
+				"headline": "Zahlreiche Botschaften verwanzt",
+				"text": "Offensichtlich werden zahlreiche Botschaften befreundeter Staaten in Washington von US-Geheimdiensten mit einer Vielzahl verschiedener Methoden belauscht. Zu den als \"Ziele\" bezeichneten Botschaften zählen die von Frankreich, Italien und Griechenland, außerhalb der EU die von Japan, Mexiko, Südkorea, Indien und der Türkei. Deutschland, Großbritannien und sonstige westeuropäische Staaten werden in dem Dokument aus dem Jahr 2010 nicht aufgeführt. Zu den Abhörmethoden zählen Wanzen in verschlüsselten Faxgeräten ebenso wie angezapfte Kabelverbindungen, Abhörantennen und sogar Implantate. Das Dokument deutet an, dass das Ziel dieser Abhöraktionen darin bestehe, Insider-Wissen über EU-interne politische Differenzen in global bedeutsamen und anderen Fragestellungen zwischen den EU-Mitgliedsstaaten zu erkunden.",
+				"asset": {
+					"media": "http://www.guardian.co.uk/world/2013/jun/30/nsa-leaks-us-bugging-european-allies",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/4d095d32920c9a5158c08f71648904a8_1M.png",
+					"credit": "http://www.guardian.co.uk/world/2013/jun/30/nsa-leaks-us-bugging-european-allies",
+					"caption": "Zahlreiche Botschaften verwanzt"
+				}
+			},
+			{
+				"startDate": "2013,7,1,10,0",
+				"endDate": "2013,7,1,10,0",
+				"headline": "RPK: »Hier ist kein Asylantrag bekannt.«",
+				"text": "Nach den Enthüllungen des vergangenen Wochenendes (Abhören von Botschaften und EU-Vertretungen, Spiegel-Bericht über die Aktivitäten der NSA in Deutschland) wird es wieder einmal Zeit, die Highlights der heutigen Regierungspressekonferenz zu listen. Diese PK ist übrigens in Gänze lesenswert und einen eigenen Bericht wert.\n\nRegierungssprecher Seibert: »Abhören von Freunden ist inakzeptabel. Das geht gar nicht. Wir sind nicht mehr im kalten Krieg.«\n\n»Auch andere Berichte, die sich mit dem massenhaften Zugriff auf die Daten deutscher Nutzer befassen, werden von der Bundesregierung sehr ernst genommen.«\n\n»Die Bundeskanzlerin hatte dieses Thema ja bereits sehr ausführlich mit dem amerikanischen Präsidenten Obama besprochen, als er hier in Berlin war.«\n\n»Dazu kann ich hier keine Stellung nehmen. Die Kanzlerin kommuniziert immer umsichtig.«\n\n»Der Bundesnachrichtendienst handelt auf Grundlage des Bundesnachrichtendienstgesetzes.«\n\n»Hier ist kein Asylantrag bekannt. Deswegen stellt sich diese Frage praktischerweise für die Bundesregierung nicht.«\n\n",
+				"asset": {
+					"media": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/07/2013-07-01-regpk.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/07/2013-07-01-regpk.html",
+					"caption": "RPK: »Hier ist kein Asylantrag bekannt.«"
+				}
+			},
+			{
+				"startDate": "2013,7,1,20,0",
+				"endDate": "2013,7,1,20,0",
+				"headline": "Kaum geht's an den eigenen Kragen...",
+				"text": "Fast drei Wochen haben wir von Regierungsvertretern ausschließlich hinhaltende Statements gehört. Kaum geht's an den eigenen Kragen, wird Seibert deutlicher. Na, liebe VDS- und BDA-Befürworter? Wie ist das denn so, wenn man selbst latent ausgespäht und überwacht wird?",
+				"asset": {
+					"media": "",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/6993472acf20fc1d2b35c68a2a72477c_1M.png",
+					"credit": "",
+					"caption": "Kaum geht's an den eigenen Kragen..."
+				}
+			},
+			{
+				"startDate": "2013,7,1,22,0",
+				"endDate": "2013,7,1,22,0",
+				"headline": "»We are stateless, imprisoned, or powerless.«",
+				"text": "Ein Statement von Edward Snowden, auf der Platform Wikileaks veröffentlicht. EIn Auszug:\n\n»In the end the Obama administration is not afraid of whistleblowers like me, Bradley Manning or Thomas Drake. We are stateless, imprisoned, or powerless. No, the Obama administration is afraid of you. It is afraid of an informed, angry public demanding the constitutional government it was promised — and it should be.«",
+				"asset": {
+					"media": "http://wikileaks.org/Statement-from-Edward-Snowden-in.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/2f2fb2911d83767ba54c7e2baf846bf3_1M.png",
+					"credit": "http://wikileaks.org/Statement-from-Edward-Snowden-in.html",
+					"caption": "»We are stateless, imprisoned, or powerless.«"
+				}
+			},
+			{
+				"startDate": "2013,7,2,2,0",
+				"endDate": "2013,7,2,2,0",
+				"headline": "Asylanträge in 21 Ländern",
+				"text": "Laut Wikileaks hat Edward Snowden bereits am 30. Juni in 21 Staaten politisches Asyl beantragt. Darunter befinden sich auch Deutschland, Frankreich, Irland, Island, Niederlande,  Italien, Norwegen, Österreich, Polen und Spanien.",
+				"asset": {
+					"media": "http://wikileaks.org/Edward-Snowden-submits-asylum.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/2f2fb2911d83767ba54c7e2baf846bf3_1M.png",
+					"credit": "http://wikileaks.org/Edward-Snowden-submits-asylum.html",
+					"caption": "Asylanträge in 21 Ländern"
+				}
+			},
+			{
+				"startDate": "2013,7,2,3,0",
+				"endDate": "2013,7,2,3,0",
+				"headline": "Boliviens Präsident muss in Wien landen",
+				"text": "Die Maschine des bolivianischen Präsidenten Evo Morales muss auf dem Rückflug von Moskau einen ungeplanten Zwischenstopp einlegen. Nach Angaben des Außenministers von Bolivien hätten Frankreich, Italien, Portugal (hier war eine Zwischenlandung zum Auftanken geplant) und Spanien einen Überflug verweigert. Angeblich vermutete man Edward Snowden in der Präsidentenmaschine. Morales' Zwangsaufenthalt in Wien dauerte über zwölf Stunden.",
+				"asset": {
+					"media": "http://www.zeit.de/politik/2013-07/snowdenmorales",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/6792c7e4d91098e4ead5a324bf01f702_1M.png",
+					"credit": "http://www.zeit.de/politik/2013-07/snowdenmorales",
+					"caption": "Boliviens Präsident muss in Wien landen"
+				}
+			},
+			{
+				"startDate": "2013,7,2,10,0",
+				"endDate": "2013,7,2,10,0",
+				"headline": "Internet-Austauschknoten De-CIX als Abhörziel",
+				"text": "Der BND und »andere Bedarfsträger« greifen am nach eigenen Angaben weltweit größten Internet-Austauschknoten De-CIX umfangreich Datenströme ab. Dies berichtet heise heute. ",
+				"asset": {
+					"media": "http://www.heise.de/newsticker/meldung/NSA-Abhoerskandal-PRISM-Internet-Austauschknoten-als-Abhoerziele-1909604.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/f5ed95a9a5c13e71eb142ea03a7373e5_1M.png",
+					"credit": "http://www.heise.de/newsticker/meldung/NSA-Abhoerskandal-PRISM-Internet-Austauschknoten-als-Abhoerziele-1909604.html",
+					"caption": "Internet-Austauschknoten De-CIX als Abhörziel"
+				}
+			},
+			{
+				"startDate": "2013,7,2,18,0",
+				"endDate": "2013,7,2,18,0",
+				"headline": "»Wir sind zu einem Eiertanz gezwungen.«",
+				"text": "Stellungnahmen zu den Vorwürfen, die NSA würde den größten deutschen Internetknotenpunkt De-CIX anzapfen:\n\n1) Bundesinnenminister Friedrich: »Wenn ein ausländischer Dienst den Internetknoten in Frankfurt anzapfen würde, wäre das eine Verletzung unserer Souveränitätsrechte« (<a href=http://www.sueddeutsche.de/politik/us-spionage-in-deutschland-friedrich-dementiert-ausspaehung-von-internetknoten-1.1710695>Sueddeutsche</a>)\n\n2) Der Vorsitzende der G10-Kommission Hans De With bestätigt dafür das Abhören durch deutsche Dienste: »Im Rahmen der strategischen Aufklärung werde durchschnittlich auf rund 5 Prozent des Datenverkehrs zugegriffen, die vereinbarte Obergrenze von 20 Prozent des Datenverkehrs werde fast nie ausgeschöpft.«  \n\nKlaus Landefeld, Vorstand Infrastruktur und Netze beim Interneptrovider-Verband eco: »Wie und in welchem Ausmaß deutsche Dienste auf die Datenströme in Frankfurt zugreifen, darüber darf der De-CIX laut dem Gesetz zur Beschränkung des Brief-, Post- und Fernmeldegeheimnisses (G10-Gesetz) keine Auskunft geben...Wie sollen De-CIX und eco reagieren, wenn solche Zahlen veröffentlicht werden? Wir sind zu einem Eiertanz gezwungen.« (<a href=http://www.heise.de/newsticker/meldung/Verfassungsschutz-Ausspaehprogramm-PRISM-war-nicht-bekannt-1910417.html>heise.de</a>)",
+				"asset": {
+					"media": null,
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": null,
+					"caption": "»Wir sind zu einem Eiertanz gezwungen.«"
+				}
+			},
+			{
+				"startDate": "2013,7,2,23,0",
+				"endDate": "2013,7,2,23,0",
+				"headline": "»Die Politik kann eigentlich nicht verwundert sein.«",
+				"text": "Der Pirat Daniel Domscheit-Berg und Geheimdienstexperte Elmar Theveßen bei Markus Lanz. Letzerer gibt übrigens gegen Ende der Sendung noch eine Wahlempfehlung ab ;-).",
+				"asset": {
+					"media": null,
+					"thumbnail": "http://cdn.dipity.com/uploads/events/b9c14cbd92816b7c6f59ece7fad2bed0_1M.png",
+					"credit": null,
+					"caption": "»Die Politik kann eigentlich nicht verwundert sein.«"
+				}
+			},
+			{
+				"startDate": "2013,7,3,10,0",
+				"endDate": "2013,7,3,10,0",
+				"headline": "Botschaft Ecuadors in London verwanzt",
+				"text": "Der ecuadorianische Außenminister teilt mit, dass in der Londoner Botschaft ein verstecktes Mikrofon gefunden worden sei. Ein Zusammenhang mit dem Aufenthalt von Julian Assange (Wikileaks) liegt auf der Hand.",
+				"asset": {
+					"media": "http://www.zeit.de/politik/ausland/2013-07/ecuador-botschaft-london-abgehoert",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/0136946ced3d0f997ddef01277a13601_1M.png",
+					"credit": "http://www.zeit.de/politik/ausland/2013-07/ecuador-botschaft-london-abgehoert",
+					"caption": "Botschaft Ecuadors in London verwanzt"
+				}
+			},
+			{
+				"startDate": "2013,7,3,10,0",
+				"endDate": "2013,7,3,10,0",
+				"headline": "RPK: »Deutschland ist ein Rechtsstaat«",
+				"text": "Auszüge der heutigen Regierungspressekonferenz:\n\nBeyer-Pollok (BMI) »Ein Asylantrag kann nur gestellt werden, wenn sich der Asylantragsteller in Deutschland befindet; er kann nicht vom Ausland aus gestellt werden. Darüber hinaus gibt es entsprechende Durchführungsverordnungen in den aufenthaltsrechtlichen Instrumentarien zu der Frage, ob eine Aufnahme aus politischen oder humanitären Gründen infrage kommt. Das ist geprüft worden, und diese Prüfungsschritte beinhalten Stellen des Auswärtigen Amtes und Stellen des Bundesinnenministeriums.«\n\nRegierungssprecher Seibert: »Deutschland ist ein Rechtsstaat, sowohl bei der Gewährung von Asyl als auch bei der Prüfung, ob es über das Asyl hinaus andere Gründe für eine Aufnahme geben könnte. Dieses ist nach Recht und Gesetz - das waren auch Ihre Worte - geprüft worden, und wir haben Ihnen das Ergebnis hier dargelegt.«",
+				"asset": {
+					"media": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/07/2013-07-03-regpk-breg.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/07/2013-07-03-regpk-breg.html",
+					"caption": "RPK: »Deutschland ist ein Rechtsstaat«"
+				}
+			},
+			{
+				"startDate": "2013,7,3,15,0",
+				"endDate": "2013,7,3,15,0",
+				"headline": "Zum abgelehnten Asylantrag",
+				"text": "Zum abgelehnten Asylantrag Snowdens:\n\nLaut Wikileaks vom 2. Juli hat Snowden seine Asylanträge am 30. Juni gestellt. In der Regierungspressekonferenz am 1. Juli teilte Seibert mit, dass ihm ein solcher Antrag nicht bekannt sei. Und bereits am 3. Juli war die deutsche Regierung in  der Lage, genau zu begründen, warum der nicht bekannte Asylantrag abgelehnt worden sei.\n\nDie Regierung Merkel hat Prioritäten gesetzt. Sie hat bewiesen, dass sie sich im Asylrecht besser als in unseren Grundrechten auskennt. Oder bei den Machenschaften der deutschen Geheimdienste. \n\nÜberhaupt haben sich die europäischen Länder nach dem Zwischenfall um Morales fast ein Rennen bezüglich der Ablehnung der Asylanträge geliefert.",
+				"asset": {
+					"media": null,
+					"thumbnail": "http://cdn.dipity.com/uploads/events/6993472acf20fc1d2b35c68a2a72477c_1M.png",
+					"credit": null,
+					"caption": "Zum abgelehnten Asylantrag"
+				}
+			},
+			{
+				"startDate": "2013,7,3,17,0",
+				"endDate": "2013,7,3,17,0",
+				"headline": "Dementis zur Luftraumsperrung",
+				"text": "Spanien und Frankreich haben zu den Vorwürfen bezüglich der Luftraumsperrung für die bolivianische Präsidentenmaschine  Stellung bezogen:\n\n<a href=www.spiegel.de/politik/ausland/frankreich-und-spanien-widersprechen-morales-bei-flug-eklat-a-909244.html>03.07.2013</a>: »Spanien wies den Vorwurf der bolivianischen Regierung zurück, der Maschine die Überflugrechte verweigert zu haben.«\n\n<a href=http://www.sueddeutsche.de/meinung/eklat-um-morales-flug-taktlos-undiplomatisch-peinlich-1.1711889>Ein Sprecher des französischen Außenministeriums erklärte</a>: \"Die Überflug-Genehmigung ist erteilt worden\"«",
+				"asset": {
+					"media": null,
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": null,
+					"caption": "Dementis zur Luftraumsperrung"
+				}
+			},
+			{
+				"startDate": "2013,7,4,1,0",
+				"endDate": "2013,7,4,1,0",
+				"headline": "In den U.S.A. wird auch Snailmail erfasst",
+				"text": " Laut New York TImes fotografiert und speichert der U.S. Postal Service jede Postsendung. Das Programm »Mail Isolation Control and Tracking« (MICT) habe allein im vergangenen Jahr 160 Milliarden Sendungen erfasst. Ds MICT sei 2001 ins Leben gerufen worden. Damals hatten mehrere U.S.-Politiker Briefe mit dem tödlichen Gift Anthrax erhalten. Die Speicherung von Absender- und Empfängerdaten sei in erster Linie für Strafverfolgungsbehörden gedacht.",
+				"asset": {
+					"media": "http://www.nytimes.com/2013/07/04/us/monitoring-of-snail-mail.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/3dfb982eba3cdb787d75b66cd0b4323a_1M.png",
+					"credit": "http://www.nytimes.com/2013/07/04/us/monitoring-of-snail-mail.html",
+					"caption": "In den U.S.A. wird auch Snailmail erfasst"
+				}
+			},
+			{
+				"startDate": "2013,7,4,18,0",
+				"endDate": "2013,7,4,18,0",
+				"headline": "Der französische Auslandsgeheimdienst spioniert die eigenen Bürger aus",
+				"text": "Nach einem Bericht der Tageszeitung Le Monde überwacht auch der französische Auslandsgeheimdienst die Kommunikation innerhalb des eigenen Landes. Der DGSE speichere E-Mails, SMS, Facebook- und Twitteraktivitäten. Es handele sich hierbei auch um illegale Eingriffe. Laut Le Monde haben andere französche Geheimdienste Zugriff auf die Daten.",
+				"asset": {
+					"media": "http://www.spiegel.de/politik/deutschland/auch-frankreichs-geheimdienst-zapft-massenhaft-daten-ab-a-909501.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/74d3294f2032ac6ed17ce62c532b03de_1M.png",
+					"credit": "http://www.spiegel.de/politik/deutschland/auch-frankreichs-geheimdienst-zapft-massenhaft-daten-ab-a-909501.html",
+					"caption": "Der französische Auslandsgeheimdienst spioniert die eigenen Bürger aus"
+				}
+			},
+			{
+				"startDate": "2013,7,4,22,0",
+				"endDate": "2013,7,4,22,0",
+				"headline": "»Der feuchte Traum der Stasi«",
+				"text": "Anke Domscheit-Berg zu Gast in Maibritt Illners Talkshow.",
+				"asset": {
+					"media": null,
+					"thumbnail": "http://cdn.dipity.com/uploads/events/b9c14cbd92816b7c6f59ece7fad2bed0_1M.png",
+					"credit": null,
+					"caption": "»Der feuchte Traum der Stasi«"
+				}
+			},
+			{
+				"startDate": "2013,7,4,23,0",
+				"endDate": "2013,7,4,23,0",
+				"headline": "»Wer nicht will, findet Gründe. Wer will, findet Wege.«",
+				"text": "Nur Stunden, nachdem Bundesinnenminister Friedrich den Eingang des Asylantrags von Edward Snowden bestätigte und eine sorgfältige Prüfung zusicherte, hat Deutschland diesen abgelehnt. In den nächsten Tagen folgen unter anderem Frankreich, Italien und Spanien. Diese drei Länder hatten am 2. Juli der bolivianischen Präsidentenmaschine den Überflug verwehrt, weil sie Edward Snowden in dem Flugzeug vermuteten.\n\nEinige Staaten zaubern zur Begründung formaljuristische Argumente aus dem Hut, andere verweisen auf Auslieferungsabkommen mit den U.S.A. oder nebulöse politische Standpunkte.\n\nKatharina Nocun, politische Geschäftsführerin der Piratenpartei dazu: »Ich schäme mich heute für unsere Regierung... Wer nicht will, findet Gründe. Wer will, findet Wege.«",
+				"asset": {
+					"media": "http://www.piratenpartei.de/2013/07/03/katharina-nocun-zu-asyl-ablehnung-fur-snowden-ich-schame-mich-fur-diese-regierung/",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/6993472acf20fc1d2b35c68a2a72477c_1M.png",
+					"credit": "http://www.piratenpartei.de/2013/07/03/katharina-nocun-zu-asyl-ablehnung-fur-snowden-ich-schame-mich-fur-diese-regierung/",
+					"caption": "»Wer nicht will, findet Gründe. Wer will, findet Wege.«"
+				}
+			},
+			{
+				"startDate": "2013,7,5,21,0",
+				"endDate": "2013,7,5,21,0",
+				"headline": "Dementis der Dementis",
+				"text": "Folgende Infos im Zusammenhang mit dem Affront gegen den bolivianischen Präsidenten Morales sprechen für sich selbst und bedürfen eigentlich keiner weiteren Kommentierung:\n\n1) <a href=http://www.zeit.de/politik/ausland/2013-07/bolivien-usa-snowden>03.07.2013</a> - Die U.S.A. hatte bereits einen Auslieferungsantrag für Edward Snowden an die bolivianische Regierung gestellt.\n\n2) <a href=http://www.sueddeutsche.de/politik/verweigerte-ueberflugrechte-fuer-morales-jet-frankreich-entschuldigt-sich-bei-bolivien-1.1712216>04.07.2013</a> - Nur einen Tag nach dem Dementi bittet Frankreichs Außenminister bei Bolivien um Entschuldigung für das »Missverständnis«.\n\n3) <a href=http://www.afp.com/de/node/997897>05.07.2013</a> - Laut afp vermutete Spanien Edward Snowden an Bord der Maschine und verweigerte dehalb den Überflug.\n\n4) <a href=http://www.zeit.de/politik/ausland/2013-07/snowden-morales-wien-zwangsstopp-ueberflug>16.07.2013</a> - 14 Tage(!) nach dem Vorfall hat sich nun auch Spanien in aller Form bei Präsident Morales entschuldigt.",
+				"asset": {
+					"media": null,
+					"thumbnail": "http://cdn.dipity.com/uploads/events/6993472acf20fc1d2b35c68a2a72477c_1M.png",
+					"credit": null,
+					"caption": "Dementis der Dementis"
+				}
+			},
+			{
+				"startDate": "2013,7,6,15,0",
+				"endDate": "2013,7,6,15,0",
+				"headline": "Katharina Nocun bei der SZ",
+				"text": "Ein Gastbeitrag von Katharina Nocun, politische Geschäftsführerin der Piratenpartei, in der Süddeutschen Zeitung. Für mich die Kernbotschaft: \n\n»Nicht das Internet ist ein rechtsfreier Raum, der überwacht gehört. Die Geheimdienste sind es. Nicht der Terrorismus ist die größte Bedrohung für die Demokratie. Es sind die Innenminister und Geheimdienst-Experten.«",
+				"asset": {
+					"media": "http://www.sueddeutsche.de/digital/ueberwachungsskandal-cyberwar-der-regierungen-gegen-ihre-buerger-1.1713200",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/b9c14cbd92816b7c6f59ece7fad2bed0_1M.png",
+					"credit": "http://www.sueddeutsche.de/digital/ueberwachungsskandal-cyberwar-der-regierungen-gegen-ihre-buerger-1.1713200",
+					"caption": "Katharina Nocun bei der SZ"
+				}
+			},
+			{
+				"startDate": "2013,7,7,8,0",
+				"endDate": "2013,7,7,8,0",
+				"headline": "NSA »unter einer Decke mit den Deutschen«",
+				"text": "Der Spiegel (Print) veröffentlicht u.a. ein Interview, das der amerikanischen Chiffrier-Experten Jacob Appelbaum und die Dokumentarfilmerin Laura Poitras per E-Mail mit Edward Snowden vor den ersten Enthüllungen geführt haben. Snowden bestätigt dort nicht nur die Verwicklung von deutschen Behörden und Politikern in das Überwachungssystem, sondern erwähnt auch, dass der Computervirus Stuxnet gemeinsam von der NSA und Israel entwickelt worden sei.",
+				"asset": {
+					"media": "http://www.spiegel.de/politik/ausland/interview-mit-edward-snowden-im-spiegel-nsa-und-bnd-arbeiten-zusammen-a-909800.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/93d0bac55aec8ce894e005a4ec6d46e3_1M.png",
+					"credit": "http://www.spiegel.de/politik/ausland/interview-mit-edward-snowden-im-spiegel-nsa-und-bnd-arbeiten-zusammen-a-909800.html",
+					"caption": "NSA »unter einer Decke mit den Deutschen«"
+				}
+			},
+			{
+				"startDate": "2013,7,7,9,0",
+				"endDate": "2013,7,7,9,0",
+				"headline": "»Bislang« (Der kleiner Unterschied)",
+				"text": "03.07.2013 Quelle: <a href=http://www.heise.de/newsticker/meldung/Verfassungsschutz-Ausspaehprogramm-PRISM-war-nicht-bekannt-1910417.html>heise/dpa</a>\n\n»Bundesinnenminister Hans-Peter Friedrich bekräftigte auf einer gemeinsamen Pressekonferenz mit Maaßen, der Bundesregierung lägen keinerlei Hinweise darauf vor, dass die USA Kommunikationsknoten in Deutschland angezapft oder gar Botschaften und Behörden abgehört hätten.«\n     \n07.07.2013: Quelle: <a href=www.spiegel.de/politik/ausland/interview-mit-edward-snowden-im-spiegel-nsa-und-bnd-arbeiten-zusammen-a-909800.html>Spiegel Online</a>\n\n»Eine erste Analyse ergab keine Klarheit, sagte der Präsident des Bundesamts für Verfassungsschutz (BfV), Hans-Georg Maaßen. \"Wir haben bislang keine Erkenntnisse, dass Internetknotenpunkte in Deutschland durch die NSA ausspioniert wurden\", sagte Maaßen dem SPIEGEL.«",
+				"asset": {
+					"media": null,
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png ",
+					"credit": null,
+					"caption": "»Bislang« (Der kleiner Unterschied)"
+				}
+			},
+			{
+				"startDate": "2013,7,8,10,0",
+				"endDate": "2013,7,8,10,0",
+				"headline": "RPK: Journalisten sind genervt",
+				"text": "Nach den Artikeln des <a href=http://www.spiegel.de/politik/ausland/interview-mit-edward-snowden-im-spiegel-nsa-und-bnd-arbeiten-zusammen-a-909800.html>aktuellen Spiegel</a> haben Journalisten natürlich viele Fragen. Zu der heutigen Regierungspressekonferenz gibt es hier keine Highlights. Das hat die <a href=http://www.taz.de/Regierung-informiert-ueber-NSA-Affaere-/!119599>taz</a> erledigt.",
+				"asset": {
+					"media": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/07/2013-07-08-regpk.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/07/2013-07-08-regpk.html",
+					"caption": "RPK: Journalisten sind genervt"
+				}
+			},
+			{
+				"startDate": "2013,7,8,20,0",
+				"endDate": "2013,7,8,20,0",
+				"headline": "Video Snowden Teil II",
+				"text": "Die britische Zeitung The Guardian veröffentlicht einen weiteren Ausschnitt des Interviews vom 6. Juni 2013 in Hongkong. Edward Snowden äußert sich hier zu den Motiven für seine Enthüllungen. Er sagt außerdem ziemlich präzise die kommenden Reaktionen der U.S.-Regierung voraus.",
+				"asset": {
+					"media": "http://www.guardian.co.uk/world/video/2013/jul/08/edward-snowden-video-interview",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/75a18e45b72ef8765271c4061cc9b124_1M.png",
+					"credit": "http://www.guardian.co.uk/world/video/2013/jul/08/edward-snowden-video-interview",
+					"caption": "Video Snowden Teil II"
+				}
+			},
+			{
+				"startDate": "2013,7,9,23,0",
+				"endDate": "2013,7,9,23,0",
+				"headline": "„Ich kann das nicht beantworten“",
+				"text": "Auch JournalistInnen werden der Sprechblasen langsam überdrüssig. Die taz-Redakteure Astrid Geisler und Ulrich Schulte sinnieren über die Bundespressekonferenz von Montag mit Staatssekretär Steffen Seibert. Wunderbar!",
+				"asset": {
+					"media": "http://www.taz.de/Regierung-informiert-ueber-NSA-Affaere-/!119599/",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/72d1e427d4c68497a63b0ad5407ee506_1M.png",
+					"credit": "http://www.taz.de/Regierung-informiert-ueber-NSA-Affaere-/!119599/",
+					"caption": "„Ich kann das nicht beantworten“"
+				}
+			},
+			{
+				"startDate": "2013,7,10,12,0",
+				"endDate": "2013,7,10,12,0",
+				"headline": "Eine alte oder neue Folie?",
+				"text": "Die Washington Post veröffentlicht eine neue Seite der PRISM-Präsentation.\n\nZitat: Collection directly from the servers of these U.S. Service Providers: Microsoft, Yahoo, Google, Facebook, PalTalk, AOL, Skype, Youtube, Apple.«\n\n[Update:] In ähnlicher Form und leicht geschwärzt hatte der Guardian diese Folie bereits am <a href=http://www.guardian.co.uk/world/2013/jun/08/nsa-prism-server-collection-facebook-google>8. Juni gezeigt</a>.",
+				"asset": {
+					"media": "http://www.washingtonpost.com/wp-srv/special/politics/prism-collection-documents/?hpid=z1",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/7cc3be01e3a40b7df1944934b4c71215_1M.png",
+					"credit": "http://www.washingtonpost.com/wp-srv/special/politics/prism-collection-documents/?hpid=z1",
+					"caption": "Eine alte oder neue Folie?"
+				}
+			},
+			{
+				"startDate": "2013,7,10,13,0",
+				"endDate": "2013,7,10,13,0",
+				"headline": "»Kein Vergleich mit der Stasi«",
+				"text": "Bundeskanzlerin Angela Merkel im Interview mit der Zeit: \n\n\"Für mich gibt es überhaupt keinen Vergleich zwischen der Staatssicherheit der DDR und der Arbeit der Nachrichtendienste in demokratischen Staaten. Das sind zwei völlig verschiedene Dinge, und solche Vergleiche führen nur zu einer Verharmlosung dessen, was die Staatssicherheit mit Menschen in der DDR angerichtet hat. Die Arbeit von Nachrichtendiensten in demokratischen Staaten war für die Sicherheit der Bürger immer unerlässlich und wird es auch in Zukunft sein. Ein Land ohne nachrichtendienstliche Arbeit wäre zu verletzlich.\"\n\n\"Seit langem ist es so, dass im Bundeskanzleramt ein Koordinator für die Nachrichtendienste des Bundes verantwortlich ist, entweder ein Staatsminister oder der Chef des Bundeskanzleramtes.\"",
+				"asset": {
+					"media": "http://www.zeit.de/politik/deutschland/2013-07/interview-zeit-merkel-nsa",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": "http://www.zeit.de/politik/deutschland/2013-07/interview-zeit-merkel-nsa",
+					"caption": "»Kein Vergleich mit der Stasi«"
+				}
+			},
+			{
+				"startDate": "2013,7,11,1,0",
+				"endDate": "2013,7,11,1,0",
+				"headline": "»Unter Freunden muss man Klartext reden können«",
+				"text": "Aus einem Interview des Bundesinnenminsters mit Spiegel Online:\n\n»Unter Freunden muss man Klartext reden können«\n\n»Andererseits sind die Behauptungen, die im Raum stehen, bislang wenig mit Fakten unterlegt.«\n\n»Es ärgert mich, dass man sofort und ohne genaue Kenntnis jede Verdächtigung gegen unseren amerikanischen Verbündeten in die Welt setzen kann. Das ist nicht fair.«",
+				"asset": {
+					"media": "http://www.spiegel.de/politik/deutschland/us-reise-friedrich-verspricht-klartext-zu-spaehaffaere-a-910469.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": "http://www.spiegel.de/politik/deutschland/us-reise-friedrich-verspricht-klartext-zu-spaehaffaere-a-910469.html",
+					"caption": "»Unter Freunden muss man Klartext reden können«"
+				}
+			},
+			{
+				"startDate": "2013,7,11,7,0",
+				"endDate": "2013,7,11,7,0",
+				"headline": "Friedrich reist in die U.S.A.",
+				"text": "Bundesinnenminister Friedrich reist heute zu »aufklärenden Gesprächen« in die U.S.A. Er trifft sich dort mit U.S.-Justizminister Eric Holder und Lisa Monac, der Anti-Terror-Beraterin von Präsident Barack Obama.",
+				"asset": {
+					"media": "http://www.zeit.de/politik/ausland/2013-07/friedirch-usa-reise-nsa",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/d51c33f1960b0d55c1071872717327e5_1M.png",
+					"credit": "http://www.zeit.de/politik/ausland/2013-07/friedirch-usa-reise-nsa",
+					"caption": "Friedrich reist in die U.S.A."
+				}
+			},
+			{
+				"startDate": "2013,7,11,15,0",
+				"endDate": "2013,7,11,15,0",
+				"headline": "Zwischenfazit",
+				"text": "Ich habe jetzt knapp drei Tage benötigt, Fakten und Zitate aus den letzten fünf Wochen zu sichten bzw. in Relation zueinander zu stellen. Meine Aufzählung ist mit 46 Einträgen zwar schon sehr umfangreich, aber bei weitem nicht vollzählig. Und ich befürchte, dass sie fortgesetzt werden muss. Was mir aus der bisherigen Arbeit am meisten im Gedächtnis haften blieb:\n\nDas Lesen der Protokolle der Regierungspressekonferenzen hat bei mir zunächst Zorn ausgelöst. Hinterher konnte ich nur noch lachen. Die PKs der letzten fünf Wochen mit Seibert und Konsorten liefern Stoff für ein abendfüllendes kabarettistisches Programm. Wenn der Anlass nur nicht so traurig wäre. Möglicherweise werde ich diese regelmäßig wiederkehrenden Berliner Possen noch einmal gesondert auseinandernehmen.\n\nIch habe den Eindruck gewonnen, dass Journalisten langsam auch wütend werden, und hoffe darauf, dass deren Sollbruchstelle bald erreicht ist.\n\nUnsere Regierung ist entweder ein Haufen unfähiger Schwachmaten, weil sie von all den Vorgängen nichts wusste. Oder sie belügt und betrügt ihr Volk, also uns, systematisch nach Strich und Faden.\n\nWas mich in den vergangenen Wochen am meisten enttäuscht hat, ist die scheinbare Lethargie der deutschen Bevölkerung. Es scheint kaum jemanden wirklich zu stören, dass er/sie/es nicht nur von Auslandsgeheimdiensten ausgespäht und überwacht wird. Was muss denn noch passieren?\n\nGestern Abend hat Glenn Greenwald in einem <a href=http://www.verpasst.de/sendung/88284/Zdf_Heute_Journal.html>Interview mit dem ZDF</a> weitere Enthüllungen angekündigt. Ich bin gespannt. ",
+				"asset": {
+					"media": null,
+					"thumbnail": "http://cdn.dipity.com/uploads/events/6993472acf20fc1d2b35c68a2a72477c_1M.png",
+					"credit": null,
+					"caption": "Zwischenfazit"
+				}
+			},
+			{
+				"startDate": "2013,7,11,20,0",
+				"endDate": "2013,7,11,20,0",
+				"headline": "»Prism is a team sport!«",
+				"text": "Die Tinte ist noch nicht ganz trocken auf dem letzten Kommentareintrag, da kommt der Guardian mit dem nächsten Knüller heraus:\n\nMicrosoft arbeite eng mit der NSA zusammen. Betroffen seien der Webmail- und Chatdienst outlook.com, skydrive und ... natürlich(!) Skype. In der Zusammenarbeit geht es im Prinzip bei all diesen Diensten wohl darum, die Verschlüsselung auszuhebeln und der NSA Zugriff auf die Inhalte zu ermöglichen.\n\nDer Guardian berichtet auch von einer Zusammenarbeit der NSA mit CIA und FBI. Die mit PRISM gewonnenen Daten würden regelmäßig mit diesen Diensten geteilt (»Prism is a team sport!\"«).\n\nWer des Englischen nicht so mächtig ist, <a href=https://netzpolitik.org/2013/prism-neue-snowden-enthullungen-zeigen-details-der-kollaboration-von-nsa-und-microsoft>netzpolitik.org</a> war am schnellsten.",
+				"asset": {
+					"media": "http://m.guardian.co.uk/world/2013/jul/11/microsoft-nsa-collaboration-user-data",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/b4a17ca1e9776a24904dabc36e587392_1M.png",
+					"credit": "http://m.guardian.co.uk/world/2013/jul/11/microsoft-nsa-collaboration-user-data",
+					"caption": "»Prism is a team sport!«"
+				}
+			},
+			{
+				"startDate": "2013,7,12,16,0",
+				"endDate": "2013,7,12,16,0",
+				"headline": "»I did what I believed right«",
+				"text": "Edward Snowden hat sich heute mit Vertretern verschiedener Menschenrechtsorganisationen im Transitbereich des Moskauer Flughafens getroffen. Wikileaks veröffentlichte anschließend ein Transcript seines Statements. Hier ein Auszug:\n\n»Accordingly, I did what I believed right and began a campaign to correct this wrongdoing. I did not seek to enrich myself. I did not seek to sell US secrets. I did not partner with any foreign government to guarantee my safety. Instead, I took what I knew to the public, so what affects all of us can be discussed by all of us in the light of day, and I asked the world for justice.\n\nThat moral decision to tell the public about spying that affects all of us has been costly, but it was the right thing to do and I have no regrets.«\n\nLaut Statement hat Snowden nun auch in Russland offiziell um Asyl gebeten.",
+				"asset": {
+					"media": "http://wikileaks.org/Statement-by-Edward-Snowden-to.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/2f2fb2911d83767ba54c7e2baf846bf3_1M.png",
+					"credit": "http://wikileaks.org/Statement-by-Edward-Snowden-to.html",
+					"caption": "»I did what I believed right«"
+				}
+			},
+			{
+				"startDate": "2013,7,12,21,0",
+				"endDate": "2013,7,12,21,0",
+				"headline": "RPK: »Verbal Note«",
+				"text": "Bundesinnenminister Friedrich ist zurück aus den U.S.A. Hier kein Zitat, sondern eine Information, die <a href=http://www.zeit.de/politik/ausland/2013-07/friedrich-usa-prism-nsa-treffen>Zeitonline</a> heute verbreitete:\n\n»Die Regierungen hätten unter anderem vereinbart, ein aus den 1960er Jahren stammendes Abkommen über den Einsatz der US-Geheimdienste auf deutschem Boden auszusetzen.«\n\nUnd hier ein Dialog aus der <a href=http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/07/2013-07-10-regpk.html>Regierungspressekonferenz vom 10.7.2013</a>. Jens Teschke ist übrigens Pressesprecher des Bundesinnenministeriums:\n\n»Meine zweite Frage geht auch an Sie, Herr Teschke: Es gibt eine „verbal note“ von 1968, durch die angeblich sämtliche Zugriffe auf Informationen in das deutsche Telekommunikationsnetzwerk (zu rechtfertigen sind), falls ein Befehlshaber, ein Nato-Partner, der Meinung ist, seine Truppen seien in Gefahr. Ich habe seit Montag versucht herauszufinden: Ist diese Verbalnote noch gültig?\n\nTeschke: Dann fange ich einmal von hinten an.\n\nWir haben eine ähnliche Frage ja schon einmal beantwortet - zuletzt 2012. Also die Verwaltungsvereinbarung, die aus dem Jahr 1968 stammt, ist zwar noch in Kraft, hat jedoch faktisch seit 1990, also seit der Wiedervereinigung, keine Bedeutung mehr. Es gab keine Anfragen der drei Westalliierten mehr. In dieser Verwaltungsvereinbarung ist eben vorgesehen, dass sich die drei Westalliierten im Falle einer solchen Maßnahme an die G10-Kommission wenden müssten. Das ist seit 1990 nicht mehr passiert.\n\nZusatzfrage: Mir hat jemand bei meinen Forschungen gesagt, dass diese „verbal note“ und diese Verwaltungsvereinbarung zwei unterschiedliche Sachen sind. Ich wollte wissen, ob das stimmt. Bedeutet das, dass auch die „verbal note“ seit 1990 nicht verwendet wurde?\n\nTeschke: Zur „verbal note“ kann ich Ihnen im Moment nichts Konkretes sagen, weil ich davon – ehrlich gesagt - keine Kenntnis habe.«",
+				"asset": {
+					"media": null,
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": null,
+					"caption": "RPK: »Verbal Note«"
+				}
+			},
+			{
+				"startDate": "2013,7,12,22,0",
+				"endDate": "2013,7,12,22,0",
+				"headline": "»Dieser edle Zweck...«",
+				"text": "Bundesinnenminister Friedrich in einem ZDF-Interview:\n\n\"Allerdings geht es dort [bei PRISM] sehr strikt gesetzlich geregelt um Terrorismus, um Proliferation - also um Verbreitung von Massenvernichtungswaffen - und um organisierte Kriminalität.\"\n\n\"Die Amerikaner haben auch darauf hingewiesen, dass weltweit 45 große Anschläge vermieden werden konnten, 25 davon in Europa, fünf in Deutschland.\"\n\n\"Dieser edle Zweck, Menschenleben in Deutschland zu retten, rechtfertigt zumindest, dass wir mit unseren amerikanischen Freunden und Partnern zusammenarbeiten, um zu vermeiden, dass Terroristen, dass Krimininelle in der Lage sind unseren Bürgern zu schaden.\"\n\nAuf die Frage, ob die NSA deutsche Gesetze gebrochen habe, wich der Minister wiederholt aus: \"Ich habe sehr klar gemacht, dass das für uns kein akzeptabler Vorgang wäre.\"",
+				"asset": {
+					"media": "http://www.heute.de/Friedrich-US-Sp%C3%A4hprogramm-hat-edlen-Zweck-28807084.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": "http://www.heute.de/Friedrich-US-Sp%C3%A4hprogramm-hat-edlen-Zweck-28807084.html",
+					"caption": "»Dieser edle Zweck...«"
+				}
+			},
+			{
+				"startDate": "2013,7,14,12,0",
+				"endDate": "2013,7,14,12,0",
+				"headline": "»Friedrich ist ein Mann der klaren Worte«",
+				"text": "Udo Vetter, bekannter Blogger, Rechtsanwalt und NRW-Bundestagskandidat für die Piratenpartei philosophiert über den »edlen Zweck«:\n\n»Eins muss man ihm lassen. Innenminister Hans-Peter Friedrich ist ein Mann der klaren Worte. Er schafft es mit einem Satz, sich klar außerhalb des geltenden Rechts zu positionieren. Und damit meine ich das Grundgesetz, die Europäische Menschenrechtskonvention und die Allgemeine Erklärung der Menschenrechte, welche die Vereinten Nationen im Jahr 1948 verabschiedet haben...«",
+				"asset": {
+					"media": "http://www.lawblog.de/index.php/archives/2013/07/14/der-edle-zweck/",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/6993472acf20fc1d2b35c68a2a72477c_1M.png",
+					"credit": "http://www.lawblog.de/index.php/archives/2013/07/14/der-edle-zweck/",
+					"caption": "»Friedrich ist ein Mann der klaren Worte«"
+				}
+			},
+			{
+				"startDate": "2013,7,15,1,0",
+				"endDate": "2013,7,15,1,0",
+				"headline": "BND war informiert?",
+				"text": "Laut Informationen der BILD-Zeitung weiß der BND seit Jahren, dass die NSA deutsche Telefon- und Internetkommunikation überwache. Die Zeitung berichtet auch darüber, dass die NSA ausgespähte Inhalte nach drei bis sechs Monaten lösche, die Metadaten jedoch dauerhaft speichere.\n\nBild zitiert einen Regierungssprecher: „Es ist bekannt, dass es zwischen den deutschen Nachrichtendiensten und US-Diensten eine langjährige Kooperation gibt. Zu Einzelheiten dieser Kooperation nimmt die Bundesregierung in der Öffentlichkeit nicht Stellung, sondern nur vor dem dazu eingerichteten Parlamentarischen Kontrollgremium.“",
+				"asset": {
+					"media": "http://www.bild.de/politik/ausland/bnd/auch-der-bnd-nutzte-die-geheimen-nsa-daten-31306138.bild.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/58434130c048606588c64473581b7254_1M.png",
+					"credit": "http://www.bild.de/politik/ausland/bnd/auch-der-bnd-nutzte-die-geheimen-nsa-daten-31306138.bild.html",
+					"caption": "BND war informiert?"
+				}
+			},
+			{
+				"startDate": "2013,7,15,13,0",
+				"endDate": "2013,7,15,13,0",
+				"headline": "Friedensnobelpreis für Snowden?",
+				"text": "Der schwedische Soziologie-Professor Stefan Svallfors hat Edward Snowden für den Friedensnobelpreis vorgeschlagen. In einem Brief an das norwegische Komitee lobt er den Whistleblower für seinen “heroic effort at great personal cost.”\n\nEr führt weiter aus: “This example is important because since the Nuremberg trials in 1945 has been clear that the slogan ‘I was just following orders’ is never claimed as an excuse for acts contrary to human rights and freedoms.”",
+				"asset": {
+					"media": "http://rt.com/news/snowden-nominated-nobel-peace-099/",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/07ba51937fa4c9f1987666b3da6ed053_1M.png",
+					"credit": "http://rt.com/news/snowden-nominated-nobel-peace-099/",
+					"caption": "Friedensnobelpreis für Snowden?"
+				}
+			},
+			{
+				"startDate": "2013,7,15,18,0",
+				"endDate": "2013,7,15,18,0",
+				"headline": "RPK: »Große Anschläge« relativieren sich",
+				"text": "Das offizielle Protokoll der heutigen Regierungspressekonferenz ist leider noch nicht online. Aber hier schon mal zwei Highlights daraus (Quelle: <a href=http://www.spiegel.de/politik/deutschland/innenminister-friedrich-geraet-in-die-defensive-a-911232.html>Spiegel Online</a>):\n\nEin Sprecher des BMI: \"Wir hätten vor fünf konkreten Terroranschlägen gestanden, das wäre sicherlich die falsche Botschaft.\"\n\n\"Es geht eben darum, dass in fünf Fällen entsprechende Informationen von Prism hilfreich dabei gewesen sind, überhaupt und möglicherweise auch schon in einem sehr frühen Stadium entsprechende Ausführungen zu verhindern.\"\n\nUnd einmal <a href=http://www.sueddeutsche.de/politik/geheimdiensterkenntnisse-durch-prism-anschlagsplaene-die-keine-waren-1.1721889>Süddeutsche Online</a>:\n\nRegierungssprecher Seibert: \"Wir sind hier sicherlich am Anfang eines Aufklärungsprozesses.\"",
+				"asset": {
+					"media": null,
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": null,
+					"caption": "RPK: »Große Anschläge« relativieren sich"
+				}
+			},
+			{
+				"startDate": "2013,7,15,20,0",
+				"endDate": "2013,7,15,20,0",
+				"headline": "RPK: Das »BSI für Bürger« wird's richten",
+				"text": "Aus der heutigen Regierungspressekonferenz:\n\nRegierungssprecher Seibert: »Sie wissen doch, dass eine Reihe von Berichten im Umlauf sind, die uns doch überhaupt erst dazu bringen, uns dieses Themas nun so gründlich anzunehmen. Diese Berichte müssen jetzt überprüft werden. Wenn diese Berichte voll zuträfen, dann müsste man wohl davon ausgehen, dass die deutschen Gesetze nicht eingehalten werden. Wir sind jetzt dabei, herauszufinden, ob sie zutreffen und in welchem Maße sie zutreffen.«\n\n»Vielleicht ist es an dieser Stelle einmal Zeit, auf einen Bürgerdienst hinzuweisen, den das schon mehrfach erwähnte Bundesamt für Sicherheit in der Informationstechnik vorhält. Dieser nennt sich „BSI für Bürger“. Es gibt zahlreiche nützliche Tipps und Hinweise für einen sicheren Umgang mit dem Netz. Ich könnte mir vorstellen, dass das in diesen Tagen viele Bürger auch interessiert.«\n\nSpauschus (Sprecher BMI): »Es ist so, dass in einem ersten Schritt in der Tat Verkehrsdaten flächendeckend erfasst werden, sogenannte Metadaten...Es findet keine anlasslose flächendeckende Überwachung von Inhaltsdaten statt.«\n\n»Es wurde auf der anderen Seite zugesagt, dass auch keine wechselseitige Beauftragung beziehungsweise Arbeitsteilung der Nachrichtendienste zum Ausspähen der jeweils eigenen Staatsbürger erfolgt. Das heißt, es ist insofern keine Umgehung der in Deutschland geltenden Regelungen.«\n\nWieduwilt (Sprecher BMJ) »Es gibt sicherlich in gewisser Weise gegenläufige Interessen, da einer der Grundsätze im deutschen Datenschutzrecht die Datensparsamkeit ist und es generell eines der Ziele von datenverarbeitenden Unternehmen ist, viele Daten zu bekommen. Ich würde jetzt aber nicht von einem grundsätzlichen Rechtskonflikt sprechen; damit bin ich auch schlicht überfragt. Aber es gibt diese gegenläufigen Interessen.«",
+				"asset": {
+					"media": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/07/2013-07-15-regpk.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/07/2013-07-15-regpk.html",
+					"caption": "RPK: Das »BSI für Bürger« wird's richten"
+				}
+			},
+			{
+				"startDate": "2013,7,15,23,0",
+				"endDate": "2013,7,15,23,0",
+				"headline": "»Es muss jetzt alles auf den Tisch«",
+				"text": "Josef Foschepoth, Historiker der Universität Freiburg äußert sich in den ARD-Tagesthemen:\n\n»Es gibt eine rechtliche und völkerrechtlich verbindliche Grundlage engster Zusammenarbeit nicht nur für die Nachrichten- und Geheimdienste, sondern selbstverständlich auch für diese Bundesregierung, die die Dienste natürlich steuern müssen.\n\n»Es muss jetzt alles auf den Tisch, die verschiedenen Verträge...und auf den alliierten Einfluss geprüft werden und dann dringend beseitigt werden.«\n\n(Josef Foschepoth ist Autor des Buchs »Überwachtes Deutschland«).",
+				"asset": {
+					"media": "http://www.tagesschau.de/multimedia/video/video1320436.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/289e42715e61c7e56e476de0e68d3dcb_1M.png",
+					"credit": "http://www.tagesschau.de/multimedia/video/video1320436.html",
+					"caption": "»Es muss jetzt alles auf den Tisch«"
+				}
+			},
+			{
+				"startDate": "2013,7,16,14,0",
+				"endDate": "2013,7,16,14,0",
+				"headline": "Snowden beantragt vorläufiges Asyl in Russland",
+				"text": "Edward Snowden hat offenbar seine Ankündigung aus dem Statement vom vergangenen Freitag umgesetzt und in Russland um vorläufiges politisches Asyl gebeten.",
+				"asset": {
+					"media": "http://www.tagesschau.de/ausland/snowden230.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/b4966211f8389492d3f1d3ba8cdd9da3_1M.png",
+					"credit": "http://www.tagesschau.de/ausland/snowden230.html",
+					"caption": "Snowden beantragt vorläufiges Asyl in Russland"
+				}
+			},
+			{
+				"startDate": "2013,7,16,20,0",
+				"endDate": "2013,7,16,20,0",
+				"headline": "»Supergrundrecht«",
+				"text": "Hans-Peter Uhl, innenpolitischer Sprecher der CSU und Mitglied im Parlamentarischen Kontrollgremium mit Hinweis auf das Jonglieren mit falschen Zahlen zu angeblich verhinderten Terroranschlägen: »Dummes Zeug«. (Quelle: <a href=http://www.spiegel.de/politik/deutschland/nsa-affaere-innenminister-friedrich-versagt-als-aufklaerer-a-911471.html>Spiegel Online</a>)\n\nBundesinnenminister Hans-Peter Friedrich (CSU) hat die Bürger aufgerufen, mehr Eigenverantwortung zum Schutz ihrer Daten zu entwickeln: »Verschlüsselungstechnik oder Virenschutz müssen mehr Aufmerksamkeit erhalten« (Quelle: <a href=http://www.zeit.de/politik/deutschland/2013-07/innenminister-friedrich-bundestag-nsa>Zeit Online</a>)\n\nund »bezeichnet Sicherheit als Supergrundrecht.« (Quelle: <a href=http://www.spiegel.de/politik/deutschland/nsa-affaere-innenminister-friedrich-versagt-als-aufklaerer-a-911471.html>Spiegel Online</a>)",
+				"asset": {
+					"media": null,
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": null,
+					"caption": "»Supergrundrecht«"
+				}
+			},
+			{
+				"startDate": "2013,7,16,22,0",
+				"endDate": "2013,7,16,22,0",
+				"headline": "BND in Besitz von PRISM-Technik?",
+				"text": "Nach einem Bericht des ARD-Nachrichtenmagazins Fakt soll der BND seit Jahren die gleiche Technik verwenden, die auch hinter PRISM steckt.",
+				"asset": {
+					"media": "",
+					"thumbnail": "https://www.youtube.com/watch?feature=player_embedded&v=eRsugJFLULc",
+					"credit": "",
+					"caption": "BND in Besitz von PRISM-Technik?"
+				}
+			},
+			{
+				"startDate": "2013,7,17,14,0",
+				"endDate": "2013,7,17,14,0",
+				"headline": "»Amerika hat derzeit keine funktionierende Demokratie«",
+				"text": "Der ehemalige U.S.-Präsident Jimmy Carter:\n\n\"Amerika hat derzeit keine funktionierende Demokratie\"\n\n\"Ich glaube, die Invasion der Privatsphäre ist zu weit gegangen\", \n\n\"Und ich glaube, dass die Geheimnistuerei darum exzessiv gewesen ist.\"",
+				"asset": {
+					"media": "http://www.spiegel.de/politik/ausland/nsa-affaere-jimmy-carter-kritisiert-usa-a-911589.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": "http://www.spiegel.de/politik/ausland/nsa-affaere-jimmy-carter-kritisiert-usa-a-911589.html",
+					"caption": "»Amerika hat derzeit keine funktionierende Demokratie«"
+				}
+			},
+			{
+				"startDate": "2013,7,17,16,0",
+				"endDate": "2013,7,17,16,0",
+				"headline": "»Vollmundige Erklärung«",
+				"text": "Hans-Peter Uhl, innenpolitischer Sprecher der CSU und Mitglied im Parlamentarischen Kontrollgremium:\n\n„Wir müssen uns bewusst machen, dass wir uns Techniken ausgeliefert haben, die von Nationalstaaten in keiner Weise mehr beherrschbar sind.“ (Quelle: <a href=http://www.swr.de/swr2/programm/sendungen/tagesgespraech/-/id=660264/nid=660264/did=11424170/mxr6h4/index.html>swr2</a>)\n\nUnd gegenüber der <a href=http://www.faz.net/aktuell/politik/hans-peter-uhl-csu-die-regierung-kann-deine-daten-nicht-schuetzen-12285705.html>FAZ</a>:\n\n»Wir haben heute vom Bundesnachrichtendienst erfahren, wie Kommunikation durch Glasfaserkabel verläuft, wie die E-Mails geleitet werden...Wenn das so ist, dann ist diese vollmundige Erklärung, auf deutschem Boden müsse deutsches Datenschutzrecht gelten, eigentlich eine ziemlich hohle Erklärung.«\n\n",
+				"asset": {
+					"media": null,
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": null,
+					"caption": "»Vollmundige Erklärung«"
+				}
+			},
+			{
+				"startDate": "2013,7,17,22,0",
+				"endDate": "2013,7,17,22,0",
+				"headline": "Bekannte von Bekannten von Bekannten",
+				"text": "Vor Jahren habe ich mal die durchaus schlüssige Theorie aufgeschnappt, dass jeder Mensch der Erde über maximal »sechs Ecken« mit jedem anderen Menschen bekannt ist. Wissenschaftler der Mailänder Universität haben 2011 den Durchschnittswert 4,74 für das Internet ermittelt.\n\nBei einer Anhörung vor dem Justiz-Ausschuss des U.S.-Kongress hat der stellvertretende NSA-Direktor Chris Inglis nun zugegeben, dass seine Behörde »zwei oder drei Kontaktebenen eines Verdächtigen überwachen dürfe. Bisher war man wohl immer von zwei Ebenen ausgegangen.\n\nDas klingt im ersten Moment nicht nach einem großen Unterschied. Diese eine Ebene mehr bedeutet aber aufgrund der exponentiellen Entwicklung in den Ebenen eine siebenstellige Zahl von überwachten Personen pro Verdächtigem. <a href=www.spiegel.de/netzwelt/web/ueberwachung-nsa-hat-noch-mehr-buergerdaten-ausgespaeht-a-911755.html>Spiegel Online</a> und <a href=http://www.zeit.de/digital/datenschutz/2013-07/anhoerung-kongress-nsa-verbindungsdaten>Zeit Online</a> haben dazu nette Rechenbeispiele.",
+				"asset": {
+					"media": "http://www.theatlanticwire.com/politics/2013/07/nsa-admits-it-analyzes-more-peoples-data-previously-revealed/67287/",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/2099cea9be85e968154e7f961fb5dc5c_1M.png",
+					"credit": "http://www.theatlanticwire.com/politics/2013/07/nsa-admits-it-analyzes-more-peoples-data-previously-revealed/67287/",
+					"caption": "Bekannte von Bekannten von Bekannten"
+				}
+			},
+			{
+				"startDate": "2013,7,17,22,0",
+				"endDate": "2013,7,17,22,0",
+				"headline": "»Ich will keinen Aluhut«",
+				"text": "Udo Vetter zu den Aussagen von Friedrich und Uhl:\n\n»Vor keinem gesellschaftlichen Problem hat eine Regierung öffentlich so schnell kapituliert, wie es die Merkel-Administration nun bei Prism und Tempora tut.«",
+				"asset": {
+					"media": "http://www.lawblog.de/index.php/archives/2013/07/17/ich-will-keinen-aluhut/",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/6993472acf20fc1d2b35c68a2a72477c_1M.png",
+					"credit": "http://www.lawblog.de/index.php/archives/2013/07/17/ich-will-keinen-aluhut/",
+					"caption": "»Ich will keinen Aluhut«"
+				}
+			},
+			{
+				"startDate": "2013,7,18,14,0",
+				"endDate": "2013,7,18,14,0",
+				"headline": "Zweimal PRISM",
+				"text": "Gestern berichtete die <a href=http://www.bild.de/bild-plus/politik/ausland/edward-snowden/wusste-die-bundeswehr-schon-2011-von-prism-31369354,view=conversionToLogin.bild.html>BILD</a> (Achtung: Paywall), dass die Bundeswehr das NSA-Programm PRISM bereits 2011 gekannt habe. In der Regierungspressekonferenz dementierte dies ein <a href=http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/07/2013-07-17-regpk.html>Sprecher des Bundesverteidigungsministeriums</a> und verwies auf eine namensgleiche, aber funktionell unterschiedliche Software. Die Verwirrung war umso größer, als BILD in einem <a href=http://www.bild.de/politik/ausland/edward-snowden/gibt-es-zwei-spaeh-programme-31385042.bild.html>zweiten Artikel</a> die eigene Darstellung verteidigte.\n\n<a href=https://netzpolitik.org/2013/weltweite-uberwachung-warum-es-wirklich-zwei-prism-programme-gibt-und-wie-diese-funktionieren>Netzpolitik</a> erklärt am besten, was es mit den zwei unterschiedlichen PRISMs auf sich hat.",
+				"asset": {
+					"media": "http://netzpolitik.org/2013/weltweite-uberwachung-warum-es-wirklich-zwei-prism-programme-gibt-und-wie-diese-funktionieren/",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/26891dfdbb855eb10f015cdef1f57b84_1M.png",
+					"credit": "http://netzpolitik.org/2013/weltweite-uberwachung-warum-es-wirklich-zwei-prism-programme-gibt-und-wie-diese-funktionieren/",
+					"caption": "Zweimal PRISM"
+				}
+			},
+			{
+				"startDate": "2013,7,18,16,0",
+				"endDate": "2013,7,18,16,0",
+				"headline": "»Die Stasi ist sanft im Vergleich«",
+				"text": "Die taz hat ein Interview mit dem ehemaligen NSA-Mitarbeiter und Whistleblower Thomas Drake geführt. Hier ein Ausschnitt:\n\n»Mit welchem Land in Europa kooperiert die NSA am besten?\n\nMit dem britischen Geheimdienst Government Communications Headquarters (GCHQ). Das ist eine Sonderbeziehung, ähnlich der zu den Diensten Australiens, Neuseelands und Kanadas.\n\nUnd in Kontinentaleuropa?\n\nVermutlich der BND. Davon werden Sie noch mehr hören. Deutschland wird als sogenanntes Drittland betrachtet. Aber die NSA hat langjährige geheime Abkommen mit dem Bundesnachrichtendienst. Und der BND hat seine eigenen Abkommen mit verschiedenen Telekommunikationskonzernen.«",
+				"asset": {
+					"media": "http://www.taz.de/Whistleblower-ueber-US-Geheimdienste/!120185/",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/52b5f2ffc455deca9ceed48b332efb79_1M.png",
+					"credit": "http://www.taz.de/Whistleblower-ueber-US-Geheimdienste/!120185/",
+					"caption": "»Die Stasi ist sanft im Vergleich«"
+				}
+			},
+			{
+				"startDate": "2013,7,18,18,0",
+				"endDate": "2013,7,18,18,0",
+				"headline": "»Die USA sind krank«",
+				"text": "Der Spiegel bzw. Spiegel Online finden so langsam zur alten Bissigkeit zurück. Hier zwei Kommentare:\n\n<a href=http://www.spiegel.de/spiegel/nsa-affaere-klaus-brinkbaeumer-kritisiert-die-usa-a-911799.html>Amerikas Wahn</a>\n\n<a href=www.spiegel.de/netzwelt/netzpolitik/prism-scheinheilige-botschaft-von-apple-facebook-google-microsoft-a-911817.html>Die scheinheilige Transparenz-Botschaft der Internetriesen</a>",
+				"asset": {
+					"media": null,
+					"thumbnail": "http://cdn.dipity.com/uploads/events/6993472acf20fc1d2b35c68a2a72477c_1M.png",
+					"credit": null,
+					"caption": "»Die USA sind krank«"
+				}
+			},
+			{
+				"startDate": "2013,7,18,23,0",
+				"endDate": "2013,7,18,23,0",
+				"headline": "Greenwald kündigt weitere, »noch explosivere« Enthüllungen an",
+				"text": "Beckmann in der ARD: »Der gläserne Bürger - ausgespäht und ausgeliefert?«\n\nGäste waren Constanze Kurz, Frank Schirrmacher, Ranga Yogeshwar, Hans Leyendecker und Glenn Greenwald (zugeschaltet).",
+				"asset": {
+					"media": null,
+					"thumbnail": "http://cdn.dipity.com/uploads/events/bf4e706fc4cce79989fb50829b6f7462_1M.png",
+					"credit": null,
+					"caption": "Greenwald kündigt weitere, »noch explosivere« Enthüllungen an"
+				}
+			},
+			{
+				"startDate": "2013,7,19,11,0",
+				"endDate": "2013,7,19,11,0",
+				"headline": "»Meine Minister haben mein vollstes Vertrauen«",
+				"text": "Highlights aus der Sommerpressekonferenz von Bundeskanzlerin Merkel:\n\n»...ob es eine flächendeckende Datenüberwachung und Datenabschöpfung unserer Bürgerinnen und Bürger hier in Deutschland vonseiten des NSA gibt, und zwar eine Abschöpfung, die gegen deutsches Recht erfolgt und von der ich durch die Presseberichte Kenntnis genommen habe.«\n\n»Unsere Behörden, der Bundesnachrichtendienst, der Verfassungsschutz, das Bundesamt für die Sicherheit in der Informationstechnik und andere, versuchen, so schnell, so präzise und so transparent wie möglich, alle im Zusammenhang mit den diskutierten Datensammlungen stehenden Fragen zu klären und zu erklären und gegenüber der Bundesregierung wie auch der Öffentlichkeit und damit der Politik belastbare Bewertungs- und Entscheidungsgrundlagen vorzulegen.«\n\n»Deutschland ist kein Überwachungsstaat, Deutschland ist ein Land der Freiheit.«\n\n»Auf deutschem Boden hat man sich an deutsches Recht zu halten.«\n\n»Aber es ist nicht meine Aufgabe, mich jetzt in die Details von PRISM einzuarbeiten.«\n\n»Meine Minister haben mein volles, vollstes - oder wie immer Sie es haben wollen; Sie bewerten das ja immer - Vertrauen«\n\n»Ich kann mich nur wiederholen: Deutschland ist ein Rechtsstaat. Die Voraussetzungen liegen nicht vor.« (Auf eine Frage zu Snowdens Asylantrag)\n\n»Ich fühle mich, ehrlich gesagt, soweit ich den Satz gelesen habe, durch Herrn Alexander insoweit bestätigt, als die Amerikaner uns eben vieles nicht gesagt haben. Das gibt er ja relativ selbstbewusst zu.« (bezogen auf ein Zitat des NSA-Chefs Keith Alexander:  „Jetzt wissen die Deutschen Bescheid.“)\n\n»Das müssten Sie noch einmal nachlesen. Ich glaube, diese Verbalnote ist auch zugänglich. Ich habe Sie hier nicht zum Verlesen vorliegen. Die Note ist damals zum G10-Gesetz verabredet worden und hat spezielle alliierte Möglichkeiten festgeschrieben. Mit der deutschen Einheit sind diese alliierten Dinge nach unserer Auffassung erloschen. Das muss jetzt noch rechtsförmlich durchgeführt werden.«\n\nAuf spätere Nachfrage, ob es weitere Geheimvereinbarungen gebe: »Ich kann nur sagen: Mir ist es nicht bekannt. Ich bin mir ganz sicher, dass das Auswärtige Amt das umfassend prüfen wird. Ich werde Ihre Frage zum Anlass nehmen, den Bundesaußenminister auch noch einmal zu bitten, alles zu prüfen. Mir ist nichts anderes bekannt. Wir haben jedenfalls - - Mir ist wirklich nichts bekannt, aber wir haben ein Interesse daran, den Rechtsstatus nach der deutschen Einheit wirklich zu aktualisieren - soweit man nach 20 Jahren noch von aktualisieren reden kann.«\n\n»Ich will noch einmal darauf hinweisen, dass dem Bundesinnenminister in den Vereinigten Staaten von Amerika gesagt wurde, dass es Industriespionage seitens der Vereinigten Staaten von Amerika gegen deutsche Firmen nicht gibt.«",
+				"asset": {
+					"media": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/07/2013-07-19-merkel-bpk.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/07/2013-07-19-merkel-bpk.html",
+					"caption": "»Meine Minister haben mein vollstes Vertrauen«"
+				}
+			},
+			{
+				"startDate": "2013,7,20,19,0",
+				"endDate": "2013,7,20,19,0",
+				"headline": "»Sie haben großartige Nachrichtendienste mit großartigen Mitarbeitern«",
+				"text": "Michael Hayden, Chef der NSA (1999-2005) und der CIA (2006-2009) in einem Interview mit dem <a href=http://www.heute.de/Ex-NSA-Chef-Wir-waren-sehr-offen-zu-Deutschland-28928066.html>ZDF</a>:\n\n»Wir waren sehr offen zu unseren Freunden. Nicht nur in Deutschland, aber dort fand, glaube ich, das Treffen statt.«\n\n»Sehen sie, jeder von uns musste sich an die Gesetzes seines Landes halten.«\n\n»Ich gehe da nicht ins Detail. Aber es brauchte keine schriftlichen Vereinbarungen nach 9/11. Es gab das gemeinsame politische Ziel und wir Profis kannten einander und wollten vorankommen.«\n\n»Ich bin da mal sehr respektlos, okay? Das ist wie in dieser Filmszene aus \"Casablanca\", in der Polizeichef Renault informiert wird, dass in Rick's Café Glücksspiel stattfindet. Sehen Sie, alle Staaten spionieren, alle modernen Staaten betreiben elektronische Spionage. Alle tun es im Rahmen ihrer Gesetze. Also ... tja, dabei will ich es mal belassen.«\n\nKeith Alexander, NSA-Chef, bereits am Freitag, 19.07.2013, gegenüber dem <a href=http://www.heute.de/NSA-Chef-Jetzt-wissen-die-Deutschen-Bescheid-28912874.html>ZDF</a>:\n\n»Wir sagen ihnen nicht alles, was wir machen oder wie wir es machen - aber jetzt wissen sie es.«\n\n»Sie haben großartige Nachrichtendienste mit großartigen Mitarbeitern. Es ist eine Ehre und ein Privileg, mit Ihnen zusammenzuarbeiten.«",
+				"asset": {
+					"media": null,
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": null,
+					"caption": "»Sie haben großartige Nachrichtendienste mit großartigen Mitarbeitern«"
+				}
+			},
+			{
+				"startDate": "2013,7,21,8,0",
+				"endDate": "2013,7,21,8,0",
+				"headline": "XKeyscore, XKeyScore, X-KEYSCORE",
+				"text": "Nach einer <a href=http://www.spiegel.de/politik/deutschland/bnd-und-bfv-setzen-nsa-spaehprogramm-xkeyscore-ein-a-912196.html>Vorabmeldung des Spiegel</a> arbeiten sowohl der Bundesnachrichtendienst (BND) als auch das Bundeamt für Verfassungsschutz (BfV) mit einer Spähsoftware der NSA namens XKeyscore. Diese Software ermögliche eine »annähernde digitale Totalüberwachung«. Laut Spiegel werde mit XKeyscore auch ein großer Teil der bis zu 500 Millionen Kommunikationsdatensätze aus Deutschland erfasst.\n\nDie britische Zeitung The Guardian hatte das Programm XKeyScore bereits Ende Juni <a href=http://www.guardian.co.uk/world/2013/jun/27/nsa-online-metadata-collection>in einem Artikel</a> erwähnt, allerdings im Zusammenhang mit dem britischen Geheimdienst GCHQ.\n\nDie brasilianische Zeitung O Globo Mundo hat <a href=http://oglobo.globo.com/infograficos/volume-rastreamento-governo-americano>vier Folien</a> einer Präsentation veröffentlicht, in der eine Software namens X-KEYSCORE (XKS) beschrieben ist. ",
+				"asset": {
+					"media": "http://www.spiegel.de/politik/deutschland/bnd-und-bfv-setzen-nsa-spaehprogramm-xkeyscore-ein-a-912196.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/e78a7a3bf9e42347d2366795ee71d6f5_1M.png",
+					"credit": "http://www.spiegel.de/politik/deutschland/bnd-und-bfv-setzen-nsa-spaehprogramm-xkeyscore-ein-a-912196.html",
+					"caption": "XKeyscore, XKeyScore, X-KEYSCORE"
+				}
+			},
+			{
+				"startDate": "2013,7,21,20,0",
+				"endDate": "2013,7,21,20,0",
+				"headline": "»Datenschutzgesetze laxer auslegen«",
+				"text": "Aus einem internen NSA-Papier vom 17. Januar 2013 (Quelle: <a href=http://www.spiegel.de/spiegel/index-7088.html>Der Spiegel 30/2013)</a>:\n\n»The BND has been working to influence the German Government to relax interpretation of the privacy laws over the long term to provide greater opportunity for intelligence sharing.«\n\n(Deutsche Übersetzung:) »Der BND hat daran gearbeitet, die deutsche Regierung so zu beeinflussen, dass sie Datenschutzgesetze auf lange Sicht laxer auslegt, um größere Möglichkeiten für den Austausch von Geheimdienstinformationen zu schaffen.«\n\nAus einer NSA-Tagesordnung, datiert vom 29. April 2013, anlässlich eines Besuchs von BND-Mitarbeitern in den U.S.A. (Quelle: <a href=http://www.spiegel.de/spiegel/index-7088.html>Der Spiegel 30/2013</a>):\n\n»The German Government modified its interpretation of the G-10 privacy law, protecting the communications of the German citizens, to afford the BND more flexibility in sharing protected information with foreign partners.«\n\n(Deutsche Übersetzung:) »Die deutsche Regierung hat ihre Auslegung des G-10 Datenschutzgesetzes, welches die Kommunikation deutscher Bürger schützt,  modifiziert, um dem BND mehr Flexibilität beim Austausch geschützter Informationen mit ausländischen Partnern zu gewährleisten.«",
+				"asset": {
+					"media": "http://www.spiegel.de/spiegel/index-7088.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": "http://www.spiegel.de/spiegel/index-7088.html",
+					"caption": "»Datenschutzgesetze laxer auslegen«"
+				}
+			},
+			{
+				"startDate": "2013,7,22,11,0",
+				"endDate": "2013,7,22,11,0",
+				"headline": "RPK: »Darüber habe ich keine Erkenntnisse.«",
+				"text": "Hauptthema der heutigen Regierungspressekonferenz waren die letzten Enthüllungen des Spiegel.\n\nDer stellvertretende Regierungssprecher Streiter:\n\n»Internationaler Terrorismus kann nur durch internationale Zusammenarbeit bekämpft werden.«\n\n»Die Fragen, die sich aus der Berichterstattung vom Wochenende ergeben, nimmt die Bundesregierung daher sehr ernst. Der Chef des Bundeskanzleramtes hat eine umfangreiche Prüfung veranlasst. Über deren Ergebnis wird dem Parlamentarischen Kontrollgremium kurzfristig berichtet werden.«\n\n»Ich finde, Forderungen sollte man erst erheben, wenn man etwas weiß.«\n\nAuf die Dauerfrage, ob es jenseits des Verwaltungsabkommens von 1968 weitere Vereinbarungen zwischen den Regierungen oder Geheimdiensten gibt, antwortet der Sprecher des Auswärtigen Amtes, Peschke:\n\n»Ich glaube, wir haben eine sehr umfassende Aktivität in die Wege geleitet. Sofern es weitere einschlägige Regelungen geben sollte, wird das selbstverständlich geprüft. Ich meine mich zu erinnern - die Kanzlerin war am Freitag hier, und jetzt ist Montag -, dass wir, schon bevor die Kanzlerin hier war, sehr aktiv waren, was die Verwaltungsvereinbarung betrifft. Sofern es weitere einschlägige Dinge geben sollte und sich das in der anlaufenden, dauernden Prüfung und Aufklärung ergeben sollte - das ist eine Gesamtaufgabe der Bundesregierung -, werden wir dann natürlich selbstverständlich auch tätig werden.«\n\nZusatzfrage: »Mit anderen Worten: Sie wissen nicht, ob es zusätzliche, darüber hinausgehende Abkommen gibt. Was weiß denn das Kanzleramt, Herr Streiter?«\n\nStreiter: »Das klärt ja das Bundesaußenministerium.«\n\nStreiter: »Wir würden ja den Feinden und Gegnern unserer demokratischen Grundordnung, die unsere Art zu leben in Gefahr bringen wollen, wirklich einen großen Gefallen tun, wenn wir nun wirklich jedes Detail in der Öffentlichkeit ausbreiten würden. Diese Menschen lesen auch Zeitung. Die schauen auch Fernsehen. Die hören auch Radio.«\n\nStreiter auf die Frage zu den zwei Versionen von PRISM: »Es gab die Einschätzung des BND, dass es sich um zwei Programme handelt. Ob es sich um ein Programm handelt oder um zwei Unterprogramme, das alles wird Gegenstand einer Aufklärung sein. Ich hoffe, dass man das vielleicht auch sogar schon bis zu dieser bevorstehenden Sitzung des Parlamentarischen Kontrollgremiums klären kann.«\n\nUnd auf die Frage zu XKeyscore: »Darüber habe ich keine Erkenntnisse. Ich würde sagen: Auch dies ist Gegenstand der Erörterung im Parlamentarischen Kontrollgremium.«",
+				"asset": {
+					"media": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/07/2013-07-22-regpk.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/07/2013-07-22-regpk.html",
+					"caption": "RPK: »Darüber habe ich keine Erkenntnisse.«"
+				}
+			},
+			{
+				"startDate": "2013,7,22,13,0",
+				"endDate": "2013,7,22,13,0",
+				"headline": "»Das ist falsch, das ist Orwell«",
+				"text": "Der ehemalige BND-Chef Hansjörg Geiger in der <a href=http://www.faz.net/aktuell/feuilleton/debatten/ueberwachung/nsa-affaere-wer-nicht-frei-kommunizieren-kann-der-fuehrt-kein-freies-leben-12290175.html>FAZ</a>:\n\n»Das ist falsch, das ist Orwell. Die neue mögliche Quantität der Überwachung schafft eine neue Qualität.«",
+				"asset": {
+					"media": null,
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": null,
+					"caption": "»Das ist falsch, das ist Orwell«"
+				}
+			},
+			{
+				"startDate": "2013,7,22,18,0",
+				"endDate": "2013,7,22,18,0",
+				"headline": "Kann Snowden am Mittwoch den Flughafen verlassen?",
+				"text": "Wie die Nachrichtenagentur Reuters heute mitteilt, hofft der russische Anwalt Anatoly Kucherena, dass sein Mandant Edward Snowden am kommenden Mittwoch den Moskauer Flughafen verlassen kann. Der NSA-Whistleblower hält sich seit dem 23. Juni im Transitbereich des Fluhafens auf, weil die U.S.A. seinen Reisepass für ungültig erklärt hatte.\n\n<a href=http://www.gulli.com/news/22077-snowden-hofft-flughafen-mittwoch-verlassen-zu-koennen-2013-07-22>Gulli.com</a> war am schnellsten mit einer deustchen Version der Meldung.",
+				"asset": {
+					"media": "http://www.reuters.com/article/2013/07/22/us-usa-security-snowden-russia-idUSBRE96L0LF20130722",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/b4966211f8389492d3f1d3ba8cdd9da3_1M.png",
+					"credit": "http://www.reuters.com/article/2013/07/22/us-usa-security-snowden-russia-idUSBRE96L0LF20130722",
+					"caption": "Kann Snowden am Mittwoch den Flughafen verlassen?"
+				}
+			},
+			{
+				"startDate": "2013,7,23,13,0",
+				"endDate": "2013,7,23,13,0",
+				"headline": "»Mein Weg zum Ekel«",
+				"text": "Es mag ein wenig einseitig ausschauen, dass ich schon wieder auf einen <a href=www.spiegel.de/netzwelt/netzpolitik/sascha-lobo-ueber-die-passivitaet-der-bundesregierung-im-nsa-skandal-a-912534.html>Kommentar in Spiegel Online</a> verweise. Aber in den letzten Tagen sind die einfach treffend.\n\nSascha Lobo beschreibt seine sieben Schritte vom Erstaunen bis zum Ekel im größten Abhör- und Überwachungsskandal der Nachkriegsgeschichte:\n\n»Edward Snowden enthüllt mit Prism, dass die Überwachung des Internets weitreichender ist, als ich je vermutet hätte. Ungefähr so weitreichend, wie Verschwörungstheoretiker behaupteten. Mit dem essentiellen Unterschied, dass nun Beweise vorliegen, geprüft von ernsthaften Investigativjournalisten...\n\nUnd zuallererst ekelt mich Angela Merkel dafür an, dass unsere Freiheit zwar am Hindukusch verteidigt wird. Aber nicht auf unseren Laptops.«",
+				"asset": {
+					"media": "www.spiegel.de/netzwelt/netzpolitik/sascha-lobo-ueber-die-passivitaet-der-bundesregierung-im-nsa-skandal-a-912534.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/6993472acf20fc1d2b35c68a2a72477c_1M.png",
+					"credit": "www.spiegel.de/netzwelt/netzpolitik/sascha-lobo-ueber-die-passivitaet-der-bundesregierung-im-nsa-skandal-a-912534.html",
+					"caption": "»Mein Weg zum Ekel«"
+				}
+			},
+			{
+				"startDate": "2013,7,23,15,0",
+				"endDate": "2013,7,23,15,0",
+				"headline": "»Wir werden belogen und hingehalten«",
+				"text": "Katharina Nocun, politische Geschäftsführerin der Piratenpartei in einem <a href=http://www.zeit.de/politik/deutschland/2013-07/piratenpartei-nocun-interview-nsa-ueberwachung>Interview mit Zeit Online</a>:\n\n»Wir werden von Bundesregierung und Innenministerium belogen und hingehalten, wenn es um die Mitwisserschaft deutscher Behörden geht.«\n\n»Da sich Ronald Pofalla erst nach über sechs Wochen seit Snowdens ersten Veröffentlichungen bemüßigt fühlt, sich zu Wort zu melden, müssen wir davon ausgehen, dass die Aufklärung bewusst in die Länge gezogen wird. Bis nach dem Wahltermin am 22. September.«\n\n»Die gesamte Software der Bundesregierung stammt aus den USA. In den meisten Behörden wird Windows als Betriebssystem genutzt. Jetzt wurde bekannt, dass Microsoft sehr bereitwillig mit der NSA zusammengearbeitet hat. Dagegen kann man sich nicht einmal mit Verschlüsselung schützen. Ich finde, es ist höchste Zeit, in den Behörden endlich auf freie Software mit offenem Quellcode umzustellen, schon aus Sicherheitsgründen.«",
+				"asset": {
+					"media": "http://www.zeit.de/politik/deutschland/2013-07/piratenpartei-nocun-interview-nsa-ueberwachung",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/b9c14cbd92816b7c6f59ece7fad2bed0_1M.png",
+					"credit": "http://www.zeit.de/politik/deutschland/2013-07/piratenpartei-nocun-interview-nsa-ueberwachung",
+					"caption": "»Wir werden belogen und hingehalten«"
+				}
+			},
+			{
+				"startDate": "2013,7,24,11,0",
+				"endDate": "2013,7,24,11,0",
+				"headline": "RPK: »Ich möchte hier auch gar nicht von einer Affäre sprechen«",
+				"text": "Die heutige Regierungspressekonferenz war nicht so ergiebig, es ging in der Hauptsache um den anstehenden Termin von Kanzleramtsminister Pofalla vor dem Parlamentarischen Kontrollgremium.\n\nDer stellvertretende Regierungssprecher Streiter: »Ich möchte hier auch gar nicht von einer Affäre sprechen. Es gab am Wochenende eine Berichterstattung [Anmerkung: gemeint ist dieser <a href=http://www.spiegel.de/spiegel/print/index-2013-30.html>Spiegel-Bericht</a>], die auch bei Ihnen und im parlamentarischen Raum viele Fragen aufgeworfen hat.«",
+				"asset": {
+					"media": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/07/2013-07-24-regpk.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/07/2013-07-24-regpk.html",
+					"caption": "RPK: »Ich möchte hier auch gar nicht von einer Affäre sprechen«"
+				}
+			},
+			{
+				"startDate": "2013,7,24,11,0",
+				"endDate": "2013,7,24,11,0",
+				"headline": "»Safe Harbor« soll ausgesetzt werden",
+				"text": "Die Datenschutzbeauftragten von Bund und Ländern werden bis auf weiteres keine neue Genehmigung für Datentransfer im Rahmen des <a href=http://de.wikipedia.org/wiki/Safe_Harbor>»Safe Harbor«-Abkommens</a> erteilen. Sie wollen außerdem prüfen, ob die aktuellen Vereinbarungen aufgrund des Überwachungsskandals auszusetzen sind. Das »Safe Harbor«-Abkommen regelt die legale Weitergabe von personenbezogenen Daten in die U.S.A.",
+				"asset": {
+					"media": "http://www.bfdi.bund.de/DE/Home/homepage_Kurzmeldungen2013/PMDerDSK_SafeHarbor.html?nn=408908",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/df82e6851d1fead3fbe0eefd6908b0f8_1M.png",
+					"credit": "http://www.bfdi.bund.de/DE/Home/homepage_Kurzmeldungen2013/PMDerDSK_SafeHarbor.html?nn=408908",
+					"caption": "»Safe Harbor« soll ausgesetzt werden"
+				}
+			},
+			{
+				"startDate": "2013,7,25,3,0",
+				"endDate": "2013,7,25,3,0",
+				"headline": "Strengere Kontrolle der NSA abgelehnt",
+				"text": "Überraschend knapp, mit 217 zu 205 Stimmen, hat der U.S.-Kongress einen Gesetzeszusatz abgelehnt, welcher die Rechte der NSA einschränken und den Nachrichtendienst strenger kontrollieren sollte. Den Entwurf hatte der 33-jährige republikanische Abgeordnete Justin Amash eingebracht. Allerdings ging es bei seinem Antrag nur um die Aktiväten der NSA gegenüber U.S.-Bürgern bzw. die Überwachungen innerhalb der U.S.A.",
+				"asset": {
+					"media": "www.spiegel.de/politik/ausland/nsa-kritiker-scheitern-im-us-repraesentantenhaus-a-912976.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/ebe6f56b720efee26e792c54936e573f_1M.png",
+					"credit": "www.spiegel.de/politik/ausland/nsa-kritiker-scheitern-im-us-repraesentantenhaus-a-912976.html",
+					"caption": "Strengere Kontrolle der NSA abgelehnt"
+				}
+			},
+			{
+				"startDate": "2013,7,25,16,0",
+				"endDate": "2013,7,25,16,0",
+				"headline": "Der Protest wächst",
+				"text": "32 SchriftstellerInnen haben sich heute in einem <a href=http://www.faz.net/aktuell/feuilleton/debatten/ueberwachung/offener-brief-an-angela-merkel-deutschland-ist-ein-ueberwachungsstaat-12304732.html>offenen Brief an Angela Merkel</a> gewandt und die Bundeskanzlerin aufgefordert, den Menschen endlich die Wahrheit über die Spähangriffe zu sagen.\n\nIn einem zweiten, von »Digitale Gesellschaft« initiierten  <a href=https://digitalegesellschaft.de/2013/07/breites-bundnis-fordert-konkrete-konsequenzen-aus-abhorskandal>offenen Brief</a> sprechen sich die Unterzeichner, darunter der Chaos Computer Club, der Deutsche Journalistenverband, Greenpeace und der Bundesverband der Verbraucherzentralen, »gegen jede Form anlassloser und unverhältnismäßiger Überwachung aus.« Sie fordern außerdem eine »Konsequente Umsetzung des Grundrechts auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer System« und »die Offenlegung sämtlicher Verträge, Gesetze und Maßnahmen, die die informationelle Selbstbestimmung betreffen«.\n\nIn einem <a href=https://www.piratenpartei.de/2013/07/25/uberwachungsskandal-piraten-fordern-in-offenem-brief-aufklarung-von-merkel>dritten offenen Brief an die Bundeskanzlerin</a> schlagen 16 Listenplatz-1-Kandidaten, 16 Landesvorsitzende, vier Fraktionsvorsitzende sowie vier Bundesvorstandsmitglieder der Piratenpartei in die gleiche Kerbe.\n\nDie Piratenpartei wird am kommenden Samstag, 27. Juli, an den in etwa <a href=http://demonstrare.de/termine/27-07-stopwatchingus-deutschlandweite-proteste-gegen-prism-und-tempora>50 Städten geplanten Demonstrationen</a> teilnehmen. Als »Highlight« planen die Piraten eine <a href=https://www.piratenpartei.de/2013/07/24/aktion-piraten-entern-merkels-wahlkreis-gegen-uberwachung-am-27-juli-2013>Abschlusskundgebung</a> vor Angela Merkels Wahlkreisbüro in Stralsund.",
+				"asset": {
+					"media": null,
+					"thumbnail": "http://cdn.dipity.com/uploads/events/86b398c27a80f662e7effe0c1f1a5b4a_1M.png",
+					"credit": null,
+					"caption": "Der Protest wächst"
+				}
+			},
+			{
+				"startDate": "2013,7,25,18,0",
+				"endDate": "2013,7,25,18,0",
+				"headline": "NSA: Es gibt drei PRISM-Programme",
+				"text": "Nach einem Bericht der Zeitung »<a href=http://www.welt.de/politik/deutschland/article118388381/Die-NSA-betreibt-drei-Prism-Programme.html>Die Welt«</a> [Achtung: Paywall] betreibt die NSA drei verschiedene Überwachungs- und Spähprogramme unter dem gleichen Namen PRISM. Dies gehe aus einer geheimen Stellungnahme des Nachrichtendienstes gegenüber dem Kanzleramt hervor.",
+				"asset": {
+					"media": "http://www.welt.de/politik/deutschland/article118388381/Die-NSA-betreibt-drei-Prism-Programme.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/bd7d34242376c815f9001a460777d830_1M.png",
+					"credit": "http://www.welt.de/politik/deutschland/article118388381/Die-NSA-betreibt-drei-Prism-Programme.html",
+					"caption": "NSA: Es gibt drei PRISM-Programme"
+				}
+			},
+			{
+				"startDate": "2013,7,25,20,0",
+				"endDate": "2013,7,25,20,0",
+				"headline": "Kanzleramtsminister Pofalla vor dem PKGr",
+				"text": "Kanzleramtsminister Ronald Pofalla hat heute dreieinhalb Stunden vor dem Parlamentarischen Kontrollgremium (PKGr) Rede und Antwort gestanden. Er hält die Vorwürfe für ausgeräumt und alle Fragen die deutschen Nachrichtendienste betreffend für geklärt. Zu den Ausspäh- und Überwachungsvorwürfen durch die NSA wolle er sich nicht weiter äußern und verwies nur auf eine Erklärung der NSA, nach der diese nicht millionenfach die Daten deutscher Bürger überwache.\n\nObwohl als Kanzleramtsminister auch Chefkoordinator der Geheimdienste, hatte sich Pofalla in den vergangenen Wochen auffallend zurückgehalten. Da die heutige Sitzung sehr unterschiedlich bewertet wurde, hier Links zu weiteren Berichten:\n\n<a href=http://www.zeit.de/politik/deutschland/2013-07/pofalla-kontrollgremium-nsa>Zeit Online</a>\n\n<a href=www.spiegel.de/politik/deutschland/nsa-affaere-im-pkg-pofalla-nimmt-deutsche-geheimdienste-in-schutz-a-913171.html>Spiegel Online</a>\n\n<a href=http://www.faz.net/aktuell/politik/inland/nsa-affaere-parlamentarier-verlangen-weitere-aufklaerung-12305205.html>FAZ</a>\n\n<a href=http://www.tagesschau.de/inland/pofalla148.html>Tagesschau</a>\n\n\nUnd hier der Link zu einem Reuters-Video:",
+				"asset": {
+					"media": "http://www.sueddeutsche.de/politik/kanzleramtsminister-pofalla-nach-der-sitzung-des-parlamentarischen-kontrollgremiums-des-bundestages-pkg-1.1731156",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/f63b691c4a42134471eb53e8f04a9241_1M.png",
+					"credit": "http://www.sueddeutsche.de/politik/kanzleramtsminister-pofalla-nach-der-sitzung-des-parlamentarischen-kontrollgremiums-des-bundestages-pkg-1.1731156",
+					"caption": "Kanzleramtsminister Pofalla vor dem PKGr"
+				}
+			},
+			{
+				"startDate": "2013,7,25,22,0",
+				"endDate": "2013,7,25,22,0",
+				"headline": "»Es gab schließlich auch schon mal die Hitlertagebücher«",
+				"text": "Die Stunden vor und nach der Anhörung haben wieder einige Stilblüten und schräge Statements hervorgebracht:\n\nHans-Peter Uhl, innenpolitischer Sprecher der CSU und Mitglied des Parlamentarischen Kontrollgremiums: »Wenn der BND-Chef in der Sitzung das Gegenteil der Berichterstattung behaupten sollte, dann glaube ich dem Beamten und nicht den Pseudo-Enthüllungen irgendeines Magazins,« Es habe auch schließlich schon mal die Hitler-Tagebücher gegeben. (Quelle: <a href=http://www.spiegel.de/politik/deutschland/pofalla-verspricht-vollstaendige-aufklaerung-der-nsa-affaere-a-913093.html>Spiegel Online</a>)\n\nKanzleramtsminister Ronald Pofalla: »Die Fragen, die die deutschen Nachrichtendienste betreffen, sind alle von mir in einer umfassenden Prüfung geklärt worden.« \n\n»Der Datenschutz wird von den deutschen Nachrichtendiensten zu 100 Prozent eingehalten.« (Quelle: <a href=http://www.zeit.de/politik/deutschland/2013-07/pofalla-kontrollgremium-nsa>Zeit Online</a>)\n\nHans-Christian Ströbele (Bündnis 90/Die Grünen und Mitglied im PKGr): »Herr Prism ist ein wichtiger Zeuge.« Und er wolle diesem \"Herrn Prism\" gerne ein paar Fragen stellen. (Quelle: <a href=www.spiegel.de/politik/deutschland/nsa-affaere-im-pkg-pofalla-nimmt-deutsche-geheimdienste-in-schutz-a-913171.html>Spiegel Online</a>)\n\nUnd zum Abschluss seriösere Worte von Bundespräsident Joachim Gauck: »Die NSA-Affäre beunruhigt mich sehr.« Außerdem zollte er Edward Snowden Respekt: »Wer sie [Anmerkung: die Informationen] an die Öffentlichkeit bringt und dabei aus Gewissensgründen handelt, der verdient Respekt.« (Quelle: <a href=http://www.pnp.de/nachrichten/politik/878750_Gauck-im-PNP-Interview-Die-NSA-Affaere-beunruhigt-mich-sehr.html>Passauer Neue Presse</a>)\n",
+				"asset": {
+					"media": null,
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": null,
+					"caption": "»Es gab schließlich auch schon mal die Hitlertagebücher«"
+				}
+			},
+			{
+				"startDate": "2013,7,27,18,0",
+				"endDate": "2013,7,27,18,0",
+				"headline": "»Wahnhafte Züge«",
+				"text": "Der ehemalige Bundesinnenminister Otto Schily im Gespräch mit dem Spiegel:\n\n»Law and Order sind sozialdemokratische Werte.«\n\n»Die Furcht vor dem Staat trägt teilweise wahnhafte Züge.«",
+				"asset": {
+					"media": "www.spiegel.de/politik/deutschland/nsa-ex-innenminister-schily-haelt-furcht-vor-ueberwachung-fuer-paranoid-a-913507.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": "www.spiegel.de/politik/deutschland/nsa-ex-innenminister-schily-haelt-furcht-vor-ueberwachung-fuer-paranoid-a-913507.html",
+					"caption": "»Wahnhafte Züge«"
+				}
+			},
+			{
+				"startDate": "2013,7,27,20,0",
+				"endDate": "2013,7,27,20,0",
+				"headline": "Demos gegen Überwachung",
+				"text": "#StopWatchingUs: Mehr als 10.000 Menschen haben heute trotz brütender Hitze in etwa 30 Städten gegen den Überwachungswahn demonstriert. Hier eine kleine Auswahl an Links zu Medienberichten:\n\n<a href=http://www.spiegel.de/politik/deutschland/10-000-menschen-protestieren-gegen-nsa-ueberwachung-a-913513.html>Spiegel Online</a>\n\n<a href=http://www.sueddeutsche.de/politik/deutschlandweite-proteste-gegen-spaehprogramme-aus-respekt-und-wut-1.1732285>Süddeutsche Zeitung Online</a>\n\n<a href=http://www.zeit.de/politik/deutschland/2013-07/Datenschutz-Ueberwachung-Protest>Zeit Online</a>",
+				"asset": {
+					"media": null,
+					"thumbnail": "http://cdn.dipity.com/uploads/events/6828a2b20e29463eb41fade13a510ee7_1M.png",
+					"credit": null,
+					"caption": "Demos gegen Überwachung"
+				}
+			},
+			{
+				"startDate": "2013,7,30,21,0",
+				"endDate": "2013,7,30,21,0",
+				"headline": "Bundesregierung hat Überwachung erlaubt?",
+				"text": "Nach einem Bericht des ZDF-Magazins Frontal21 wurden über 200 U.S.-Unternehmen von der Bundesregierung mit Sonderrechten für Überwachungs- und Ausspähaktionen in Deutschland ausgestattet. Laut Frontal21 habe es bereits 2003 eine Übereinkunft zwischen dem deutschen Außenministerium und der US-Botschaft  gegeben. Dem Magazin liegt außerdem ein Regierungspapier aus dem Jahr 2011 vor.",
+				"asset": {
+					"media": "http://www.heute.de/Spionage-Offiziell-erlaubt-29086038.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/ba735cd3a9243b745fed4c5ee4c1c33f_1M.png",
+					"credit": "http://www.heute.de/Spionage-Offiziell-erlaubt-29086038.html",
+					"caption": "Bundesregierung hat Überwachung erlaubt?"
+				}
+			},
+			{
+				"startDate": "2013,7,31,11,0",
+				"endDate": "2013,7,31,11,0",
+				"headline": "RPK: »Darüber müsste ich mich schlau machen«",
+				"text": "In der heutigen Regierungspressekonferenz ging es hauptsächlich um den gestrigen Bericht von Frontal21 (ZDF).\n\nZusatzfrage: »Können Sie noch sagen, was in diesem Zusammenhang „analytische Aktivitäten“ sind?«\n\nFischer (Auswärtiges Amt): »Ich müsste mich noch einmal schlau machen, aber letztlich ist es so, dass es hierbei um technisch-militärische Dienstleistungen geht, die im Rahmen des Truppenstatuts möglich sind...«\n\n»...Zum einen geht es sozusagen um technisch-militärische Dienstleistungen - das hatte ich ja erwähnt -, und dabei geht es vor allem um die Befreiung von gewerberechtlichen Genehmigungen durch Behörden der Länder und Kommunen.«\n\nZusatzfrage: »Was sind „militärisch-technische Dienstleistungen“? Umfasst das Spionage, Gegenspionage, Kryptiergeräte oder Dechiffriergeräte? Was ist das?«\n\nFischer: »Darüber müsste ich mich, wie gesagt, schlau machen, und dann würde ich mich noch einmal bei Ihnen melden.«\n",
+				"asset": {
+					"media": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/07/2013-07-31-regpk.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/07/2013-07-31-regpk.html",
+					"caption": "RPK: »Darüber müsste ich mich schlau machen«"
+				}
+			},
+			{
+				"startDate": "2013,7,31,16,0",
+				"endDate": "2013,7,31,16,0",
+				"headline": "XKeyscore: »Unbegrenzter Zugriff«",
+				"text": "Glenn Greenwald hat im Guardian eine vollständige Präsentation zu »XKeyscore« veröffentlicht. Von den <a href=http://www.theguardian.com/world/interactive/2013/jul/31/nsa-xkeyscore-program-full-presentation>32 Folien</a> sind allerdings drei geschwärzt. Laut Präsentation hat die NSA so gut wie unbegrenzten Zugriff auf weltweite Internetkommunikation.\n\n<a href=http://www.tagesschau.de/ausland/nsa170.html>Tagesschau.de</a>\n\n<a href=https://netzpolitik.org/2013/xkeyscore-nsa-programm-sammelt-beinahe-alles-was-ein-nutzer-im-internet-tut>Netzpolitik.org</a>\n\n<a href=www.spiegel.de/netzwelt/netzpolitik/neue-nsa-dokumente-bekraeftigen-vorwuerfe-gegen-geheimdienste-a-914160.html>Spiegel Online</a>",
+				"asset": {
+					"media": "http://www.theguardian.com/world/2013/jul/31/nsa-top-secret-program-online-data",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/d2cbcb623f8e6863683a883de795f19d_1M.png",
+					"credit": "http://www.theguardian.com/world/2013/jul/31/nsa-top-secret-program-online-data",
+					"caption": "XKeyscore: »Unbegrenzter Zugriff«"
+				}
+			},
+			{
+				"startDate": "2013,8,1,11,0",
+				"endDate": "2013,8,1,11,0",
+				"headline": "»Die Terroristen haben gewonnen«",
+				"text": "Michele Marsching, Mitglied der Piraten-Fraktion im Landtag NRW hat anlässlich der Anti-Prismdemo in Stralsund kommentiert:\n\n»Plötzlich wurde mir etwas klar, von dem ich vorher auch nur ein schmuddeliges und diffuses Gefühl hatte: Die Terroristen haben gewonnen. Sie haben ihr Ziel erreicht...\n\n..Die Menschen haben inzwischen aufgegeben. Ja dann werden wir eben überwacht, dann ist halt die Abteilung Horch & Guck an jeder Ecke. Merkel, Friedrich und Co. schaffen mit jedem neuen Gesetz ein beständiges Gefühl der Unsicherheit. Wir werden schon lange mit Angst regiert, aber jetzt ist diese sogar in den Köpfen derjenigen angekommen, die sich bislang gewehrt hätten! Der Frosch im Wasserglas ist langsam gekocht worden.«",
+				"asset": {
+					"media": "http://www.marsching.de/2013/08/01/die-terroristen-haben-gewonnen/",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/6993472acf20fc1d2b35c68a2a72477c_1M.png",
+					"credit": "http://www.marsching.de/2013/08/01/die-terroristen-haben-gewonnen/",
+					"caption": "»Die Terroristen haben gewonnen«"
+				}
+			},
+			{
+				"startDate": "2013,8,1,15,0",
+				"endDate": "2013,8,1,15,0",
+				"headline": "Edward Snowden verlässt Flughafen Moskau",
+				"text": "Nach mehr als einem Monat hat Edward Snowden den Transitbereich des Moskauer Flughafens verlassen. Dies melden die Nachrichtenagenturen Reuters und Interfax. Laut Anatoli Kutscherena, seinem russischen Anwalt, hält sich der NSA-Whistleblower nun an einem »sicheren und geheimen Ort« auf. Snowden habe für ein Jahr vorläufiges Asyl in Russland erhalten, erläuterte Kutscherena weiter.",
+				"asset": {
+					"media": "http://www.spiegel.de/politik/ausland/nsa-enthueller-snowden-darf-moskauer-flughafen-verlassen-a-914322.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/b4966211f8389492d3f1d3ba8cdd9da3_1M.png",
+					"credit": "http://www.spiegel.de/politik/ausland/nsa-enthueller-snowden-darf-moskauer-flughafen-verlassen-a-914322.html",
+					"caption": "Edward Snowden verlässt Flughafen Moskau"
+				}
+			},
+			{
+				"startDate": "2013,8,1,17,0",
+				"endDate": "2013,8,1,17,0",
+				"headline": "100 Millionen Pfund von der NSA an das GCHQ",
+				"text": "Nach einem weiteren Exklusivbericht des Guardian hat die NSA in den vergangenen drei Jahren mehr als 100 Millionen Pfund an den britischen Geheimdienst GCHQ gezahlt und dafür auch ein »Return on Investment« erwartet.  Das GCHQ betreibt unter anderem das (zur Zeit *hust*) umfangreichste Ausspähprogramm Tempora.\n\nHier ein Link zu einem ausführlicheren deutschsprachigen Bericht:\n\n<a href=https://netzpolitik.org/2013/nsa-erkauft-sich-die-dienste-des-gchq>Netzpolitik.org</a>",
+				"asset": {
+					"media": "http://www.theguardian.com/uk-news/2013/aug/01/nsa-paid-gchq-spying-edward-snowden",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/a78f5ba278c6dfcc9c655286dd97155b_1M.png",
+					"credit": "http://www.theguardian.com/uk-news/2013/aug/01/nsa-paid-gchq-spying-edward-snowden",
+					"caption": "100 Millionen Pfund von der NSA an das GCHQ"
+				}
+			},
+			{
+				"startDate": "2013,8,1,22,0",
+				"endDate": "2013,8,1,22,0",
+				"headline": "TK-Firmen arbeiten mit GCHQ zusammen",
+				"text": "Die Süddeutsche Zeitung und der NDR berichten über die Zusammenarbeit von sieben Telekommunikationsfirmen mit dem britischen Geheimdienst GCHQ:\n\nVerizon Business, Codename: Dacron, British Telecommunications (\"Remedy\"), Vodafone Cable (\"Gerontic\"), Global Crossing (\"Pinnage\"), Level 3 (\"Little\"), Viatel (\"Vitreous\") und Interoute (\"Streetcar\").\n\n»Level 3« fand auch Erwähnung im Frontal21-Bericht (ZDF) vom 30.07.2013. Nach Unterlagen, die der Süddeutschen Zeitung und dem NDR vorliegen, entwickeln diese Unternehmen auch teilweise eigene Spähsoftware und würden dafür vom GCHG bezahlt.\n\n<a href=http://www.tagesschau.de/ausland/geheimdienste114.html>Tagesschau.de</a>\n\n<a href=http://www.sueddeutsche.de/digital/internet-ueberwachung-snowden-enthuellt-namen-der-spaehenden-telekomfirmen-1.1736791>Süddeutsche Online</a>",
+				"asset": {
+					"media": null,
+					"thumbnail": "http://cdn.dipity.com/uploads/events/c3a7fd1eebaf5565c30085f5ec728851_1M.png",
+					"credit": null,
+					"caption": "TK-Firmen arbeiten mit GCHQ zusammen"
+				}
+			},
+			{
+				"startDate": "2013,8,3,18,0",
+				"endDate": "2013,8,3,18,0",
+				"headline": "BND gibt massenhaft Verbindungsgdaten an NSA",
+				"text": "Nach einem Bericht des Spiegel 32/2013 leitet der Bundesnachrichtendienst (BND) massenhaft ausgespähte Kommunkationsdaten aus Deutschland an die National Security Agency (NSA) weiter. ",
+				"asset": {
+					"media": "http://www.spiegel.de/netzwelt/netzpolitik/bnd-leitet-laut-spiegel-massenhaft-metadaten-an-die-nsa-weiter-a-914682.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/561b76c0f764600e91fec563308a2cff_1M.png",
+					"credit": "http://www.spiegel.de/netzwelt/netzpolitik/bnd-leitet-laut-spiegel-massenhaft-metadaten-an-die-nsa-weiter-a-914682.html",
+					"caption": "BND gibt massenhaft Verbindungsgdaten an NSA"
+				}
+			},
+			{
+				"startDate": "2013,8,5,11,0",
+				"endDate": "2013,8,5,11,0",
+				"headline": "RPK: »das habe ich jetzt alles gelernt«",
+				"text": "Thema der heutigen Regierungspressekonferenz: »Zusammenarbeit von BND und NSA« (also wieder mal bezogen auf einen aktuellen Spiegel-Bericht)\n\nDer stellvertretende Regierungssprecher Streiter: »Er (der BND) hat klargestellt, dass er keine Verbindungsdaten deutscher Staatsbürger weitergeleitet hat.Deutsche Telekommunikationsverkehre und deutsche Staatsangehörige sind von dieser Erfassung nicht betroffen.« \n\nWieduwilt (Sprecher des BMJ): »Ich habe keine Auflistung darüber, welche Vereinbarungen dem Bundesjustizministerium bekannt sind und welche nicht.«\n\nStreiter auf eine Frage zu den vom Spiegel erwähnten 500 Mio Datensätzen pro Monat: »Also nur einmal - das habe ich jetzt alles gelernt - zur Information: Wenn Sie jetzt irgendwo mit einem Handy telefonieren, dann ist das nicht ein Datensatz, sondern dann sind das schon ganz viele Datensätze, nämlich zum Verbindungsaufbau, zum Verbindungsabbau usw. usw. usw...Es bleibt dabei: Im Jahr 2012 wurden lediglich zwei Datensätze, die eine Person betreffen, weitergeleitet.«\n\nStreiter: »Von 500 Millionen deutschen Verbindungsdaten wissen wir gar nichts. Wir haben einige Fragen an die Amerikaner geschickt. Wir harren der Antwort.«",
+				"asset": {
+					"media": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/08/2013-08-05-reg-pk.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/08/2013-08-05-reg-pk.html",
+					"caption": "RPK: »das habe ich jetzt alles gelernt«"
+				}
+			},
+			{
+				"startDate": "2013,8,5,12,0",
+				"endDate": "2013,8,5,12,0",
+				"headline": "RPK de luxe: »Bisher! - Genau! - Richtig!«",
+				"text": "Nochmal aus der RPK. Das ist so gut, das ist Comedy pur und verdient einen eigenen Eintrag:\n\nZusatzfrage: »Wer schützt denn meine Daten als deutscher Bürger davor, dass der amerikanische Geheimdienst in Deutschland oder in Europa darauf zugreift, wenn nicht die Bundesregierung? Soll ich da selbst vorgehen? Das ist doch Ihre Aufgabe, oder?«\n \nStellvertretender Regierungssprecher Streiter: »Ja, aber im Moment ist ja noch gar nicht erwiesen, dass Ihre Daten irgendwo gelandet sind, wo sie nicht hingehören.«\n \nZusatzfrage: »Müsste ich Ihnen das nachweisen?«\n \nSRS Streiter: »Das müssen Sie mir gar nicht nachweisen.«\n \nZusatz: »Der Verdacht steht doch seit sechs Wochen im Raum, und Sie sagen seit sechs Wochen, dass Sie keine Erkenntnisse darüber haben.«\n \nSRS Streiter: »Bisher!«\n \nZusatz: »Genau.«\n \nSRS Streiter: »Richtig. Vielleicht wird sich das ja einmal ändern.«",
+				"asset": {
+					"media": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/08/2013-08-05-reg-pk.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/08/2013-08-05-reg-pk.html",
+					"caption": "RPK de luxe: »Bisher! - Genau! - Richtig!«"
+				}
+			},
+			{
+				"startDate": "2013,8,5,21,0",
+				"endDate": "2013,8,5,21,0",
+				"headline": "Strafanzeige gegen unbekannt",
+				"text": "Wolfgang Dudda, Mitglied der Piraten-Fraktion im Landtag Schleswig-Holstein, hat heute eine Strafanzeige gegen unbekannt eingereicht.\n\nDetails dazu bei <a href=https://www.lawblog.de/index.php/archives/2013/08/05/deutsche-tatorte>Udo Vetter</a>",
+				"asset": {
+					"media": null,
+					"thumbnail": "http://cdn.dipity.com/uploads/events/b9c14cbd92816b7c6f59ece7fad2bed0_1M.png",
+					"credit": null,
+					"caption": "Strafanzeige gegen unbekannt"
+				}
+			},
+			{
+				"startDate": "2013,8,7,11,0",
+				"endDate": "2013,8,7,11,0",
+				"headline": "RPK: Steinmeier segnete 2002 eine Kooperation BND-NSA ab",
+				"text": "Auf der heutigen Regierungspressekonferenz gab der stellvertretende Regierungssprecher Streiter folgendes bekannt:\n\n»Am 28. April 2002 wurde ein „Memorandum of Agreement” zwischen dem BND und der NSA zur zukünftigen Zusammenarbeit über die Einrichtung einer gemeinsamen sogenannten SIGINT-Stelle in Bad Aibling geschlossen, also eine gemeinsame Stelle für die geheimdienstliche Gewinnung von Informationen aus Signalen. - Das ist sozusagen die wörtliche Übersetzung dieses Fachbegriffs SIGINT.\n\nDieses Dokument ist bis heute die Grundlage für die Zusammenarbeit zwischen BND und NSA in Bad Aibling. Dieses Abkommen geht zurück auf eine Grundsatzentscheidung des damaligen Chefs des Bundeskanzleramtes Frank-Walter Steinmeier.«",
+				"asset": {
+					"media": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/08/2013-08-07-regpk.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/f301ff939013b34e4f124cf96385f213_1M.png",
+					"credit": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/08/2013-08-07-regpk.html",
+					"caption": "RPK: Steinmeier segnete 2002 eine Kooperation BND-NSA ab"
+				}
+			},
+			{
+				"startDate": "2013,8,9,9,0",
+				"endDate": "2013,8,9,9,0",
+				"headline": "»Komplize bei Verbrechen gegen das amerikanische Volk«",
+				"text": "Der E-Mail Provider Lavabit hat seinen Dienst eingestellt, offensichtlich auf Druck U.S.-amerikanischer Behörden. Lavabit bot eine besondere End-to-End-Verschlüsselung an und wurde auch von Edward Snowden genutzt. Auf der Webseite des Unternehmens schreibt der Gründer Ladar Levison:\n\n»I have been forced to make a difficult decision: to become complicit in crimes against the American people or walk away from nearly ten years of hard work by shutting down Lavabit. After significant soul searching, I have decided to suspend operations...\n\nThis experience has taught me one very important lesson: without congressional action or a strong judicial precedent, I would _strongly_ recommend against anyone trusting their private data to a company with physical ties to the United States.«\n\nLevison wurde offensichtlich auch verboten, die Gründe für das Schließen seines Dienstes genau darzulegen.\n\nHier noch ein deutscher Artikel dazu bei <a href=http://www.faz.net/aktuell/politik/ausland/amerika/nsa-affaere-snowdens-mailanbieter-stellt-arbeit-ein-12474935.html>FAZ Online</a>",
+				"asset": {
+					"media": "http://lavabit.com/",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/bb81f97b7d63f6f6435114886f98ba24_1M.png",
+					"credit": "http://lavabit.com/",
+					"caption": "»Komplize bei Verbrechen gegen das amerikanische Volk«"
+				}
+			},
+			{
+				"startDate": "2013,8,12,15,0",
+				"endDate": "2013,8,12,15,0",
+				"headline": "RPK: »Die NSA hält sich an alle Abkommen«",
+				"text": "Kanzleramtsminister Pofalla hat nach der Sitzung des Parlamentarischen Kontrollgremiums ein Pressestatement abgegeben.\n\nInhaltliche Aufbereitung folgt noch.",
+				"asset": {
+					"media": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/08/2013-08-12-pofalla.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/335066027bf399d75e784b18abca06a7_1M.png",
+					"credit": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/08/2013-08-12-pofalla.html",
+					"caption": "RPK: »Die NSA hält sich an alle Abkommen«"
+				}
+			},
+			{
+				"startDate": "2013,8,16,7,0",
+				"endDate": "2013,8,16,7,0",
+				"headline": "NSA verletzt tausendfach die Rechte von U.S:-Bürgern",
+				"text": "Nach einem Bericht der Washington Post hat der Geheimdienst NSA tausendfach pro Jahr U.S.-Gesetze gebrochen und U.S.-amerikanische Staatssbürger abgehört und überwacht. Kurios ist eine veröffentlichte Begründung für die Verstöße: man habe zum Beispiel die Telefonvorwahl von Washington D.C. mit der von Ägypten verwechselt.\n\nHier ein Bericht der <a href=http://www.sueddeutsche.de/politik/ueberwachung-in-den-usa-geheimdienst-nsa-soll-tausendfach-datenschutz-verletzt-haben-1.1747349>Süddeutschen Online</a> dazu.",
+				"asset": {
+					"media": "http://www.washingtonpost.com/world/national-security/nsa-broke-privacy-rules-thousands-of-times-per-year-audit-finds/2013/08/15/3310e554-05ca-11e3-a07f-49ddc7417125_story.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/5958f8943cc41089b837f780f0ca3961_1M.png",
+					"credit": "http://www.washingtonpost.com/world/national-security/nsa-broke-privacy-rules-thousands-of-times-per-year-audit-finds/2013/08/15/3310e554-05ca-11e3-a07f-49ddc7417125_story.html",
+					"caption": "NSA verletzt tausendfach die Rechte von U.S:-Bürgern"
+				}
+			},
+			{
+				"startDate": "2013,8,18,23,0",
+				"endDate": "2013,8,18,23,0",
+				"headline": "»Wir leben in einem postdemokratischen System«",
+				"text": "In der ARD-Sendung <a href=http://www.daserste.de/information/wissen-kultur/ttt/sendung/hr/sendung_vom_18082013-102.html>Titel, Thesen, Temperamente</a> haben sich Hans Magnus Enzensberger und Frank Schirrmacher mit ziemlich drastischen Worten zur Überwachungsaffäre geäußert.\n\n(Leider noch nicht auf Youtube verfügbar)",
+				"asset": {
+					"media": "http://www.daserste.de/information/wissen-kultur/ttt/sendung/hr/sendung_vom_18082013-102.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/326e016776b411fe3c1571d4eee45774_1M.png",
+					"credit": "http://www.daserste.de/information/wissen-kultur/ttt/sendung/hr/sendung_vom_18082013-102.html",
+					"caption": "»Wir leben in einem postdemokratischen System«"
+				}
+			},
+			{
+				"startDate": "2013,8,19,1,0",
+				"endDate": "2013,8,19,1,0",
+				"headline": "Lebensgefährte von Greenwald festgehalten und verhört",
+				"text": "Der braslianische Lebensgefährte des Enthüllungsjournalisten Glenn Greenwald wurde neun Stunden am Londoner Flughafen Heathrow festgehalten und verhört. Auf Grundlage des »Terrorism Act 2000« konfiszierten die britischen Behörden außerdem seine mitgeführten elektronischen Geräte.\n\nDas schreibt <a href=www.spiegel.de/politik/ausland/partner-von-snowden-vertrautem-in-heathrow-festgehalten-a-917248.html>Spiegel Online</a>.",
+				"asset": {
+					"media": "http://www.theguardian.com/world/2013/aug/18/glenn-greenwald-guardian-partner-detained-heathrow",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/a601676dd43633e28fe276341f2f81fd_1M.png",
+					"credit": "http://www.theguardian.com/world/2013/aug/18/glenn-greenwald-guardian-partner-detained-heathrow",
+					"caption": "Lebensgefährte von Greenwald festgehalten und verhört"
+				}
+			},
+			{
+				"startDate": "2013,8,19,16,0",
+				"endDate": "2013,8,19,16,0",
+				"headline": "RPK: »Im Westen nichts Neues«",
+				"text": "Kanzleramtsminister Pofalla hat nach der heutigen Sitzung des Parlamentarischen Kontrollgremiums ein weiteres Pressestatement abgegeben: »Zunächst möchte ich betonen, dass sich an den Ergebnissen aus der vergangenen Woche, die ich ja hier an dieser Stelle vorgetragen habe, nichts geändert hat.«\n\nDer Titel ist ein Kommentar von mir. Hier noch einige Artikel diverser Zeitungen: \n\n<a href=http://www.zeit.de/politik/deutschland/2013-08/nsa-kontrollgremium-pofalla>Zeit Online</a>\n\n<a href=http://www.tagesschau.de/inland/nsa-affaere126.html>Tagesschau.de</a>\n\n<a href=www.spiegel.de/politik/deutschland/nsa-affaere-pofalla-will-bundestag-einsicht-in-dokumente-gewaehren-a-917429.html>Spiegel Online</a>\n",
+				"asset": {
+					"media": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/08/2013-08-19-pofalla.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/5b7817dde4bbc58c16ffde26db7238d8_1M.png",
+					"credit": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/08/2013-08-19-pofalla.html",
+					"caption": "RPK: »Im Westen nichts Neues«"
+				}
+			},
+			{
+				"startDate": "2013,8,20,0,0",
+				"endDate": "2013,8,20,0,0",
+				"headline": "»the danger that all reporters now face«",
+				"text": "Alan Rusbridger, der Chefredakteur des Guardian, hat in seiner Kolumne eher beiläufig beschrieben, wie der britische Geheimdienst in den vergangenen Wochen Druck auf das Blatt ausgeübt hat. Die Geschichte gipfelt in einer Schilderung der Zerstörung von Festplatten und eines Notebooks, zu dem der Guardian nach eigenen Angaben von Regierungsbehören gezwungen wurde.\n\nHier ein Artikel in <a href=http://www.zeit.de/politik/ausland/2013-08/guardian-greenwald-miranda>Zeit Online</a> zum Thema.",
+				"asset": {
+					"media": "http://www.theguardian.com/commentisfree/2013/aug/19/david-miranda-schedule7-danger-reporters",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/f8e3b972041b007be18808bf23d1ec96_1M.png",
+					"credit": "http://www.theguardian.com/commentisfree/2013/aug/19/david-miranda-schedule7-danger-reporters",
+					"caption": "»the danger that all reporters now face«"
+				}
+			},
+			{
+				"startDate": "2013,8,20,10,0",
+				"endDate": "2013,8,20,10,0",
+				"headline": "Süddeutsche: »Angriff auf die Aufklärer«",
+				"text": "Ein Kommentar von Stefan Plöchinger (Süddeutsche Zeitung):\n\n»Verhör auf dem Flughafen, zerschmetterte Festplatten im Redaktionskeller: Wie die britische Regierung mit dem \"Guardian\" umgeht, ist einer westlichen Regierung unwürdig. Die Vorgänge belegen, was der Überwachungsskandal um den Whistleblower Edward Snowden schon nahegelegt hat - Journalismus wird in seiner Substanz attackiert...« ",
+				"asset": {
+					"media": "http://www.sueddeutsche.de/medien/druck-auf-guardian-nach-snowden-enthuellungen-angriff-auf-die-aufklaerer-1.1750065",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/6993472acf20fc1d2b35c68a2a72477c_1M.png",
+					"credit": "http://www.sueddeutsche.de/medien/druck-auf-guardian-nach-snowden-enthuellungen-angriff-auf-die-aufklaerer-1.1750065",
+					"caption": "Süddeutsche: »Angriff auf die Aufklärer«"
+				}
+			},
+			{
+				"startDate": "2013,8,20,13,0",
+				"endDate": "2013,8,20,13,0",
+				"headline": "»Kein Wort der Entschuldigung«",
+				"text": "Udo Vetter, bekannter Blogger und Rechtsanwalt, kommentiert die Festsetzung von David Miranda auf dem Londoner Flughafen Heathrow:\n\n»...Verstörend ist das alles vor allem, weil von den britischen Behörden nicht ein Wort der Entschuldigung über die Lippen kommt. Im Gegenteil, sie fühlen sich im Recht. Dabei berufen sie sich auf die Antiterrorgesetze im Land...«",
+				"asset": {
+					"media": "http://www.lawblog.de/index.php/archives/2013/08/20/voreilig-festgelegt/",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/6993472acf20fc1d2b35c68a2a72477c_1M.png",
+					"credit": "http://www.lawblog.de/index.php/archives/2013/08/20/voreilig-festgelegt/",
+					"caption": "»Kein Wort der Entschuldigung«"
+				}
+			},
+			{
+				"startDate": "2013,8,21,8,0",
+				"endDate": "2013,8,21,8,0",
+				"headline": "NSA hört drei Viertel des inländischen Internetverkehrs ab?",
+				"text": "Nach Angaben des Wall Street Journal kann dier Geheimdienst NSA drei Viertel des U.S.-Internetverkehrs abhören. Damit verstoße die NSA wahrscheinlich massiv gegen U.S.-amerikanische Gesetze.",
+				"asset": {
+					"media": "www.wsj.de/article/SB10001424127887324108204579025891815115028.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/e197030bfd5bda7c87ce3571aeaf93a6_1M.png",
+					"credit": "www.wsj.de/article/SB10001424127887324108204579025891815115028.html",
+					"caption": "NSA hört drei Viertel des inländischen Internetverkehrs ab?"
+				}
+			},
+			{
+				"startDate": "2013,8,21,10,0",
+				"endDate": "2013,8,21,10,0",
+				"headline": "»Keine Antwort ist auch eine Antwort«",
+				"text": "Netzpolitik.org hat die Antworten auf eine Kleine Anfrage der SPD im Bundestag analyiert. Von 115 Fragen habe die Bundesregierung aus »Geheimhaltungsgründen« 27 nur teilweise oder gar nicht öffentlich beantwortet.",
+				"asset": {
+					"media": "http://netzpolitik.org/2013/internetueberwachung-worauf-die-bundesregierung-nicht-oeffentlich-antworten-will/",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/5fa401e8803ed788a81fb8f3244df9ac_1M.png",
+					"credit": "http://netzpolitik.org/2013/internetueberwachung-worauf-die-bundesregierung-nicht-oeffentlich-antworten-will/",
+					"caption": "»Keine Antwort ist auch eine Antwort«"
+				}
+			},
+			{
+				"startDate": "2013,8,21,11,0",
+				"endDate": "2013,8,21,11,0",
+				"headline": "RPK: »Großbritannien ist ein Land der Freiheit«",
+				"text": "Zusatzfrage: Es gibt ja konkrete Hinweise darauf, dass sich Herr Cameron da - auch im Vorfeld dieser Aktion beim „Guardian“ - persönlich eingeschaltet hat. Würden Sie sagen, dass das bei uns in Deutschland absolut undenkbar ist?\n\nZweitens. Der Menschenrechtsbeauftragte Löning hat gesagt, damit sei eine rote Linie überschritten. Das sind starke Worte. Gibt es vor dem Hintergrund dieser Einschätzung möglicherweise den Bedarf, bilateral einmal nachzufragen, was da passiert ist und wie es um das Presserecht in Großbritannien, einem wichtigen EU-Partner, bestellt ist?\n\nRegierungssprecher Seibert: Großbritannien ist ein Land der Freiheit, der Demokratie, und ein Land mit einer extrem lebendigen Presselandschaft. Genau deshalb wird dieses wichtige Thema dort jetzt so intensiv diskutiert - wie es auch richtig ist. Wie gesagt, ich glaube, dazu braucht es kein Zutun durch den Regierungssprecher in Deutschland.",
+				"asset": {
+					"media": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/08/2013-08-21-regpk.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/08/2013-08-21-regpk.html",
+					"caption": "RPK: »Großbritannien ist ein Land der Freiheit«"
+				}
+			},
+			{
+				"startDate": "2013,8,22,7,0",
+				"endDate": "2013,8,22,7,0",
+				"headline": "NSA verstößt gegen U.S.-Verfassung",
+				"text": "Nach einem jetzt veröffentlichten Urteil eines U.S.-Geheimgerichts aus 2011 hat die NSA drei Jahre lang gegen die Verfassung verstoßen, weil der Geheimdienst ohne individuelle Gerichtsbeschlüsse systematisch Kommunikationsdaten von Inländern gesammelt habe.",
+				"asset": {
+					"media": "www.wsj.de/article/SB10001424127887324619504579027862333058526.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/dfeee26a881650e6d137c9545755e7ed_1M.png",
+					"credit": "www.wsj.de/article/SB10001424127887324619504579027862333058526.html",
+					"caption": "NSA verstößt gegen U.S.-Verfassung"
+				}
+			},
+			{
+				"startDate": "2013,8,23,17,0",
+				"endDate": "2013,8,23,17,0",
+				"headline": "NSA bezahlte an PRISM beteiligte IT-Provider ",
+				"text": "The Guardian veröffentlicht Dokumente aus denen hervorgeht, dass der U.S.-Geheimdienst NSA die am PRISM-Programm beteiligten Provider mit Millionenbeträgen entschädigt hat.\n\nYahoo hat die Zahlungen mittlerweile bestätigt. (Quelle: <a href=http://www.zeit.de/gesellschaft/zeitgeschehen/2013-08/nsa-kooperation-internetfirmen>Zeit Online</a>)\n\n[Kommentar]: Es lohnt sich, in diesem Zusammenhang mal die Statements der Provider vom 7. Juni zu lesen (sind auch hier auf der Timeline).",
+				"asset": {
+					"media": "http://www.theguardian.com/world/2013/aug/23/nsa-prism-costs-tech-companies-paid",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/10742a9e9bbc23a3b8047bc46d6d4354_1M.png",
+					"credit": "http://www.theguardian.com/world/2013/aug/23/nsa-prism-costs-tech-companies-paid",
+					"caption": "NSA bezahlte an PRISM beteiligte IT-Provider "
+				}
+			},
+			{
+				"startDate": "2013,8,24,18,0",
+				"endDate": "2013,8,24,18,0",
+				"headline": "LOVEINT - NSA-Mitarbeiter spähen Geliebte aus",
+				"text": "Nach einem Bericht des Wall Street Journal hat es in den vergangenen zehn Jahren eine Handvoll Fälle gegeben, in denen NSA-Mitarbeiter potentielle Geliebte oder Lebens- und Ehepartner ausgespäht haben. Intern hat sich die Bezeichnung LOVEINT dafür eingebürgert.",
+				"asset": {
+					"media": "www.wsj.de/article/SB10001424127887324619504579032662980533586.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/a1b6d16192b7d6939da0499590f1f071_1M.png",
+					"credit": "www.wsj.de/article/SB10001424127887324619504579032662980533586.html",
+					"caption": "LOVEINT - NSA-Mitarbeiter spähen Geliebte aus"
+				}
+			},
+			{
+				"startDate": "2013,8,25,8,0",
+				"endDate": "2013,8,25,8,0",
+				"headline": "NSA hörte UN-Zentrale ab",
+				"text": "Nach Informationen des aktuellen Spiegel 35-2013 hat der U.S.-amerikanische Geheimdienst auch die UN-Zentrale in New York abgehört. Aus dem Nachrichtenmagazin vorliegenden Unterlagen gehe weiter hervor, dass die NSA die EU-Botschaft auch nach deren Umzug im September 2012 ausgespäht habe.",
+				"asset": {
+					"media": "www.spiegel.de/politik/ausland/nsa-hoerte-zentrale-der-vereinte-nationen-in-new-york-ab-a-918421.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1c812b6aaff35285eca4b2b3dc29cf0f_1M.png",
+					"credit": "www.spiegel.de/politik/ausland/nsa-hoerte-zentrale-der-vereinte-nationen-in-new-york-ab-a-918421.html",
+					"caption": "NSA hörte UN-Zentrale ab"
+				}
+			},
+			{
+				"startDate": "2013,8,26,10,0",
+				"endDate": "2013,8,26,10,0",
+				"headline": "»Facebook schlimmer als Geheimdienste«",
+				"text": "Bundesinnenminister in einem Spiegel-Interview (Print):\n\n»Wer etwa wie Internetkonzerne aufgrund der im Netz gesammelten Daten ein exaktes Persönlichkeitsbild von mir zeichnen kann, ohne ausreichend an Gesetze gebunden zu sein, hat ein viel größeres Machtpotential als jeder demokratisch kontrollierte Geheimdienst.«",
+				"asset": {
+					"media": "http://netzpolitik.org/2013/im-friedrich-facebook-schlimmer-als-geheimdienste-oder-so/",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": "http://netzpolitik.org/2013/im-friedrich-facebook-schlimmer-als-geheimdienste-oder-so/",
+					"caption": "»Facebook schlimmer als Geheimdienste«"
+				}
+			},
+			{
+				"startDate": "2013,8,26,11,0",
+				"endDate": "2013,8,26,11,0",
+				"headline": "Gebetsmühle Regierungspressekonferenz",
+				"text": "Die heutige Regierungspressekonferenz ähnelte einer Gebetsmühle. Regierungssprecher Seibert, angesprochen auf die neuesten Enthüllungen:\n\n»Was angebliche Ausspähungsversuche gegen UN-Gebäude in New York betrifft, haben wir keine eigenen Erkenntnisse.«\n\n»Der Bundesnachrichtendienst handelt selbstverständlich auf der Grundlage der Gesetze, die sein Handeln bestimmen, und das hält er durch, daran hält er sich durchwegs.«\n\n»Wir handeln nach der Maßgabe, die wir auch zu Beginn dieser Diskussion schon genannt haben.«\n\n»Der BND hält sich an die Gesetze, die sein Handeln bestimmen, also das G-10-Gesetz usw. Darin ist alles nachzulesen. Die Gesetze sind ja nicht geheim, sondern können nachgelesen werden. An diese Gesetze halten sich der Bundesnachrichtendienst wie auch die anderen Dienste - sie halten sich an Recht und Gesetz in Deutschland.«\n\n»Ich kann hier, wie Sie sicherlich verstehen werden, über einzelne Fälle nicht sprechen. Ich kann über die Gesetzgebundenheit des Bundesnachrichtendienstes und auch der anderen Dienste sprechen.«\n\nTeschke (Sprecher des BMI): »Ja, auch der Bundesverfassungsschutz arbeitet natürlich auf gesetzlicher Basis, und das sind die G-10-Gesetze.«\n",
+				"asset": {
+					"media": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/08/2013-08-26-regpk.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/08/2013-08-26-regpk.html",
+					"caption": "Gebetsmühle Regierungspressekonferenz"
+				}
+			},
+			{
+				"startDate": "2013,8,26,14,0",
+				"endDate": "2013,8,26,14,0",
+				"headline": "Google wehrt sich gegen Schweigepflicht",
+				"text": "Google wehrt sich offenbar gegen die auferlegte Geheimhaltungspflicht bezüglich Geheimdienstanfragen. Herausgekommen ist dies offenbar aufgrund der Schusseligkeit eines NSA-Zensoren.\n\nHier ein <a href=http://www.heise.de/newsticker/meldung/NSA-Affaere-Schusselige-Zensoren-enttarnen-Google-1943401.html>Artikel von heise</a> zu dem Thema.",
+				"asset": {
+					"media": "http://blogs.wsj.com/digits/2013/08/26/open-secret-about-googles-surveillance-case-no-longer-secret/",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/fdebd13cac7a2bb955699369662ea3fc_1M.png",
+					"credit": "http://blogs.wsj.com/digits/2013/08/26/open-secret-about-googles-surveillance-case-no-longer-secret/",
+					"caption": "Google wehrt sich gegen Schweigepflicht"
+				}
+			},
+			{
+				"startDate": "2013,8,28,15,0",
+				"endDate": "2013,8,28,15,0",
+				"headline": "Bundestag blockiert Petition gegen Tempora",
+				"text": "Der Petitionsausschuss des Bundestags hat eine von der politischen Geschäftsführerin der Piratenpartei, Katharina Nocun, eingereichte Petition blockiert. Die Petition wollte eine Klage vor dem Europäischen Gerichtshof für Menschenrechte erwirken (»wegen Verletzung des Grundrechts auf Achtung der Privatsphäre und der Korrespondenz durch Abfangen, Speichern und Überwachen des weltweiten Telekommunikations- und Internet-Datenverkehrs ('Tempora-Programm')«).\n\nBegründung des Ausschusses: Die Petition würde weder eine lebhafte noch eine sachliche öffentliche Diskussion anregen oder sei nicht konkret genug.\n\nHier eine <a href=www.spiegel.de/netzwelt/netzpolitik/tempora-bundestag-weist-petition-gegen-ueberwachung-ab-a-919189.html>Artikel von Spiegel-Online</a> dazu.",
+				"asset": {
+					"media": "http://www.piratenpartei.de/2013/08/28/bundestag-blockiert-petition-fur-klage-gegen-britisches-spahprogramm-tempora/",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/b9c14cbd92816b7c6f59ece7fad2bed0_1M.png",
+					"credit": "http://www.piratenpartei.de/2013/08/28/bundestag-blockiert-petition-fur-klage-gegen-britisches-spahprogramm-tempora/",
+					"caption": "Bundestag blockiert Petition gegen Tempora"
+				}
+			},
+			{
+				"startDate": "2013,8,28,22,0",
+				"endDate": "2013,8,28,22,0",
+				"headline": "Details zu Tempora veröffentlicht",
+				"text": "Die Süddeutsche Zeitung und der NDR veröffentlichen Details zum Tempora-Programm des britischen Geheimdienstes GCHQ. Danach »haben die Briten theoretisch sogar Zugriff auf Internetverbindungen innerhalb Deutschlands.«\n\nHier die <a href=http://www.tagesschau.de/inland/gchqtelekom100.html>Tagesschau-Meldung</a>.",
+				"asset": {
+					"media": "http://www.sueddeutsche.de/politik/internet-ueberwachung-britischer-geheimdienst-zapft-daten-aus-deutschland-ab-1.1757068",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/dc0017f38f201ec463d9a0d451c97370_1M.png",
+					"credit": "http://www.sueddeutsche.de/politik/internet-ueberwachung-britischer-geheimdienst-zapft-daten-aus-deutschland-ab-1.1757068",
+					"caption": "Details zu Tempora veröffentlicht"
+				}
+			},
+			{
+				"startDate": "2013,8,29,21,0",
+				"endDate": "2013,8,29,21,0",
+				"headline": "Washington Post veröffentlicht Einzelheiten zu Geheimbudgets",
+				"text": "Die Washington Post hat Zahlen über die geheimen Budgets der U.S.-amerikanischen Geheimdienste veröffentlicht, die sie einem 178-seitigen von Edward Snowden geleakten Dokument entnommen hat. Demnach haben die 16 Geheimdienste über 100.000 Mitarbeiter und 2013 ein Budget von über 50 Mrd Dollar gehabt.\n\nHier ein <a href=http://www.zeit.de/digital/datenschutz/2013-08/geheimdienste-haushalt-snowden-nsa-cia>Artikel von Zeit Online</a>.",
+				"asset": {
+					"media": "http://www.washingtonpost.com/world/national-security/black-budget-summary-details-us-spy-networks-successes-failures-and-objectives/2013/08/29/7e57bb78-10ab-11e3-8cdd-bcdc09410972_story.html?hpid=z1",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/d09a28c97ccbfa4253baff4d8ccd86d3_1M.png",
+					"credit": "http://www.washingtonpost.com/world/national-security/black-budget-summary-details-us-spy-networks-successes-failures-and-objectives/2013/08/29/7e57bb78-10ab-11e3-8cdd-bcdc09410972_story.html?hpid=z1",
+					"caption": "Washington Post veröffentlicht Einzelheiten zu Geheimbudgets"
+				}
+			},
+			{
+				"startDate": "2013,8,30,21,0",
+				"endDate": "2013,8,30,21,0",
+				"headline": "Edward Snowden erhält Whistleblower-Preis",
+				"text": "Bürgerrechtsgruppen haben in Berlin Edward Snowden in seiner Abwesenheit mit dem Whistleblower-Preis ausgezeichnet.\n\n[Update 3.9.2013]: <a href=http://www.zeit.de/digital/datenschutz/2013-09/edward-snowden-whistleblower-preis-rede>Zeitonline</a> hat seine Dankesrede abgedruckt",
+				"asset": {
+					"media": "http://www.tagesschau.de/inland/snowden-preis100.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/b4966211f8389492d3f1d3ba8cdd9da3_1M.png",
+					"credit": "http://www.tagesschau.de/inland/snowden-preis100.html",
+					"caption": "Edward Snowden erhält Whistleblower-Preis"
+				}
+			},
+			{
+				"startDate": "2013,8,31,10,0",
+				"endDate": "2013,8,31,10,0",
+				"headline": "Briten bedrängten auch die New York Times",
+				"text": "Der britische Geheimdienst GCHQ hat offenbar auch die New York Times unter Druck setzen wollen. Die Zeitung habe aber nicht darauf reagiert, meldete die Nachrichtenagentur Reuters. Die New York Times nahm keine Stellung zu dem Bericht.",
+				"asset": {
+					"media": "http://www.tagesschau.de/ausland/newyorktimes116.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/aa948847542a7b306bc928d44338d519_1M.png",
+					"credit": "http://www.tagesschau.de/ausland/newyorktimes116.html",
+					"caption": "Briten bedrängten auch die New York Times"
+				}
+			},
+			{
+				"startDate": "2013,8,31,12,0",
+				"endDate": "2013,8,31,12,0",
+				"headline": "NSA-Spähsoftware auf weltweit über 85.000 Rechnern",
+				"text": "Nach einem Bericht der <a href=http://www.washingtonpost.com/world/national-security/us-spy-agencies-mounted-231-offensive-cyber-operations-in-2011-documents-show/2013/08/30/d090a6ae-119e-11e3-b4cb-fd7ce041d814_story.html?hpid=z2>Washington Post</a> hat die NSA weltweit über 85.000 Rechner infiltriert und dort spezielle Spähsoftware eingepflanzt. Im Jahr 2011 soll die NSA außerdem mindestens 231 Cyberattacken initiiert haben.",
+				"asset": {
+					"media": "http://www.zeit.de/digital/datenschutz/2013-08/usa-geheimdienste-cyberattacken-snowden",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/d512cd3f1aaebb5d7c85bc9b6824b835_1M.png",
+					"credit": "http://www.zeit.de/digital/datenschutz/2013-08/usa-geheimdienste-cyberattacken-snowden",
+					"caption": "NSA-Spähsoftware auf weltweit über 85.000 Rechnern"
+				}
+			},
+			{
+				"startDate": "2013,8,31,20,0",
+				"endDate": "2013,8,31,20,0",
+				"headline": "NSA spähte Al Jazeera aus",
+				"text": "Nach Informationen des Nachrichtenmagazins Der Spiegel spähte der U.S.-amerikanische Geheimdienst NSA auch den Nachrichtensender Al Jazeera aus.",
+				"asset": {
+					"media": "http://www.spiegel.de/netzwelt/netzpolitik/arabischer-nachrichtensender-nsa-spionierte-al-dschasira-aus-a-919688.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e8b9914bf5d1bdabc4c549d364ccf61_1M.png",
+					"credit": "http://www.spiegel.de/netzwelt/netzpolitik/arabischer-nachrichtensender-nsa-spionierte-al-dschasira-aus-a-919688.html",
+					"caption": "NSA spähte Al Jazeera aus"
+				}
+			},
+			{
+				"startDate": "2013,9,1,8,0",
+				"endDate": "2013,9,1,8,0",
+				"headline": "NSA bespitzelte das französische Außenministerium",
+				"text": "Der aktuelle <a href=https://magazin.spiegel.de/reader/index_SP.html#j=2013&h=36&a=110118007-110118011-110118014-110118017-110118021>Spiegel 36/2013</a> berichtet, dass die NSA auch das französische Außenministerium umfangreicht bespitzelt habe.\n\n[Kommentar: Langsam wird es einfacher auzuzählen, wer nicht überwacht wird]",
+				"asset": {
+					"media": "www.spiegel.de/politik/ausland/snowden-enthuellung-nsa-spionierte-im-franzoesischen-aussenministerium-a-919695.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/c02888df9a48af8944f89681bd0c7c4c_1M.png",
+					"credit": "www.spiegel.de/politik/ausland/snowden-enthuellung-nsa-spionierte-im-franzoesischen-aussenministerium-a-919695.html",
+					"caption": "NSA bespitzelte das französische Außenministerium"
+				}
+			},
+			{
+				"startDate": "2013,9,2,10,0",
+				"endDate": "2013,9,2,10,0",
+				"headline": "Auch Brasilien und Mexiko betroffen",
+				"text": "Nach einem Fernsehbericht des brasilianische Fernsehsenders Globo hat der amerikanische Geheimdienst NSA die brasilianische und mexikanische Regierung ausspioniert.\n\n[Update 3.9.07:00 Uhr] Beide Staaten haben den jeweiligen U.S.-Botschafter einbestellt. (Quelle: <a href=www.spiegel.de/politik/ausland/nsa-affaere-brasilien-und-mexiko-bestellen-us-botschafter-ein-a-920006.html>Spiegel Online</a>)",
+				"asset": {
+					"media": "http://www.faz.net/aktuell/politik/ausland/amerika/ausspaeh-affaere-nsa-ueberwachte-praesidenten-mexikos-und-brasiliens-12556633.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/81414d85089e7904de57b7da831de94e_1M.png",
+					"credit": "http://www.faz.net/aktuell/politik/ausland/amerika/ausspaeh-affaere-nsa-ueberwachte-praesidenten-mexikos-und-brasiliens-12556633.html",
+					"caption": "Auch Brasilien und Mexiko betroffen"
+				}
+			},
+			{
+				"startDate": "2013,9,2,20,0",
+				"endDate": "2013,9,2,20,0",
+				"headline": "F.A.Q. zu #PRISM & Co.",
+				"text": "Die Gesellschaft für Informatik hat eine F.A.Q. mit 40 Fragen und Antworten zum größten Späh- und Überwachungsskandal der Nachkriegsgeschichte erstellt.",
+				"asset": {
+					"media": "http://www.gi.de/themen/ueberwachungsaffaire-2013",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/fe3d2e47084fa0bc506fc2868f69a1cd_1M.png",
+					"credit": "http://www.gi.de/themen/ueberwachungsaffaire-2013",
+					"caption": "F.A.Q. zu #PRISM & Co."
+				}
+			},
+			{
+				"startDate": "2013,9,3,14,0",
+				"endDate": "2013,9,3,14,0",
+				"headline": "»Friedrich im Land der Phantasie«",
+				"text": "Sascha Lobo kommentiert das Verhalten von Bundesinnenminister Friedrich in der Späh- und Überwachungsaffäre:\n»Innenminister Friedrich verschließt sich in der NSA-Affäre vor der Realität: In seinen Augen werden Beweise zu bloßen Behauptungen. Es ist unmöglich, mit so jemandem ernsthaft politisch zu diskutieren...«",
+				"asset": {
+					"media": "www.spiegel.de/netzwelt/web/sascha-lobo-ueber-friedrichs-realitaetsferne-sicht-auf-die-nsa-affaere-a-920041.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/6993472acf20fc1d2b35c68a2a72477c_1M.png",
+					"credit": "www.spiegel.de/netzwelt/web/sascha-lobo-ueber-friedrichs-realitaetsferne-sicht-auf-die-nsa-affaere-a-920041.html",
+					"caption": "»Friedrich im Land der Phantasie«"
+				}
+			},
+			{
+				"startDate": "2013,9,5,14,0",
+				"endDate": "2013,9,5,14,0",
+				"headline": "Datenschutzbeauftragte: »Zeit für Konsequenzen«",
+				"text": "Die Datenschutzbeauftragten von Bund und Ländern fordern die Bundesregierung in einer gemeinsamen Erklärung zum Handeln auf. Unter dem Motto <a href=http://www.bfdi.bund.de/SharedDocs/Publikationen/Entschliessungssammlung/DSBundLaender/05092013_EntschliessungUeberwachungDurchNachrichtendienste.pdf?__blob=publicationFile>»Zeit für Konsequenzen«</a> stellen sie in einem gemeinsamen Entschließungsantrag einen Forderungskatalog auf. \n\nHier noch ein Bericht von <a href=www.spiegel.de/netzwelt/netzpolitik/nsa-affaere-datenschuetzer-fordern-aufklaerung-von-der-bundesregierung-a-920592.html>Spiegel Online</a> dazu.\n\nPeter Schaar hat dem Bundesinnenministerium außerdem vorgeworfen, die Aufklärung um die Späh- und Überwachungsaffäre zu behindern. (Quelle: <a href=http://www.zeit.de/digital/datenschutz/2013-09/datenschutzbeauftragte-schaar-nsa>Zeit Online</a>)",
+				"asset": {
+					"media": "http://www.bfdi.bund.de/DE/Oeffentlichkeitsarbeit/Pressemitteilungen/2013/Bundespressekonferenz_PressemeldungLDBremen_BfDI_DSK.html?nn=408908",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/116c5123e9b42081a1b71ad224c6ebac_1M.png",
+					"credit": "http://www.bfdi.bund.de/DE/Oeffentlichkeitsarbeit/Pressemitteilungen/2013/Bundespressekonferenz_PressemeldungLDBremen_BfDI_DSK.html?nn=408908",
+					"caption": "Datenschutzbeauftragte: »Zeit für Konsequenzen«"
+				}
+			},
+			{
+				"startDate": "2013,9,6,8,0",
+				"endDate": "2013,9,6,8,0",
+				"headline": "Der Tag 1 nach dem Ende des Internets...",
+				"text": "...wie wir es noch kannten!\n\nDer Guardian hat gestern Abend neue NSA-Folien veröffentlicht. Demnach sind selbst bis heute für sicher gehaltene, im Internet häufig genutzte Verschlüsselungsverfahren durch die Geheimdienste NSA und GCHQ kompromittiert. Unter den Namen »bullrun« und #edgehill haben beide Dienste mit verschiedenen Methoden offensichtlich erfolgreich https, ssl und vpn-Verbindungen überwinden können. Teils durch reine Rechenkapazität, teils durch Zusammenarbeit mit nichtgenannten Firmen, die Verschlüsselungstechnologien anbieten:\n\n<a href=www.spiegel.de/politik/ausland/nsa-und-britischer-geheimdienst-knacken-systematisch-verschluesselung-a-920710.html>Spiegel Online</a>\n\n<a href=http://www.zeit.de/digital/datenschutz/2013-09/nsa-gchq-private-internet-verschluesselung>Zeit Online</a>",
+				"asset": {
+					"media": "http://www.theguardian.com/world/2013/sep/05/nsa-gchq-encryption-codes-security",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/f42a953f5da6e05fc3c79aef7d534650_1M.png",
+					"credit": "http://www.theguardian.com/world/2013/sep/05/nsa-gchq-encryption-codes-security",
+					"caption": "Der Tag 1 nach dem Ende des Internets..."
+				}
+			},
+			{
+				"startDate": "2013,9,6,11,0",
+				"endDate": "2013,9,6,11,0",
+				"headline": "RPK: »Unbewiesene Behauptungen von Herrn Snowden«",
+				"text": "Der stellvertretende Regierungssprecher Streiter auf die aktuellen Enthüllungen:\n\n»Wenn man hier und da einmal eine Computerzeitschrift liest, dann wird man feststellen, dass dieser Verdacht nicht neu ist.«\n\nTeschke (BMI): »Vielleicht kann ich ergänzen. - Wie Sie schon sagen: Das sind ja völlig unbewiesene Behauptungen von Herrn Snowden...Aber es gilt, wie gesagt, erst einmal, dass Herr Snowden Behauptungen aufstellt, die sich in der Vergangenheit durchaus als gegenstandslos herausgestellt haben.«\n\nNochmal Teschke: »Im Übrigen rät der Bundesinnenminister weiterhin zur Verschlüsselung von Daten via E-Mail, und wir bieten dafür die De-Mail an.«\n",
+				"asset": {
+					"media": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/09/2013-09-06-regpk.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/09/2013-09-06-regpk.html",
+					"caption": "RPK: »Unbewiesene Behauptungen von Herrn Snowden«"
+				}
+			},
+			{
+				"startDate": "2013,9,7,10,0",
+				"endDate": "2013,9,7,10,0",
+				"headline": "Bullrun & Edgehill: Auftakt zum Bürgerkrieg?",
+				"text": "Der Journalist Wolfgang Michal kommentiert auf carta.info:\n\n»Was wollen die Geheimdienste GCHQ und NSA mit der Namensgebung für ihre Spähprogramme „Edgehill“ und „Bullrun“ ausdrücken? Dass wir uns in einem Bürgerkrieg befinden? ...«",
+				"asset": {
+					"media": "http://www.carta.info/63827/bullrun-edgehill-auftakt-zum-burgerkrieg/",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/6993472acf20fc1d2b35c68a2a72477c_1M.png",
+					"credit": "http://www.carta.info/63827/bullrun-edgehill-auftakt-zum-burgerkrieg/",
+					"caption": "Bullrun & Edgehill: Auftakt zum Bürgerkrieg?"
+				}
+			},
+			{
+				"startDate": "2013,9,8,22,0",
+				"endDate": "2013,9,8,22,0",
+				"headline": "»Loriot triff NSA«",
+				"text": "Ein Stück Realsatire: In Wien hat jemand eine Villa fotografiert, in der angeblich ein Horchposten der NSA untergebracht ist. Daraufhin entspann sich ein herrlicher Dialog mit einem das Objekt bewachenden Polizisten.",
+				"asset": {
+					"media": "http://www.heise.de/tp/blogs/6/154922",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/00e6d772e3b182676952e2ddc70f1787_1M.png",
+					"credit": "http://www.heise.de/tp/blogs/6/154922",
+					"caption": "»Loriot triff NSA«"
+				}
+			},
+			{
+				"startDate": "2013,9,8,23,0",
+				"endDate": "2013,9,8,23,0",
+				"headline": "»Damit haben wir in Deutschland nichts zu tun«",
+				"text": "Philipp Mißfelder (MdB), außenpolitischer Sprecher der CDU/CSU-Fraktion:\n\n»Es ist kein Thema der Politik. Die neuen Vorwürfe, die kommen, sind ein Thema zwischen der amerikanischen Regierung, der NSA und den Herstellern. Damit haben wir in Deutschland nichts zu tun, und ich sehe auch keine neue Eskalation des Skandals.",
+				"asset": {
+					"media": "http://www.youtube.com/watch?v=ni2cURpksbM",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": "http://www.youtube.com/watch?v=ni2cURpksbM",
+					"caption": "»Damit haben wir in Deutschland nichts zu tun«"
+				}
+			},
+			{
+				"startDate": "2013,9,9,5,0",
+				"endDate": "2013,9,9,5,0",
+				"headline": "NSA betreibt auch Wirtschaftsspionage?",
+				"text": "Der brasilianische Fernsehsender Globo TV berichtet, dass der U.S.-amerikanische Geheimdienst NSA auch SWIFT-Bangeschäfte, die internen Netzwerke von Google und den brasilianischen Ölkonzern Petrobas ausgespäht habe.\n\nHier ein Artikel in deutscher Sprache bei <a href=http://www.zeit.de/digital/internet/2013-09/nsa-brasilien-snowden-swift-google-petrobas>Zeit Online</a>",
+				"asset": {
+					"media": "http://g1.globo.com/fantastico/noticia/2013/09/nsa-documents-show-united-states-spied-brazilian-oil-giant.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/4d3c625664e643db414c07565680d615_1M.png",
+					"credit": "http://g1.globo.com/fantastico/noticia/2013/09/nsa-documents-show-united-states-spied-brazilian-oil-giant.html",
+					"caption": "NSA betreibt auch Wirtschaftsspionage?"
+				}
+			},
+			{
+				"startDate": "2013,9,9,11,0",
+				"endDate": "2013,9,9,11,0",
+				"headline": "RPK: »Britische und amerikanische Geheimdienste halten Recht und Gesetz ein«",
+				"text": "Regierungssprecher Seibert zum Überflug des Hubschraubers der Bundespolizei über das U.S.-amerikanische Konsulat in Frankurt:\n\n»Die Regierung geht allen Anhaltspunkten nach. Wenn es Hinweise oder einen Verdacht auf Aktivitäten ausländischer Nachrichtendienste in Deutschland gibt, dann gehen wir dem nach.«\n\n»Sowohl der britische als auch der amerikanische Geheimdienst haben uns schriftlich erklärt, dass sie in Deutschland Recht und Gesetz einhalten, und wir haben keinen Grund, an dieser Bestätigung zu zweifeln.«\n\nDer Sprecher des BMI, Kutt, auf das Thema Swift angesprochen:\n\n»Wir gehen davon aus, dass die Produkte, die unter anderem das BSI anbietet, ausreichend sind, um sicherzustellen, dass damit kein Missbrauch betrieben wird.«\n\n",
+				"asset": {
+					"media": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/09/2013-09-09-regpk.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/1e0da6d35af603a4116a83493c7df7d5_1M.png",
+					"credit": "http://www.bundesregierung.de/Content/DE/Mitschrift/Pressekonferenzen/2013/09/2013-09-09-regpk.html",
+					"caption": "RPK: »Britische und amerikanische Geheimdienste halten Recht und Gesetz ein«"
+				}
+			},
+			{
+				"startDate": "2013,9,9,15,0",
+				"endDate": "2013,9,9,15,0",
+				"headline": "The Empire strikes back?",
+				"text": "Nach einem Bericht von Spiegel Online hat ein Hubschrauber der Bundespolizei im Auftrag des Verfassungsschutz Bilder vom Dach des U.S.-Konsulats in Frankfurt a. M. geschossen. Ziel sei es gewesen, mögliche auf dem Dach installierte Abhöranlagen zu finden.",
+				"asset": {
+					"media": "http://www.spiegel.de/politik/deutschland/nsa-verfassungsschutz-spaeht-us-konsulat-per-helikopter-aus-a-921206.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/164d634aeda951f1aa78585e96aff232_1M.png",
+					"credit": "http://www.spiegel.de/politik/deutschland/nsa-verfassungsschutz-spaeht-us-konsulat-per-helikopter-aus-a-921206.html",
+					"caption": "The Empire strikes back?"
+				}
+			},
+			{
+				"startDate": "2013,9,10,12,0",
+				"endDate": "2013,9,10,12,0",
+				"headline": "»Wahlkampflüge oder Parallelrealität?«",
+				"text": "Die wöchentlichen Kolumnen von Sascha Lobo zum größten Späh-, Überwachungs- und Datenskandal sind zur Zeit einfach gut:\n\n»Sind die Reaktionen der Koalition nur Wahlkampflüge oder schon Parallelrealität? Und was wäre schlimmer?«\n\n»Der parlamentarische Geschäftsführer der CDU, Michael Grosse-Brömer, erklärte das mit einer Begründung, die in einer besseren Welt für zwei bis drei Zwangseinweisungen in eine bayerische Psychiatrie gereicht hätte.«\n\n",
+				"asset": {
+					"media": "http://www.spiegel.de/netzwelt/netzpolitik/fuer-die-bundesregierung-gibt-es-keinen-abhoerskandal-a-921343.html",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/6993472acf20fc1d2b35c68a2a72477c_1M.png",
+					"credit": "http://www.spiegel.de/netzwelt/netzpolitik/fuer-die-bundesregierung-gibt-es-keinen-abhoerskandal-a-921343.html",
+					"caption": "»Wahlkampflüge oder Parallelrealität?«"
+				}
+			},
+			{
+				"startDate": "2013,9,11,8,0",
+				"endDate": "2013,9,11,8,0",
+				"headline": "NSA: Abenteuerliche Begründung für illegale Überwachung",
+				"text": "Nach einer Klage der amerikanischen Bürgerrechtsorganisation Electronic Frontier Foundation (EFF) wurde die NSA nun gezwungen, Dokumente aus den Jarhen 2006-2009 zu veröffentlichen. Aus denen geht hervor, dass der U.S.-Geheimdienst massiv gegen geltendes Recht verstoßen hat. So wurden z.B. in 2009 mehr als 17000 Telefonanschlüsse ausgespäht, nur 1800 - also knapp über 10% davon - waren legale Überwachungen.\n\nAbenteuerlich wirkt die Begründung für die Fehlgriffe: Man (die NSA) habe die Technik nicht verstanden.",
+				"asset": {
+					"media": "http://www.zeit.de/digital/datenschutz/2013-09/nsa-abhoerskandal-prism-datenschutz",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/2944911f4d9376990f95f950b6b0bff2_1M.png",
+					"credit": "http://www.zeit.de/digital/datenschutz/2013-09/nsa-abhoerskandal-prism-datenschutz",
+					"caption": "NSA: Abenteuerliche Begründung für illegale Überwachung"
+				}
+			},
+			{
+				"startDate": "2013,9,11,11,0",
+				"endDate": "2013,9,11,11,0",
+				"headline": "Fast ein Jahr ist's nun her...",
+				"text": "Zum Abschluss ein (vor)letzter Eintrag mit Link zu einer Pressemitteilung der Piratenpartei NRW, die ich vor fast einem Jahr(!) in meiner Eigenschaft als Pressesprecher des Landesverbands formuliert hatte. Leider wurde uns, der AG Öffentlichkeitsarbeit, damals »innerparteilich« eine Veröffentlichung und Versendung untersagt. Schade eigentlich.",
+				"asset": {
+					"media": "http://pastebin.com/Jd9gQiV4",
+					"thumbnail": "http://cdn.dipity.com/uploads/events/b9c14cbd92816b7c6f59ece7fad2bed0_1M.png",
+					"credit": "http://pastebin.com/Jd9gQiV4",
+					"caption": "Fast ein Jahr ist's nun her..."
+				}
+			},
+			{
+				"startDate": "2013,9,11,12,0",
+				"endDate": "2013,9,11,12,0",
+				"headline": "Aus, aus, aus, das Spiel ist aus!",
+				"text": "Aus, aus, aus, das Spiel ist aus! Nach 150 Einträgen beende ich das Experiment »Timeline zu #PRISM & Co«. Leider nicht, weil der größte Daten-, Überwachungs- und Ausspähskandal beendet und aufgeklärt ist. Das ist er nämlich nicht, eher das Gegenteil lässt sich nach über drei Monaten und 10 Tage vor der Bundestagswahl konstatieren.\n\nIch stoppe das Füttern der Zeitleiste, weil der Anbieter Dipity die Anzahl der Einträge in der freien, »Personal« Version auf eben genau diese 150 einschränkt. Das ist deren gutes Recht, und für die Möglichkeit einer kostenlosen Variante bedanke ich mich hier noch einmal ausdrücklich! Aber auf eine »Plus- ($ 4.95), Prime- ($ 49.95) oder Pro-Version ($ 99.95) aufstocken? Dafür fehlt mir - ehrlich gesagt - die Motivation bzw. ist mir das Geld zu schade. \n\nIch hatte der Piratenpartei Mitte Juli angeboten, die Timeline auf www.piratenpartei.de einzubinden, weil ich sie - bei aller gebotenen Bescheidenheit - gerade im Wahlkampf für einen Hingucker und ein hervorragendes Rechercheinstrument hielt.\n\nDie Verantwortlichen der Bundeswebseite lehnten das Einbetten mit der Begründung ab, die Webseite von Dipity enthalte Tracker und würde damit der parteieigenen Policy widersprechen. Auf meinen Vorschlag, dann wenigstens einen Screenshot mit kurzem erläuternden Text und Verlinkung zur Timeline zu verwenden, ging niemand mehr ein. Auch die Redakteure von Kompass und Flaschenpost fanden, obwohl sich beide piratenparteinahe Publikationen inhaltlich ausführlich mit den Leaks von und um Edward Snowden beschäftigt haben, die Timeline offensichtlich nicht interessant genug.\n\n[Update 17.9.2013] Der LV NRW hat's dann 10 Tage vor der Wahl <a href=http://www.piratenpartei-nrw.de/datenskandal>übernommen</a>. Die @20Piraten hatten nach dem 150. (letzten) Eintrag ebenfalls Interesse angemeldet, werden nach <a href=https://redmine.piratenfraktion-nrw.de/issues/2993>sorgfältiger Evaluierung aller Pros und Contras</a> irgendwann auf ihrer <a href=http://www.piratenfraktion-nrw.de></a>eigenen Webseite</a> etwas anbieten. Vielleicht.\n\nSei's drum, mir hat's trotzdem Spaß gemacht. Wenn man bei dem Thema überhaupt von »Spaß« sprechen darf.",
+				"asset": {
+					"media": null,
+					"thumbnail": "http://cdn.dipity.com/uploads/events/6993472acf20fc1d2b35c68a2a72477c_1M.png",
+					"credit": null,
+					"caption": "Aus, aus, aus, das Spiel ist aus!"
+				}
+			}
+		]
+	}
 }
