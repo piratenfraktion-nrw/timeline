@@ -4,6 +4,6 @@ $(function() {
             width: '100%',
             height: '600',
             source: 'timeline.json',
-            lang: 'de'
-    });
+            lang: 'de',
+        });
 });
