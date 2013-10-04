@@ -1,12 +1,12 @@
 {
 	"timeline": {
-		"headline": "Das haben Sie mich jetzt gefragt?",
+		"headline": "Timeline NSA, Prism & Co.",
 		"type": "default",
-		"text": "Eine Timeline mit Berichten, Fakten, Zitaten und Kommentaren zum größten Überwachungsskandal der Nachkriegsgeschichte. Wie ein Kollege so schön formuliert: eine Liste der Peinlichkeiten seit dem 6. Juni 2013. </p><p>»Sprechblasen« sind Originalzitate von beteiligten Personen.</p><p>Ich bemühe mich, sowohl bei den EInträgen zu Fakten/Berichten als auch den Zitaten, Primärquellen zu verlinken bzw. diese zu zitieren.</p><p>»Kommentare« sind als solche gekennzeichnet und stammen entweder von mir oder sind Medien entnommen.</p><p>Weitere Erläuterungen zur Timeline findet Ihr auf http://www.achim-mueller.org/das-haben-sie-mich-jetzt-gefragt. Wenn Ihr die TL auf Eurer Webseite einbetten wollt, bitte kurzes Pingback an mich.",
+		"text": "Überblick verloren? Bei den immer neuen Meldungen zu NSA, Prism & Co. ist das auch kein Wunder. Um etwas Ordnung in die sogenannte „Liste der Peinlichkeiten seit dem 6. Juni 2013“ zu bringen, zeigen wir euch eine Timeline mit Berichten, Fakten, Zitaten und Kommentaren zum Überwachungsskandal.</p><p>Wir danken Achim Müller @acepoint für die Bereitstellung der Inhalte. Weitere Erläuterungen zur ursprünglichen Timeline auf http://www.achim-mueller.org/das-haben-sie-mich-jetzt-gefragt.</p><p>Als Ergänzung und Fortschreibung haben wir diese Sammlung um die Aktionen und parlamentarischen Initiativen ergänzt, die wir in den letzten Monaten hier im Landtag NRW eingebracht haben.",
 		"asset": {
 			"media": "thumbnails/86e8733f6e413dca214d91c933c93dfa_1M.png",
-			"credit": "insert timeline credit here",
-			"caption": "insert timeline caption here"
+            "credit": "",
+            "caption": ""
 		},
 		"date": [
 			{

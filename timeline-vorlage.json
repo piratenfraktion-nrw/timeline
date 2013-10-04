@@ -1,0 +1,27 @@
+{
+    "startDate": "Startdatum; Format YYYY,M,D,H,M",
+    "endDate": "Enddatum; in der Regel =Startdatum",
+    "headline": "Titel des Eintrags",
+    "text": "Anrisstext für den Eintrag. Solltet Ihr einen weiteren Absatz einfügen wollen, bitte nicht mit Zeilenumbrüchen trennen, sondern mit `</p><p>`, sonst funktioniert das nachher in der Darstellung nicht. Außerdem darauf achten: Anführungszeichen müssen escaped werden: `\"`. Das gilt auch für das headline-Feld.",
+    "asset": {
+        "media": "hier bitte den Link einfügen.",
+    }
+},
+{
+    "startDate": "Startdatum; Format YYYY,M,D,H,M",
+    "endDate": "Enddatum; in der Regel =Startdatum",
+    "headline": "Titel des Eintrags",
+    "text": "Anrisstext für den Eintrag. Solltet Ihr einen weiteren Absatz einfügen wollen, bitte nicht mit Zeilenumbrüchen trennen, sondern mit `</p><p>`, sonst funktioniert das nachher in der Darstellung nicht. Außerdem darauf achten: Anführungszeichen müssen escaped werden: `\"`. Das gilt auch für das headline-Feld.",
+    "asset": {
+        "media": "hier bitte den Link einfügen.",
+    }
+},
+{
+    "startDate": "Startdatum; Format YYYY,M,D,H,M",
+    "endDate": "Enddatum; in der Regel =Startdatum",
+    "headline": "Titel des Eintrags",
+    "text": "Anrisstext für den Eintrag. Solltet Ihr einen weiteren Absatz einfügen wollen, bitte nicht mit Zeilenumbrüchen trennen, sondern mit `</p><p>`, sonst funktioniert das nachher in der Darstellung nicht. Außerdem darauf achten: Anführungszeichen müssen escaped werden: `\"`. Das gilt auch für das headline-Feld.",
+    "asset": {
+        "media": "hier bitte den Link einfügen.",
+    }
+},
