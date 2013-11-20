@@ -1,3 +1,4 @@
+{ "events": [
 {
     "startDate": "Startdatum; Format YYYY,M,D,H,M",
     "endDate": "Enddatum; in der Regel =Startdatum",
@@ -25,3 +26,4 @@
         "media": "hier bitte den Link einfügen."
     }
 },
+]}
