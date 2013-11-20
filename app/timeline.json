@@ -1808,7 +1808,557 @@
 					"credit": null,
 					"caption": "Aus, aus, aus, das Spiel ist aus!"
 				}
-			}
-		]
-	}
+			},
+            {
+                "startDate": "2013,6,7",
+                "endDate": "2013,6,7",
+                "headline": "Auf dem Weg zu amerikanischen Verhältnissen",
+                "text": "Es besteht schon seit Jahren der Verdacht, dass es geheime Überwachungsprogramme auch für bzw. gegen US-Bürger gibt.",
+                "asset": {
+                    "media": "http://www.piratenfraktion-nrw.de/2013/06/auf-dem-weg-zu-amerikanischen-verhaltnissen",
+                    "credit": "http://www.piratenfraktion-nrw.de/2013/06/auf-dem-weg-zu-amerikanischen-verhaltnissen",
+                    "caption": "Auf dem Weg zu amerikanischen Verhältnissen"
+                }
+            },
+            {
+                "startDate": "2013,6,11",
+                "endDate": "2013,6,11",
+                "headline": "Fraktionssitzung vom 11.06.2013 – Das Wichtigste in Kürze",
+                "text": "Gesetz zur Verwirklichung von Transparenz und Informationsfreiheit im Land Nordrhein-Westfalen</p><p> Achtung! YES, WE SCAN. – Bürger in NRW vor PRISM und anderen Überwachungsprogrammen schützen",
+                "asset": {
+                    "media": "http://www.piratenfraktion-nrw.de/2013/06/fraktionssitzung-vom-11-06-2013-das-wichtigste-in-kurze",
+                    "credit": "http://www.piratenfraktion-nrw.de/2013/06/fraktionssitzung-vom-11-06-2013-das-wichtigste-in-kurze",
+                    "caption": "Fraktionssitzung vom 11.06.2013 – Das Wichtigste in Kürze"
+                }
+            },
+            {
+                "startDate": "2013,6,11",
+                "endDate": "2013,6,11",
+                "headline": "Stream der Fraktionssitzung vom 11.06.2013",
+                "text": "Einige Themen der Sitzung:</p><p>Anträge für das kommende Plenum u.a. Eilantrag zu PRISM, Gründung Betriebsrat, Termine für kommende Klausurtagungen usw.",
+                "asset": {
+                    "media": "http://www.piratenfraktion-nrw.de/2013/06/fraktionssitzung-vom-11-06-2013",
+                    "credit": "http://www.piratenfraktion-nrw.de/2013/06/fraktionssitzung-vom-11-06-2013",
+                    "caption": "Stream der Fraktionssitzung vom 11.06.2013"
+                }
+            },
+            {
+                "startDate": "2013,6,19",
+                "endDate": "2013,6,19",
+                "headline": "Neuland und Prism…",
+                "text": "Ist das die klare Kante, die Deutschland in Sachen Wahrung und Sicherung von Privatsphäre gegenüber Obama und den USA zeigen wollte oder sollte?",
+                "asset": {
+                    "media": "http://bobby79.wordpress.com/2013/06/19/neuland-und-prism/",
+                    "credit": "http://bobby79.wordpress.com/2013/06/19/neuland-und-prism/",
+                    "caption": "Neuland und Prism…"
+                }
+            },
+            {
+                "startDate": "2013,6,20",
+                "endDate": "2013,6,20",
+                "headline": "Plenum: Diese Anträge haben wir vorbereitet",
+                "text": "",
+                "asset": {
+                    "media": "http://www.piratenfraktion-nrw.de/2013/06/plenum-diese-antrage-haben-wir-vorbereitet",
+                    "credit": "http://www.piratenfraktion-nrw.de/2013/06/plenum-diese-antrage-haben-wir-vorbereitet",
+                    "caption": "Plenum: Diese Anträge haben wir vorbereitet"
+                }
+            },
+            {
+                "startDate": "2013,6,20",
+                "endDate": "2013,6,20",
+                "headline": "Plenarrede: Frank Herrmann zu PRISM und anderen Überwachungsprogrammen",
+                "text": "Achtung! YES, WE SCAN. Bürger in NRW vor PRISM und anderen Überwachungsprogrammen schützen!",
+                "asset": {
+                    "media": "http://www.piratenfraktion-nrw.de/2013/06/plenarrede-frank-herrmann-zu-prism-und-anderen-uberwachungsprogrammen",
+                    "credit": "http://www.piratenfraktion-nrw.de/2013/06/plenarrede-frank-herrmann-zu-prism-und-anderen-uberwachungsprogrammen",
+                    "caption": "Plenarrede: Frank Herrmann zu PRISM und anderen Überwachungsprogrammen"
+                }
+            },
+            {
+                "startDate": "2013,6,26",
+                "endDate": "2013,6,26",
+                "headline": "Kassel Crypto Party 20 Uhr",
+                "text": "Mail-Kommunkation – Ein offenes Buch, ein Festschmaus für PRISM",
+                "asset": {
+                    "media": "http://www.unwatched.org/20130626_CryptoParty_Kassel",
+                    "credit": "http://www.unwatched.org/20130626_CryptoParty_Kassel",
+                    "caption": "Kassel Crypto Party 20 Uhr"
+                }
+            },
+            {
+                "startDate": "2013,6,25",
+                "endDate": "2013,6,11",
+                "headline": "Audio Stream Fraktionssitzung",
+                "text": "Persönliche Erklärung von Olaf Wegner, Große Anfrage Kameraanlagen in NRW, PRISM/Tempora, Termin mit dem neuen Intendanten des WDR, Tom Buhrow",
+                "asset": {
+                    "media": "http://www.piratenfraktion-nrw.de/2013/06/fraktionssitzung-vom-25-06-2013",
+                    "credit": "http://www.piratenfraktion-nrw.de/2013/06/fraktionssitzung-vom-25-06-2013",
+                    "caption": "Audio Stream Fraktionssitzung"
+                }
+            },
+            {
+                "startDate": "2013,6,28",
+                "endDate": "2013,6,28",
+                "headline": "Prism, Tempora und die Wirtschaftsspionage in der heimischen Wirtschaft in NRW",
+                "text": "Haben Überwachungsmaßnahmen und Wirtschaftsspionage durch Überwachungsprogramme wie Tempora und Prism Auswirkungen auf die Landespolitik und die heimische Wirtschaft?",
+                "asset": {
+                    "media": "http://bobby79.wordpress.com/2013/06/28/prism-tempora-und-die-wirtschaftsspionage-in-der-heimischen-wirtschaft-in-nrw",
+                    "credit": "http://bobby79.wordpress.com/2013/06/28/prism-tempora-und-die-wirtschaftsspionage-in-der-heimischen-wirtschaft-in-nrw",
+                    "caption": "Prism, Tempora und die Wirtschaftsspionage in der heimischen Wirtschaft in NRW"
+                }
+            },
+            {
+                "startDate": "2013,7,1",
+                "endDate": "2013,7,1",
+                "headline": "Bundesverdienstorden für Snwoden",
+                "text": "Edward Snowden gebührt der Dank eines jeden freiheitsliebenden Bürgers dieses Landes und damit der Verdienstorden der Bundesrepublik Deutschland",
+                "asset": {
+                    "media": "http://www.piratenfraktion-nrw.de/2013/07/piraten-haben-snowden-fur-den-bundesverdienstorden-vorgeschlagen",
+                    "credit": "http://www.piratenfraktion-nrw.de/2013/07/piraten-haben-snowden-fur-den-bundesverdienstorden-vorgeschlagen",
+                    "caption": "Bundesverdienstorden für Snwoden"
+                }
+            },
+            {
+                "startDate": "2013,7,2",
+                "endDate": "2013,7,2",
+                "headline": "O tempora, o mores",
+                "text": "Wider die Aushöhlung von Grundrechten, Demokratie und digitaler Kultur durch zügellose Überwachung!",
+                "asset": {
+                    "media": "http://www.daniel-schwerd.de/o-tempora-o-mores-wider-die-aushoehlung-von-grundrechten-demokratie-und-digitaler-kultur-durch-zuegellose-ueberwachung",
+                    "credit": "http://www.daniel-schwerd.de/o-tempora-o-mores-wider-die-aushoehlung-von-grundrechten-demokratie-und-digitaler-kultur-durch-zuegellose-ueberwachung",
+                    "caption": "O tempora, o mores"
+                }
+            },
+            {
+                "startDate": "2013,7,2",
+                "endDate": "2013,7,2",
+                "headline": "Fraktionssitzung vom 02.07.13",
+                "text": "",
+                "asset": {
+                    "media": "http://www.piratenfraktion-nrw.de/2013/07/fraktionssitzung-vom-02-07-2013",
+                    "credit": "http://www.piratenfraktion-nrw.de/2013/07/fraktionssitzung-vom-02-07-2013",
+                    "caption": "Fraktionssitzung vom 02.07.13"
+                }
+            },
+            {
+                "startDate": "2013,7,2",
+                "endDate": "2013,7,2",
+                "headline": "Sonderplenum",
+                "text": "Angriff der Geheimdienste auf die Demokratie stoppen!",
+                "asset": {
+                    "media": "http://www.piratenfraktion-nrw.de/2013/07/sonderplenum-angriff-der-geheimdienste-auf-die-demokratie-stoppen",
+                    "credit": "http://www.piratenfraktion-nrw.de/2013/07/sonderplenum-angriff-der-geheimdienste-auf-die-demokratie-stoppen",
+                    "caption": "Sonderplenum"
+                }
+            },
+            {
+                "startDate": "2013,7,2",
+                "endDate": "2013,7,2",
+                "headline": "Antrag zu O tempora, o mores ",
+                "text": "Wider die Aushöhlung von Grundrechten, Demokratie und digitaler Kultur durch zügellose Überwachung!",
+                "asset": {
+                    "media": "http://www.landtag.nrw.de/portal/WWW/dokumentenarchiv/Dokument/MMD16-3436.pdf",
+                    "credit": "http://www.landtag.nrw.de/portal/WWW/dokumentenarchiv/Dokument/MMD16-3436.pdf",
+                    "caption": "Antrag zu O tempora, o mores "
+                }
+            },
+            {
+                "startDate": "2013,7,3",
+                "endDate": "2013,7,3",
+                "headline": "Wir setzen PRISM und Tempora auf NRW-Agenda",
+                "text": "Politischer Überwachungswahn durch PRISM und Tempora gehört gestoppt!",
+                "asset": {
+                    "media": "http://www.piratenfraktion-nrw.de/2013/07/wir-setzen-prism-und-tempora-auf-nrw-agenda",
+                    "credit": "http://www.piratenfraktion-nrw.de/2013/07/wir-setzen-prism-und-tempora-auf-nrw-agenda",
+                    "caption": "Wir setzen PRISM und Tempora auf NRW-Agenda"
+                }
+            },
+            {
+                "startDate": "2013,7,4",
+                "endDate": "2013,7,4",
+                "headline": "Pressekonferenz: Anträge der Fraktion zu PRISM und Tempora",
+                "text": "",
+                "asset": {
+                    "media": "http://www.piratenfraktion-nrw.de/2013/07/pressekonferenz-antrage-der-fraktion-zu-prism-und-tempora",
+                    "credit": "http://www.piratenfraktion-nrw.de/2013/07/pressekonferenz-antrage-der-fraktion-zu-prism-und-tempora",
+                    "caption": "Pressekonferenz: Anträge der Fraktion zu PRISM und Tempora"
+                }
+            },
+            {
+                "startDate": "2013,7,4",
+                "endDate": "2013,7,4",
+                "headline": "Die Piraten machen ja nichts zu PRISM und Tempora",
+                "text": "Aufklärung für die Presse",
+                "asset": {
+                    "media": "http://www.daniel-schwerd.de/die-piraten-machen-ja-nichts-zu-prism-und-tempora/",
+                    "credit": "http://www.daniel-schwerd.de/die-piraten-machen-ja-nichts-zu-prism-und-tempora/",
+                    "caption": "Die Piraten machen ja nichts zu PRISM und Tempora"
+                }
+            },
+            {
+                "startDate": "2013,7,9",
+                "endDate": "2013,7,9",
+                "headline": "Unsere Piraten-Anträge am Freitag, 12. Juli 2013",
+                "text": "Whistleblowing – eine Form von Zivilcourage, die unterstützt und geschützt werden muss",
+                "asset": {
+                    "media": "http://www.piratenfraktion-nrw.de/2013/07/unsere-piraten-antrage-am-freitag-12-juli-2013",
+                    "credit": "http://www.piratenfraktion-nrw.de/2013/07/unsere-piraten-antrage-am-freitag-12-juli-2013",
+                    "caption": "Unsere Piraten-Anträge am Freitag, 12. Juli 2013"
+                }
+            },
+            {
+                "startDate": "2013,7,10",
+                "endDate": "2013,7,10",
+                "headline": "Das sind unsere Anträge für den 10. Juli Plenartag",
+                "text": "O tempora, o mores – wider die Aushöhlung von Grundrechten, Demokratie und digitaler Kultur durch zügellose Überwachung!</p><p>Britisches Überwachungsprogramm „Tempora“ ist unionsrechtswidrig: Vertragsverletzungsverfahren gegen Großbritannien einleiten!</p><p>Größere Wertschätzung der Fankultur – Fanprojekte nachhaltig fördern!",
+                "asset": {
+                    "media": "http://www.piratenfraktion-nrw.de/2013/07/unsere-piraten-antrage-am-mittwoch-10-juli-2013",
+                    "credit": "http://www.piratenfraktion-nrw.de/2013/07/unsere-piraten-antrage-am-mittwoch-10-juli-2013",
+                    "caption": "Das sind unsere Anträge für den 10. Juli Plenartag"
+                }
+            },
+            {
+                "startDate": "2013,7,10",
+                "endDate": "2013,7,10",
+                "headline": "Plenarrede \"O tempora, o mores\" zu den Geheimdienst-Überwachungsprogrammen Tempora und Prism",
+                "text": "",
+                "asset": {
+                    "media": "http://www.daniel-schwerd.de/plenarrede-o-tempora-o-mores-zu-den-geheimdienst-uberwachungsprogrammen-tempora-und-prism",
+                    "credit": "http://www.daniel-schwerd.de/plenarrede-o-tempora-o-mores-zu-den-geheimdienst-uberwachungsprogrammen-tempora-und-prism",
+                    "caption": "Plenarrede \"O tempora, o mores\" zu den Geheimdienst-Überwachungsprogrammen Tempora und Prism"
+                }
+            },
+            {
+                "startDate": "2013,7,10",
+                "endDate": "2013,7,10",
+                "headline": "Tempora, PRISM, Fankultur, Vetternwirtschaft, Sparkassen... ",
+                "text": "O tempora, o mores – wider die Aushöhlung von Grundrechten, Demokratie und digitaler Kultur durch zügellose Überwachung!</p><p>Britisches Überwachungsprogramm Tempora ist unionsrechtswidrig: Vertragsverletzungsverfahren gegen Großbritannien einleiten!",
+                "asset": {
+                    "media": "http://www.piratenfraktion-nrw.de/2013/07/tempora-prism-fankultur-vetternwirtschaft",
+                    "credit": "http://www.piratenfraktion-nrw.de/2013/07/tempora-prism-fankultur-vetternwirtschaft",
+                    "caption": "Tempora, PRISM, Fankultur, Vetternwirtschaft, Sparkassen... "
+                }
+            },
+            {
+                "startDate": "2013,7,10",
+                "endDate": "2013,7,10",
+                "headline": "Plenarrede 10. Juli 2013",
+                "text": "Nico Kern zu Vertragsverletzungsverfahren gegen Großbritannien im Zusammenhang mit Tempora",
+                "asset": {
+                    "media": "http://www.piratenfraktion-nrw.de/2013/07/plenarrede-nico-kern-zu-vertragsverletzungsverfahren-gegen-grosbritannien-im-zusammenhang-mit-tempora",
+                    "credit": "http://www.piratenfraktion-nrw.de/2013/07/plenarrede-nico-kern-zu-vertragsverletzungsverfahren-gegen-grosbritannien-im-zusammenhang-mit-tempora",
+                    "caption": "Plenarrede 10. Juli 2013"
+                }
+            },
+            {
+                "startDate": "2013,6,20",
+                "endDate": "2013,6,20",
+                "headline": "Plenarsitzung, Donnerstag, 20.06.2013",
+                "text": "Achtung! YES, WE SCAN. Bürger in NRW vor PRISM und anderen Überwachungsprogrammen schützen!",
+                "asset": {
+                    "media": "http://www.piratenfraktion-nrw.de/2013/07/antrag-achtung-yes-we-scan-burger-in-nrw-vor-prism-und-anderen-uberwachungsprogrammen-schutzen",
+                    "credit": "http://www.piratenfraktion-nrw.de/2013/07/antrag-achtung-yes-we-scan-burger-in-nrw-vor-prism-und-anderen-uberwachungsprogrammen-schutzen",
+                    "caption": "Plenarsitzung, Donnerstag, 20.06.2013"
+                }
+            },
+            {
+                "startDate": "2013,7,11",
+                "endDate": "2013,7,11",
+                "headline": "Plenarrede Daniel Schwerd 11.07.2013 ",
+                "text": "Wirtschaftsspionage durch Überwachungsprogramme wie PRISM und Tempora",
+                "asset": {
+                    "media": "http://www.daniel-schwerd.de/plenarrede-wirtschaftsspionage-durch-ueberwachungsprogramme-wie-prism-und-tempora",
+                    "credit": "http://www.daniel-schwerd.de/plenarrede-wirtschaftsspionage-durch-ueberwachungsprogramme-wie-prism-und-tempora",
+                    "caption": "Plenarrede Daniel Schwerd 11.07.2013 "
+                }
+            },
+            {
+                "startDate": "2013,7,12",
+                "endDate": "2013,7,12",
+                "headline": "Crypto-Party im Landtag NRW",
+                "text": "Einladung zum \"Kurs in digitaler Selbstverteidigung\"",
+                "asset": {
+                    "media": "http://www.piratenfraktion-nrw.de/2013/07/einladung-zum-kurs-in-digitaler-selbstverteidigung",
+                    "credit": "http://www.piratenfraktion-nrw.de/2013/07/einladung-zum-kurs-in-digitaler-selbstverteidigung",
+                    "caption": "Crypto-Party im Landtag NRW"
+                }
+            },
+            {
+                "startDate": "2013,7,12",
+                "endDate": "2013,7,12",
+                "headline": "Drs. 16/3283: Achtung!! Was wusste die Landesregierung von PRISM?",
+                "text": "Kleine Anfrage 1334 gestellt von Daniel Schwerd Drucksache 16/3283 am 14.06.2013 Antwort MIK Drucksache 16/3571 12.07.2013",
+                "asset": {
+                    "media": "http://www.piratenfraktion-nrw.de/2013/07/drs-163283-achtung-was-wusste-die-landesregierung-von-prism",
+                    "credit": "http://www.piratenfraktion-nrw.de/2013/07/drs-163283-achtung-was-wusste-die-landesregierung-von-prism",
+                    "caption": "Drs. 16/3283: Achtung!! Was wusste die Landesregierung von PRISM?"
+                }
+            },
+            {
+                "startDate": "2013,7,12",
+                "endDate": "2013,7,12",
+                "headline": "Unsere Anträge am Freitag, 12. Juli 2013",
+                "text": "Whistleblowing – eine Form von Zivilcourage, die unterstützt und geschützt werden muss",
+                "asset": {
+                    "media": "http://www.piratenfraktion-nrw.de/2013/07/whistleblowing-und-hochschule-unsere-antrage-am-freitag-12-juli-2013",
+                    "credit": "http://www.piratenfraktion-nrw.de/2013/07/whistleblowing-und-hochschule-unsere-antrage-am-freitag-12-juli-2013",
+                    "caption": "Unsere Anträge am Freitag, 12. Juli 2013"
+                }
+            },
+            {
+                "startDate": "2013,7,15",
+                "endDate": "2013,7,15",
+                "headline": "Daniel Schwerd und Frank Herrmann beantworten eure Fragen",
+                "text": "Daniel Schwerd und Frank Herrmann berichten über die Arbeit der Fraktion. Insbesondere über unsere zahlreichen Anträge zu Prism, Tempora und Edward Snowden gibt es viel zu erzählen.",
+                "asset": {
+                    "media": "http://www.piratenfraktion-nrw.de/2013/07/daniel-schwerd-und-frank-herrmann-beantworten-eure-fragen",
+                    "credit": "http://www.piratenfraktion-nrw.de/2013/07/daniel-schwerd-und-frank-herrmann-beantworten-eure-fragen",
+                    "caption": "Daniel Schwerd und Frank Herrmann beantworten eure Fragen"
+                }
+            },
+            {
+                "startDate": "2013,7,17",
+                "endDate": "2013,7,17",
+                "headline": "Statement Daniel Schwerd: Achtung! Was wusste die Landesregierung von PRISM? ",
+                "text": "Landesregierung gibt an, erst durch die Medienberichterstattung von der Existenz des US-Spionageprogramms PRISM erfahren zu haben.",
+                "asset": {
+                    "media": "http://www.piratenfraktion-nrw.de/2013/07/achtung-was-wusste-die-landesregierung-von-prism",
+                    "credit": "http://www.piratenfraktion-nrw.de/2013/07/achtung-was-wusste-die-landesregierung-von-prism",
+                    "caption": "Statement Daniel Schwerd: Achtung! Was wusste die Landesregierung von PRISM? "
+                }
+            },
+            {
+                "startDate": "2013,7,23",
+                "endDate": "2013,7,23",
+                "headline": "5.000.000 PRISM-Flyer",
+                "text": "Daniel Düngel: \"Ich bin aber der Meinung, dass wir einen Schwerpunkt setzen müssen. Dieser Schwerpunkt lautet #PRISM, #TEMPORA, #BND, #NSA – sprich: der gesamte Überwachungssumpf!\"",
+                "asset": {
+                    "media": "http://blog.duengel.com/2013/07/23/wahlkampfschwerpunkt-prism-tempora",
+                    "credit": "http://blog.duengel.com/2013/07/23/wahlkampfschwerpunkt-prism-tempora",
+                    "caption": "5.000.000 PRISM-Flyer"
+                }
+            },
+            {
+                "startDate": "2013,7,24",
+                "endDate": "2013,7,24",
+                "headline": "Freiheit muss man ausatmen!",
+                "text": "Die Terroristen haben gewonnen. Ständig hören wir von immer neuen Horrormeldungen aus dem Ausland, immer wieder sterben Menschen durch Terror, schon wieder ein Selbstmordanschlag. Immer wieder bekommen wir gesagt, dass ein Anschlag verhindert wurde und wir alle kurz vor dem Exodus stünden, wenn die Behörden nicht immer weitergehende Möglichkeiten hätten.",
+                "asset": {
+                    "media": "http://www.marsching.de/2013/08/01/die-terroristen-haben-gewonnen",
+                    "credit": "http://www.marsching.de/2013/08/01/die-terroristen-haben-gewonnen",
+                    "caption": "Freiheit muss man ausatmen!"
+                }
+            },
+            {
+                "startDate": "2013,6,22",
+                "endDate": "2013,7,27",
+                "headline": "Proteste in Düsseldorf, Hannover, Bern, Münster, Frankfurt,Bochum, Göttingen ",
+                "text": "22.Juni: Protestaktion in BREMEN 14:00-17:00 Uhr</p><p>22.Juni: Protestaktion DÜSSELDORF 13:37-17:00 Uhr</p><p>26. Juni: Crypto Party  Kassel  20 Uhr</p><p>29. Juni: Protestaktion HANNOVER 13 Uhr</p><p>29. Juni: Protesaktion BERN 14 Uhr</p><p>20. Juli: Demonstration Münster 12:30 Uhr</p><p>27.Juli: Anti PRISM Protestaktion in Frankfurt 13 Uhr</p><p>27.Juli: Anti PRISM Protestaktion Bochum ab 13:37 Uhr</p><p>27.Juli: Anti PRISM Protestaktion Göttingen ab 15 Uhr",
+                "asset": {
+                    "media": "http://protestwiki.de/wiki/Prism:Main",
+                    "credit": "http://protestwiki.de/wiki/Prism:Main",
+                    "caption": "Proteste in Düsseldorf, Hannover, Bern, Münster, Frankfurt,Bochum, Göttingen "
+                }
+            },
+            {
+                "startDate": "2013,7,19",
+                "endDate": "2013,7,19",
+                "headline": "Das Gesicht der Wahrheit",
+                "text": "",
+                "asset": {
+                    "media": "http://upload.wikimedia.org/wikipedia/commons/7/7e/Berlin_2013_PRISM_Demo.jpg",
+                    "credit": "http://upload.wikimedia.org/wikipedia/commons/7/7e/Berlin_2013_PRISM_Demo.jpg",
+                    "caption": "Das Gesicht der Wahrheit"
+                }
+            },
+            {
+                "startDate": "2013,8,1",
+                "endDate": "2013,8,1",
+                "headline": "Ist das Handy von Hannelore Kraft abhörsicher?",
+                "text": "Frank Rieger (CCC) hat in seinem Blog beschrieben wie Blackberry Smartphones unverschlüsselte Passwörter zu E-Mail-Konten über Amerikanische und Britische Server schicken. Diese Passwörter fallen dann folgerichtig den in- und ausländischen Geheimdiensten in die Hände.",
+                "asset": {
+                    "media": "http://zweitaktpirat.de/2013/08/01/ist-das-handy-von-hannelore-kraft-abhorsicher",
+                    "credit": "http://zweitaktpirat.de/2013/08/01/ist-das-handy-von-hannelore-kraft-abhorsicher",
+                    "caption": "Ist das Handy von Hannelore Kraft abhörsicher?"
+                }
+            },
+            {
+                "startDate": "2013,8,6",
+                "endDate": "2013,8,6",
+                "headline": "US-Datenschutzskandal noch größer als befürchtet",
+                "text": "NRW-Datenschutzbeauftragter Lepper gibt Piraten recht und warnt vor \"Safe Harbor\"",
+                "asset": {
+                    "media": "http://www.piratenfraktion-nrw.de/2013/08/us-datenschutzskandal-noch-groser-als-befurchtet/",
+                    "credit": "http://www.piratenfraktion-nrw.de/2013/08/us-datenschutzskandal-noch-groser-als-befurchtet/",
+                    "caption": "US-Datenschutzskandal noch größer als befürchtet"
+                }
+            },
+            {
+                "startDate": "2013,8,7",
+                "endDate": "2013,8,7",
+                "headline": "Interview im WDR 5 Westblick",
+                "text": "",
+                "asset": {
+                    "media": "http://www.daniel-schwerd.de/interview-im-wdr-5-westblick",
+                    "credit": "http://www.daniel-schwerd.de/interview-im-wdr-5-westblick",
+                    "caption": "Interview im WDR 5 Westblick"
+                }
+            },
+            {
+                "startDate": "2013,8,8",
+                "endDate": "2013,8,8",
+                "headline": "Prism und Tempora: Minister Jäger legt die Füße hoch",
+                "text": "Innenminister Ralf Jäger erkennt in seiner Antwort auf eine Kleine Anfrage die Konsequenz:\"Da es um Belange der Außenpolitik geht, ist die Bundesregierung gefordert. Sie steht in der Verantwortung, den gesamten Sachverhalt aufzuklären und Öffentlichkeit und Politik umfassend zu unterrichten.\"",
+                "asset": {
+                    "media": "http://www.piratenfraktion-nrw.de/2013/08/prism-und-tempora-minister-jager-legt-die-fuse-hoch",
+                    "credit": "http://www.piratenfraktion-nrw.de/2013/08/prism-und-tempora-minister-jager-legt-die-fuse-hoch",
+                    "caption": "Prism und Tempora: Minister Jäger legt die Füße hoch"
+                }
+            },
+            {
+                "startDate": "2013,8,13",
+                "endDate": "2013,8,13",
+                "headline": "Pofalla steckt den Kopf in den Sand",
+                "text": "Zur Aussage von Kanzleramtsminister Pofalla, die NSA-Affäre sei beendet, die US-Behörden würden sich an Recht und Gesetz halten und ein No-Spy-Abkommen würde Deutschland künftig vor Überwachung schützen.",
+                "asset": {
+                    "media": "http://www.piratenfraktion-nrw.de/2013/08/pofalla-steckt-den-kopf-in-den-sand/",
+                    "credit": "http://www.piratenfraktion-nrw.de/2013/08/pofalla-steckt-den-kopf-in-den-sand/",
+                    "caption": "Pofalla steckt den Kopf in den Sand"
+                }
+            },
+            {
+                "startDate": "2013,8,13",
+                "endDate": "2013,8,13",
+                "headline": "@netnrd hat Hals: Pofallas #Prism-Pressekonferenz",
+                "text": "",
+                "asset": {
+                    "media": "http://www.daniel-schwerd.de/netnrd-hat-hals-pofallas-prism-pressekonferenz/",
+                    "credit": "http://www.daniel-schwerd.de/netnrd-hat-hals-pofallas-prism-pressekonferenz/",
+                    "caption": "@netnrd hat Hals: Pofallas #Prism-Pressekonferenz"
+                }
+            },
+            {
+                "startDate": "2013,8,20",
+                "endDate": "2013,8,20",
+                "headline": "Ein Anschlag auf die Pressefreiheit",
+                "text": "Nach dem Festsetzen des Ehemanns von \"Guardian\"-Journalist Glenn Greenwald jetzt auch noch das: Um die Berichterstattung aus dem Snowden-Archiv zu beenden, hat der britische Geheimdienst GCHQ die Redaktion der Zeitung \"The Guardian\" gezwungen, Festplatten zu zerstören.",
+                "asset": {
+                    "media": "http://www.piratenfraktion-nrw.de/2013/08/ein-anschlag-auf-die-pressefreiheit",
+                    "credit": "http://www.piratenfraktion-nrw.de/2013/08/ein-anschlag-auf-die-pressefreiheit",
+                    "caption": "Ein Anschlag auf die Pressefreiheit"
+                }
+            },
+            {
+                "startDate": "2013,8,23",
+                "endDate": "2013,8,23",
+                "headline": "Drs. 16/3590: Wie ist es um die Sicherheit medizinischer Daten und Patientenakten bestellt in Zeiten von PRISM und Tempora?",
+                "text": "",
+                "asset": {
+                    "media": "http://www.piratenfraktion-nrw.de/2013/08/drs-163590-wie-ist-es-um-die-sicherheit-medizinischer-daten-und-patientenakten-bestellt-in-zeiten-von-prism-und-tempora",
+                    "credit": "http://www.piratenfraktion-nrw.de/2013/08/drs-163590-wie-ist-es-um-die-sicherheit-medizinischer-daten-und-patientenakten-bestellt-in-zeiten-von-prism-und-tempora",
+                    "caption": "Drs. 16/3590: Wie ist es um die Sicherheit medizinischer Daten und Patientenakten bestellt in Zeiten von PRISM und Tempora?"
+                }
+            },
+            {
+                "startDate": "2013,8,23",
+                "endDate": "2013,8,23",
+                "headline": "Drs. 16/3403: Haben Überwachungsmaßnahmen und Wirtschaftsspionage durch Überwachungsprogramme wie Tempora und Prism Auswirkungen auf die Landespolitik und die heimische Wirtschaft?",
+                "text": "",
+                "asset": {
+                    "media": "http://www.piratenfraktion-nrw.de/2013/08/drs-163403-haben-uberwachungsmasnahmen-und-wirtschaftsspionage-durch-uberwachungsprogramme-wie-tempora-und-prism-auswirkungen-auf-die-landespolitik-und-die-heimische-wirtschaft",
+                    "credit": "http://www.piratenfraktion-nrw.de/2013/08/drs-163403-haben-uberwachungsmasnahmen-und-wirtschaftsspionage-durch-uberwachungsprogramme-wie-tempora-und-prism-auswirkungen-auf-die-landespolitik-und-die-heimische-wirtschaft",
+                    "caption": "Drs. 16/3403: Haben Überwachungsmaßnahmen und Wirtschaftsspionage durch Überwachungsprogramme wie Tempora und Prism Auswirkungen auf die Landespolitik und die heimische Wirtschaft?"
+                }
+            },
+            {
+                "startDate": "2013,8,30",
+                "endDate": "2013,8,30",
+                "headline": "Mobiltelefone der NRW-Minister können abgehört werden",
+                "text": "Landesregierung ist Prism ungeschützt ausgesetzt Die Mobilfunk-Kommunikation der NRW-Landesregierung ist vor der Überwachung durch US- und britische Geheimdienste nicht ausreichend geschützt – dies gibt die Landesregierung in der Antwort auf eine Kleine Anfrage der Piratenfraktion zu.",
+                "asset": {
+                    "media": "http://www.piratenfraktion-nrw.de/2013/08/mobiltelefone-der-nrw-minister-konnen-abgehort-werden",
+                    "credit": "http://www.piratenfraktion-nrw.de/2013/08/mobiltelefone-der-nrw-minister-konnen-abgehort-werden",
+                    "caption": "Mobiltelefone der NRW-Minister können abgehört werden"
+                }
+            },
+            {
+                "startDate": "2013,9,4",
+                "endDate": "2013,9,4",
+                "headline": "Komm mit zur Demo \"Freiheit statt Angst\"",
+                "text": "Vorratsdatenspeicherung, Tempora, Prism… Demokratie und Bürgerrechte sind in Deutschland ernsthaft in Gefahr. Die diesjährige Groß-Demonstration \"Freiheit statt Angst\" (Samstag, 7. September, 13 Uhr: Berlin, Alexanderplatz) erfährt zurzeit eine besondere Aktualität.",
+                "asset": {
+                    "media": "http://www.piratenfraktion-nrw.de/2013/09/komm-mit-zur-demo-freiheit-statt-angst-2",
+                    "credit": "http://www.piratenfraktion-nrw.de/2013/09/komm-mit-zur-demo-freiheit-statt-angst-2",
+                    "caption": "Komm mit zur Demo \"Freiheit statt Angst\""
+                }
+            },
+            {
+                "startDate": "2013,9,7",
+                "endDate": "2013,9,7",
+                "headline": "Bericht: Demo \"Freiheit statt Angst\"",
+                "text": "",
+                "asset": {
+                    "media": "http://blog.windfluechter.net/content/blog/2013/09/10/1660-bericht-demo-freiheit-statt-angst",
+                    "credit": "http://blog.windfluechter.net/content/blog/2013/09/10/1660-bericht-demo-freiheit-statt-angst",
+                    "caption": "Bericht: Demo \"Freiheit statt Angst\""
+                }
+            },
+            {
+                "startDate": "2013,9,7",
+                "endDate": "2013,9,7",
+                "headline": "Freiheit statt Angst 2013",
+                "text": "\"Durch PRISM sind die Ausmaße des Überwachungswahns sehr deutlich geworden. Auch bisher eher uninteressierte Bürger wurden auf das Thema aufmerksam. Unsere Bundesregierung aber eiert nur herum und versucht, den Skandal auszusitzen und sogar zu vertuschen. Das ist unerträglich,\" sagt Benjamin Meyer, stellvertretender Vorsitzender der Berliner Piraten",
+                "asset": {
+                    "media": "http://berlin.piratenpartei.de/2013/09/05/freiheit-statt-angst-2013",
+                    "credit": "http://berlin.piratenpartei.de/2013/09/05/freiheit-statt-angst-2013",
+                    "caption": "Freiheit statt Angst 2013"
+                }
+            },
+            {
+                "startDate": "2013,9,10",
+                "endDate": "2013,9,10",
+                "headline": "Piraten fordern Sonderplenum zu Prism und Tempora",
+                "text": "Der Landtag NRW soll sich klar und deutlich gegen das mutmaßliche Ausspähen, Sammeln und Speichern von Daten über die Bürger im Land NRW positionieren. Außerdem soll sich die Landesregierung im Bundesrat für eine restlose Aufklärung der amerikanischen und britischen Spionage-Verbrechen gegen die Menschen in NRW einsetzen. Um dies zu erreichen, fordert die Piratenfraktion im Landtag NRW eine Plenar-Sondersitzung, die noch in der kommenden Woche stattfinden soll.",
+                "asset": {
+                    "media": "http://www.piratenfraktion-nrw.de/2013/09/piraten-fordern-sonderplenum-zu-prism-und-tempora",
+                    "credit": "http://www.piratenfraktion-nrw.de/2013/09/piraten-fordern-sonderplenum-zu-prism-und-tempora",
+                    "caption": "Piraten fordern Sonderplenum zu Prism und Tempora"
+                }
+            },
+            {
+                "startDate": "2013,9,11",
+                "endDate": "2013,9,11",
+                "headline": "Millionenfache Standortabfragen in NRW",
+                "text": "Bürger werden nicht nur von Prism & Co. ausgespäht: Mehr als zehn Mal jeden Tag checkt die Polizei NRW, welche Handys sich in einer vorgegebenen Region aufhalten: Auf eine Kleine Anfrage der Piratenfraktion im Landtag NRW gab die Landesregierung zu, dass in den vergangenen drei Jahren 10.330 Funkzellenabfragen zur Feststellung von Verbindungs- und Standortdaten von Handys durchgeführt wurden",
+                "asset": {
+                    "media": "http://www.piratenfraktion-nrw.de/2013/09/millionenfache-standortabfragen-in-nrw",
+                    "credit": "http://www.piratenfraktion-nrw.de/2013/09/millionenfache-standortabfragen-in-nrw",
+                    "caption": "Millionenfache Standortabfragen in NRW"
+                }
+            },
+            {
+                "startDate": "2013,9,12",
+                "endDate": "2013,9,12",
+                "headline": "Prism/Tempora: Parteitaktisches Kalkül verhindert sachliche Entscheidung",
+                "text": "Die heutige Sitzung des Innenausschusses im Landtag NRW war eine Farce, die ihres Gleichen sucht: Auf Antrag von SPD und Grüne wurde die Debatte über den Piraten-Antrag \"Achtung! YES, WE SCAN. Bürger in NRW vor PRISM und anderen Überwachungsprogrammen schützen!\" (Drucksache 16/3249) zwar um zwei Monate vorgezogen, als aber der Innenausschuss über diesen Antrag abstimmen sollte, wurde genau dies von der rot-grünen Mehrheit verhindert.",
+                "asset": {
+                    "media": "http://www.piratenfraktion-nrw.de/2013/09/prismtempora-parteitaktisches-kalkul-verhindert-sachliche-entscheidung",
+                    "credit": "http://www.piratenfraktion-nrw.de/2013/09/prismtempora-parteitaktisches-kalkul-verhindert-sachliche-entscheidung",
+                    "caption": "Prism/Tempora: Parteitaktisches Kalkül verhindert sachliche Entscheidung"
+                }
+            },
+            {
+                "startDate": "2013,9,13",
+                "endDate": "2013,9,13",
+                "headline": "100 Tage Prism & Co. – Was ist bislang passiert?",
+                "text": "Nichts.",
+                "asset": {
+                    "media": "www.piratenfraktion-nrw.de/2013/09/100-tage-prism-co-was-ist-bislang-passiert/",
+                    "credit": "www.piratenfraktion-nrw.de/2013/09/100-tage-prism-co-was-ist-bislang-passiert/",
+                    "caption": "100 Tage Prism & Co. – Was ist bislang passiert?"
+                }
+            }
+        ]
+    }
 }
